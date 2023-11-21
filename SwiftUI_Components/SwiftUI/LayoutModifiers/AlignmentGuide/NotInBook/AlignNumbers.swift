@@ -1,4 +1,4 @@
-//  Copyright © 2021 Mark Moeykens. All rights reserved. | @BigMtnStudio
+
 /*
  Note: The problem here is that we can't use more than one alignment guide with a VStack/HStack.
  This problem was solved using Preferences in OtherModifiers > Preference > Preference_WidestTextView.swift

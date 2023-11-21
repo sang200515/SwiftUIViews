@@ -1,4 +1,4 @@
-//  Copyright © 2021 Mark Moeykens. All rights reserved. | @BigMtnStudio
+
 
 // Not quite sure where I was going with this. Something that was said in a WWDC video?
 

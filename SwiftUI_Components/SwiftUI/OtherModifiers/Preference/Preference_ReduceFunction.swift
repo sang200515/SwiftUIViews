@@ -1,4 +1,4 @@
-//  Copyright © 2021 Mark Moeykens. All rights reserved. | @BigMtnStudio
+
 
 import SwiftUI
 

@@ -60,9 +60,7 @@ private struct List_ListRowBackground : View {
     }
 }
 
-struct List_ListRowBackground_Previews : PreviewProvider {
-    static var previews: some View {
-        List_ListRowBackground()
-            .preferredColorScheme(.dark)
-    }
+#Preview {
+    List_ListRowBackground()
+        .preferredColorScheme(.dark)
 }

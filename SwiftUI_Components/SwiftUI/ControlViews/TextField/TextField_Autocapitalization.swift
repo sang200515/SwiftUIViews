@@ -1,4 +1,4 @@
-//  Copyright © 2021 Mark Moeykens. All rights reserved. | @BigMtnStudio
+
 
 import SwiftUI
 /* This was introduced in iOS 15. Prior to this, use .autocapitalization. */
