@@ -26,7 +26,7 @@ private struct Form_HeadersAndFooters : View {
     }
 }
 
-struct SectionTextAndImage: View {
+private struct SectionTextAndImage: View {
     var name: String
     var image: String
     var body: some View {
@@ -40,8 +40,6 @@ struct SectionTextAndImage: View {
     }
 }
 
-struct Form_HeadersAndFooters_Previews : PreviewProvider {
-    static var previews: some View {
-        Form_HeadersAndFooters()
-    }
+#Preview {
+    Form_HeadersAndFooters()
 }

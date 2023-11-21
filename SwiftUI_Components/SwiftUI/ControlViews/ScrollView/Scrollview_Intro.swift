@@ -25,8 +25,7 @@ private struct Scrollview_Intro : View {
     }
 }
 
-struct Scrollview_Intro_Previews : PreviewProvider {
-    static var previews: some View {
-        Scrollview_Intro()
-    }
+
+#Preview {
+    Scrollview_Intro()
 }

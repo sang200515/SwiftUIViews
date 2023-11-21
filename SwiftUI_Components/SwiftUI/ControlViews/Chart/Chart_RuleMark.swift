@@ -3,7 +3,7 @@
 import SwiftUI
 import Charts
 
-struct Schedule: Identifiable {
+ struct Schedule: Identifiable {
     let id = UUID()
     var employee = ""
     var hourStart = 0
@@ -19,7 +19,7 @@ struct Schedule: Identifiable {
     }
 }
 
-struct Chart_RuleMark: View {
+private struct Chart_RuleMark: View {
     @State private var plots = Schedule.fetchData()
     
     var body: some View {

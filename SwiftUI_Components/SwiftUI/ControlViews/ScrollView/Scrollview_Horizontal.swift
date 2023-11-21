@@ -24,8 +24,6 @@ private struct Scrollview_Horizontal : View {
     }
 }
 
-struct Scrollview_Horizontal_Previews : PreviewProvider {
-    static var previews: some View {
-        Scrollview_Horizontal()
-    }
+#Preview {
+    Scrollview_Horizontal()
 }

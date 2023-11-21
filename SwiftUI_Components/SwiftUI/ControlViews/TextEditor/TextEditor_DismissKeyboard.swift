@@ -13,7 +13,7 @@ extension View {
 }
 #endif
 
-struct TextEditor_DismissKeyboard: View {
+private struct TextEditor_DismissKeyboard: View {
     @State private var text = ""
     
     var body: some View {

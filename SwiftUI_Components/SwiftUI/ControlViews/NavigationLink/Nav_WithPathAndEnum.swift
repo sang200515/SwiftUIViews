@@ -8,7 +8,7 @@ enum Screens {
     case screen3
 }
 
-struct Nav_WithPathAndEnum: View {
+private struct Nav_WithPathAndEnum: View {
     @State private var navPath: [Screens] = []
 
     var body: some View {
@@ -33,7 +33,7 @@ struct Nav_WithPathAndEnum: View {
     }
 }
 
-class NavigationController {
+private class NavigationController {
     @ViewBuilder
     static func navigate(to screen: Screens) -> some View {
         switch screen {

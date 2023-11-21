@@ -32,9 +32,6 @@ private struct TabView_Customizations: View {
         .indexViewStyle(.page(backgroundDisplayMode: .always))
     }
 }
-
-struct TabView_Customizations_Previews: PreviewProvider {
-    static var previews: some View {
-        TabView_Customizations()
-    }
+#Preview {
+    TabView_Customizations()
 }

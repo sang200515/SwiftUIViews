@@ -27,7 +27,7 @@ private struct Searchable_DismissSearch: View {
     }
 }
 
-struct SearchableSubview: View {
+private struct SearchableSubview: View {
     @Binding var destination: String
     @Environment(\.isSearching) var isSearching
     @Environment(\.dismissSearch) var dismissSearch

@@ -30,8 +30,7 @@ private struct Form_Intro : View {
     }
 }
 
-struct Form_Intro_Previews : PreviewProvider {
-    static var previews: some View {
-        Form_Intro()
-    }
+
+#Preview {
+    Form_Intro()
 }

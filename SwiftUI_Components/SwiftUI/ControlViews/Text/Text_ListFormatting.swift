@@ -12,7 +12,7 @@ private struct Text_ListFormatting: View {
                                                      familyName: "Liber"),
                                 PersonNameComponents(givenName: "Chris",
                                                      familyName: "Durts")]
-
+    
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("Text",
@@ -22,7 +22,7 @@ private struct Text_ListFormatting: View {
             
             Text(people, format: .list(type: .and))
             Text(people, format: .list(type: .or))
-
+            
             Text(people, format: .list(type: .and, width: .narrow))
             Text(people, format: .list(type: .and, width: .short))
             Text(people, format: .list(type: .and, width: .standard))

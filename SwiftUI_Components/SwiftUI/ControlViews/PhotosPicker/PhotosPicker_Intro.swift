@@ -3,7 +3,7 @@
 import SwiftUI
 import PhotosUI /* Got to import */
 
-struct PhotosPicker_Intro: View {
+private  struct PhotosPicker_Intro: View {
     @State private var photo: PhotosPickerItem?
     @State private var selectedImage: Image?
     

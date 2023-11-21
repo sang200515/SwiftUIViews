@@ -3,14 +3,14 @@
 import SwiftUI
 import Charts
 
-struct Performance: Identifiable {
+private struct Performance: Identifiable {
     let employee: String
     let taskData: [PlotInfo]
     
     var id: String { employee }
 }
 
-struct Chart_MultipleSeriesOfData: View {
+private struct Chart_MultipleSeriesOfData: View {
     @State private var performanceReport = [
         Performance(employee: "Rod", taskData: [
             PlotInfo(x: "Quarter 1", y: 75),

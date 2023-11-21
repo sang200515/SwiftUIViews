@@ -37,13 +37,18 @@ private struct Translation: View {
             HStack {
                 Spacer()
                 Button(action: {
-                    self.applyEffect = true
+                    withAnimation {
+                        self.applyEffect = true
+                    }
+                   
                 }) {
                     Text("Apply Effect")
                 }
                 Spacer()
                 Button(action: {
-                    self.applyEffect = false
+                    withAnimation {
+                        self.applyEffect = false
+                    }
                 }) {
                     Text("Remove Effect")
                 }

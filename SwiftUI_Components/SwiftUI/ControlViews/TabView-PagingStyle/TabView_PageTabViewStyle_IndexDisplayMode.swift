@@ -28,8 +28,6 @@ private struct TabView_PageTabViewStyle_IndexDisplayMode: View {
     }
 }
 
-struct TabView_PageTabViewStyle_IndexDisplayMode_Previews: PreviewProvider {
-    static var previews: some View {
-        TabView_PageTabViewStyle_IndexDisplayMode()
-    }
+#Preview {
+    TabView_PageTabViewStyle_IndexDisplayMode()
 }

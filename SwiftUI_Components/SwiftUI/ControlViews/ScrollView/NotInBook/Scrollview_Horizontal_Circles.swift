@@ -18,8 +18,6 @@ private struct Scrollview_Horizontal_Circles: View {
     }
 }
 
-struct Scrollview_Horizontal_Circles_Previews: PreviewProvider {
-    static var previews: some View {
-        Scrollview_Horizontal_Circles()
-    }
+#Preview {
+    Scrollview_Horizontal_Circles()
 }

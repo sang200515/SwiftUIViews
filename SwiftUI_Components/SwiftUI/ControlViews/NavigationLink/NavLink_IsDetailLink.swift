@@ -23,7 +23,7 @@ private struct NavLink_IsDetailLink: View {
     }
 }
 
-struct NavigationDestinationView: View {
+private struct NavigationDestinationView: View {
     var body: some View {
         VStack(spacing: 20) {
             Text("Navigation Destination")

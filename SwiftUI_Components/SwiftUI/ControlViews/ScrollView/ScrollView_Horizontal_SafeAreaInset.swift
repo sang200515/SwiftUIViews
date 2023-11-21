@@ -38,8 +38,6 @@ private struct ScrollView_Horizontal_SafeAreaInset: View {
     }
 }
 
-struct ScrollView_Horizontal_SafeAreaInset_Previews: PreviewProvider {
-    static var previews: some View {
-        ScrollView_Horizontal_SafeAreaInset()
-    }
+#Preview {
+    ScrollView_Horizontal_SafeAreaInset()
 }

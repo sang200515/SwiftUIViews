@@ -14,7 +14,7 @@ private struct Navigation_CustomBackButton: View {
     }
 }
 // Second Screen
-struct Navigation_CustomBackButton_Detail: View {
+private struct Navigation_CustomBackButton_Detail: View {
     @Environment(\.dismiss) var dismiss
     
     var body: some View {

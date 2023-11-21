@@ -7,12 +7,12 @@ private struct ProductForNav: Hashable {
     var price = 0.0
 }
 
-struct CreditCardForNav: Hashable {
+private struct CreditCardForNav: Hashable {
     var number = ""
     var expiration = ""
 }
 
-struct Nav_WithNavigationPath: View {
+private  struct Nav_WithNavigationPath: View {
     @State private var product = ProductForNav(name: "Mouse", price: 24.99)
     @State private var cc = CreditCardForNav(number: "5111 1111 1111 1111", expiration: "02/28")
     @State private var navPath = NavigationPath()

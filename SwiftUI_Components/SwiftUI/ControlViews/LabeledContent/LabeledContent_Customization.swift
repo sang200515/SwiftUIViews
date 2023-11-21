@@ -4,7 +4,7 @@ import SwiftUI
 
 /* Use different initializers depending on what part of the LabeledContent you want to customize. */
 
-struct LabeledContent_Customization: View {
+private struct LabeledContent_Customization: View {
     var body: some View {
         VStack(spacing: 50.0) {
             LabeledContent("Label") {

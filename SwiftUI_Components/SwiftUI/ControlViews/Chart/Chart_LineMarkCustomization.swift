@@ -3,7 +3,7 @@
 import SwiftUI
 import Charts
 
-struct Chart_LineMarkCustomization: View {
+private struct Chart_LineMarkCustomization: View {
     @State private var data = GroupInfo.fetchData()
     @State private var iMethod = InterpolationMethod.linear
     

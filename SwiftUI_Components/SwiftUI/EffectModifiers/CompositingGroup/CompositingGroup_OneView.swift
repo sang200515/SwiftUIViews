@@ -20,7 +20,7 @@ private struct CompositingGroup_OneView: View {
     }
 }
 
-struct TwoCircles: View {
+private struct TwoCircles: View {
     var body: some View {
         HStack(spacing: -60.0) {
             Circle()

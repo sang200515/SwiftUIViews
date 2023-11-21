@@ -27,8 +27,6 @@ private struct Scrollview_Disabled: View {
     }
 }
 
-struct Scrollview_Disabled_Previews: PreviewProvider {
-    static var previews: some View {
-        Scrollview_Disabled()
-    }
+#Preview {
+    Scrollview_Disabled()
 }

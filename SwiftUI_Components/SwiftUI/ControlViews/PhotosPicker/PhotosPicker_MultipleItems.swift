@@ -3,7 +3,7 @@
 import SwiftUI
 import PhotosUI
 
-struct PhotosPicker_MultipleItems: View {
+private  struct PhotosPicker_MultipleItems: View {
     @State private var photos: [PhotosPickerItem] = []
     @State private var selectedImages: [Image] = []
     

@@ -4,7 +4,7 @@
 import SwiftUI
 
 // First Screen
-struct Navigation_BackButtonHidden: View {
+private struct Navigation_BackButtonHidden: View {
     var body: some View {
         NavigationStack {
             NavigationLink("Go To Detail", destination: BackButtonHiddenDetail())
@@ -15,7 +15,7 @@ struct Navigation_BackButtonHidden: View {
 }
 
 // Second Screen
-struct BackButtonHiddenDetail: View {
+private struct BackButtonHiddenDetail: View {
     @Environment(\.dismiss) var dismiss
     
     var body: some View {

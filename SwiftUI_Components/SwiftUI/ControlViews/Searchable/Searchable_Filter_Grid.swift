@@ -66,7 +66,7 @@ struct Searchable_Filter_Grid_Previews: PreviewProvider {
     }
 }
 
-struct Developer: Identifiable {
+private struct Developer: Identifiable {
     let id = UUID()
     var name = ""
     var image = ""

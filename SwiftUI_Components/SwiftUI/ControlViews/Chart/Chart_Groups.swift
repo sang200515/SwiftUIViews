@@ -23,7 +23,7 @@ struct GroupInfo: Identifiable {
     }
 }
 
-struct Chart_Groups: View {
+private  struct Chart_Groups: View {
     @State private var data = GroupInfo.fetchData()
     
     var body: some View {

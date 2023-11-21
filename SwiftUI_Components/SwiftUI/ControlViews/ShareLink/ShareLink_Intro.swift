@@ -11,12 +11,12 @@ private struct ShareLink_Intro: View {
                 ShareLink(item: "Hello and welcome!") {
                     Label("Share Text", systemImage: "square.and.arrow.up.circle")
                 }
-ShareLink("Share Text", item: "Hello and welcome!",
-          subject: Text("Subject"),
-          message: Text("This is the message"),
-          preview: SharePreview(Text("Share Preview"),
-                                image: Image(systemName: "doc.richtext"),
-                                icon: Image(systemName: "doc.richtext")))
+                ShareLink("Share Text", item: "Hello and welcome!",
+                          subject: Text("Subject"),
+                          message: Text("This is the message"),
+                          preview: SharePreview(Text("Share Preview"),
+                                                image: Image(systemName: "doc.richtext"),
+                                                icon: Image(systemName: "doc.richtext")))
             }
             
             Section("URL") {

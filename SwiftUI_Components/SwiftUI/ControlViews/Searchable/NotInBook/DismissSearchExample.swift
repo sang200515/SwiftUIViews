@@ -23,7 +23,7 @@ private struct DismissSearchExample: View {
     }
 }
 
-struct DismissSearchExampleDetail: View {
+private struct DismissSearchExampleDetail: View {
     @Environment(\.isSearching) var isSearching
     @Environment(\.dismissSearch) var dismissSearch
     

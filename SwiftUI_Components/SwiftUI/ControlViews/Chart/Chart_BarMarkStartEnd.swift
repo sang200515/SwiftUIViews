@@ -3,7 +3,7 @@
 import SwiftUI
 import Charts
 
-struct Chart_BarMarkStartEnd: View {
+private struct Chart_BarMarkStartEnd: View {
     @State private var plots = Schedule.fetchData()
     
     var body: some View {
