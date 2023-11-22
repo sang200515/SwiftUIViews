@@ -39,6 +39,11 @@ private struct Spring_Response: View {
                 .foregroundColor(Color("Gold")).padding()
             }
             .font(.title)
+            .onAppear {
+                Timer.scheduledTimer(withTimeInterval: 2, repeats: true) { _ in
+                    show.toggle()
+                }
+            }
         }
     }
 }

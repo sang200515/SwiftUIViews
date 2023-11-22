@@ -22,10 +22,15 @@ private struct AnimatableData_BlobExample: View {
                            value: offset)
         }
         .font(.title)
+        .onAppear {
+            Timer.scheduledTimer(withTimeInterval: 2, repeats: true) { _ in
+                offset = offset == 60 ? 0 : 60
+            }
+        }
     }
 }
 
-struct CurvedShape2: Shape {
+private struct CurvedShape2: Shape {
     var offset: CGFloat = 0.0
     
     var animatableData: CGFloat {

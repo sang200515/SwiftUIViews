@@ -23,13 +23,20 @@ private struct AnimatableModifiers_Intro: View {
             
             Text("Is Animatable")
                 .modifier(FontSize(size: largerFont ? 50 : 30))
-            
+                .onAppear {
+                    Timer.scheduledTimer(withTimeInterval: 2, repeats: true) { _ in
+                        withAnimation(.spring(dampingFraction: 0.5)) {
+                            largerFont.toggle()
+                        }
+                    }
+                }
             Spacer()
+              
         }
     }
 }
 
-struct FontSize: Animatable, ViewModifier {
+private struct FontSize: Animatable, ViewModifier {
     var size: Double
     
     var animatableData: Double {

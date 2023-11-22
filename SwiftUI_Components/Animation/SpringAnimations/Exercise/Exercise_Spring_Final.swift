@@ -49,7 +49,9 @@ private struct Exercise_Spring_Final: View {
                 }
             }
             .onAppear {
-                start.toggle()
+                Timer.scheduledTimer(withTimeInterval: 2, repeats: true) { _ in
+                    start.toggle()
+                }
             }
         }
     }

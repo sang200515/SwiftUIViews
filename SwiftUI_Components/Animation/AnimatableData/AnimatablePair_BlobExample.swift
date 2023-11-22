@@ -26,7 +26,7 @@ private struct AnimatablePair_BlobExample: View {
     }
 }
 
-struct BlobShape2: Shape {
+private struct BlobShape2: Shape {
     var xOffset: CGFloat = 0.0
     var yOffset: CGFloat = 0.0
     

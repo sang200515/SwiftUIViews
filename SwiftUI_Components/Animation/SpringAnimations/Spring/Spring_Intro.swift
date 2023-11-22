@@ -30,6 +30,11 @@ private struct Spring_Intro: View {
                         .foregroundColor(Color("Gold"))
                         .font(.largeTitle)
                 }).tint(Color("Accent"))
+                    .onAppear {
+                        Timer.scheduledTimer(withTimeInterval: 2, repeats: true) { _ in
+                            show.toggle()
+                        }
+                    }
             }
         }
     }

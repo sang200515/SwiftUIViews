@@ -48,6 +48,11 @@ private struct Spring_Options_Speed: View {
             }
             .font(.title)
             .foregroundColor(Color("Gold"))
+            .onAppear {
+                Timer.scheduledTimer(withTimeInterval: 2, repeats: true) { _ in
+                    change.toggle()
+                }
+            }
         }
     }
 }

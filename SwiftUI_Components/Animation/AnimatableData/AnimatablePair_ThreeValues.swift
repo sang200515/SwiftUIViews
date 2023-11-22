@@ -28,7 +28,7 @@ private struct AnimatablePair_ThreeValues: View {
     }
 }
 
-struct BlobShapeWithInset: Shape {
+private struct BlobShapeWithInset: Shape {
     var xOffset: CGFloat = 0.0
     var yOffset: CGFloat = 0.0
     var verticalInset: CGFloat = 0.0

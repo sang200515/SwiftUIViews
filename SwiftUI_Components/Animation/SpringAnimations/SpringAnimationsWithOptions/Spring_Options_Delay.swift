@@ -53,6 +53,11 @@ private struct Spring_Options_Delay: View {
                 }
                 Spacer()
             }
+            .onAppear {
+                Timer.scheduledTimer(withTimeInterval: 2, repeats: true) { _ in
+                    show.toggle()
+                }
+            }
         }
     }
 }

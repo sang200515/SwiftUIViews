@@ -55,6 +55,9 @@ private struct Spring_Options_Repeating: View {
             }
             .font(.title)
             .foregroundColor(Color("Gold"))
+            .onAppear {
+                change.toggle()
+            }
         }
     }
 }

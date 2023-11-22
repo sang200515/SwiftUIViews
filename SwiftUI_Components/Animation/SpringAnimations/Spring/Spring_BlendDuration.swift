@@ -43,6 +43,11 @@ private struct Spring_BlendDuration: View {
             .font(.title)
             .foregroundColor(Color("Gold"))
             .padding(.horizontal)
+            .onAppear {
+                Timer.scheduledTimer(withTimeInterval: 2, repeats: true) { _ in
+                    change.toggle()
+                }
+            }
         }
     }
 }

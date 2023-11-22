@@ -17,6 +17,11 @@ private struct AnimatableData_QuadCurveExample: View {
             }
         }
         .font(.title)
+        .onAppear {
+            Timer.scheduledTimer(withTimeInterval: 2, repeats: true) { _ in
+                presentingSheet.toggle()
+            }
+        }
         .sheet(isPresented: $presentingSheet) {
             // onDismiss - reset the curve
             curveOffset = -40.0
