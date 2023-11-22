@@ -948,6 +948,101 @@
 		9486C3452B0E4C5D003E651D /* RoundedCorner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3402B0E4C5D003E651D /* RoundedCorner.swift */; };
 		9486C3462B0E4C5D003E651D /* ColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3412B0E4C5D003E651D /* ColorExtension.swift */; };
 		9486C3472B0E4C5D003E651D /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3432B0E4C5D003E651D /* Data.swift */; };
+		9486C3BE2B0E4D51003E651D /* TimeLineView_Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3492B0E4D50003E651D /* TimeLineView_Intro.swift */; };
+		9486C3BF2B0E4D51003E651D /* TimeLineView_Animation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C34A2B0E4D50003E651D /* TimeLineView_Animation.swift */; };
+		9486C3C02B0E4D51003E651D /* Curve_CurveBelow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C34C2B0E4D50003E651D /* Curve_CurveBelow.swift */; };
+		9486C3C12B0E4D51003E651D /* Curve_CheckYourUnderstanding2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C34E2B0E4D50003E651D /* Curve_CheckYourUnderstanding2.swift */; };
+		9486C3C22B0E4D51003E651D /* Curve_ReadingCurves1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C34F2B0E4D50003E651D /* Curve_ReadingCurves1.swift */; };
+		9486C3C32B0E4D51003E651D /* Curve_TimingCurveModifier2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3502B0E4D50003E651D /* Curve_TimingCurveModifier2.swift */; };
+		9486C3C42B0E4D51003E651D /* Curve_CurveBelowThenAbove.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3512B0E4D50003E651D /* Curve_CurveBelowThenAbove.swift */; };
+		9486C3C52B0E4D51003E651D /* Curve_Final.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3532B0E4D50003E651D /* Curve_Final.swift */; };
+		9486C3C62B0E4D51003E651D /* Curve_OffsetTheViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3542B0E4D50003E651D /* Curve_OffsetTheViews.swift */; };
+		9486C3C72B0E4D51003E651D /* Curve_UpdatedWelcomeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3552B0E4D50003E651D /* Curve_UpdatedWelcomeScreen.swift */; };
+		9486C3C82B0E4D51003E651D /* Curve_AddAnimationToWelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3562B0E4D50003E651D /* Curve_AddAnimationToWelcomeView.swift */; };
+		9486C3C92B0E4D51003E651D /* Curve_MainScreenWithWelcomeViewAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3572B0E4D50003E651D /* Curve_MainScreenWithWelcomeViewAnimation.swift */; };
+		9486C3CA2B0E4D51003E651D /* Curve_Menus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3582B0E4D50003E651D /* Curve_Menus.swift */; };
+		9486C3CB2B0E4D51003E651D /* ButtonStyleThinOutline.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3592B0E4D50003E651D /* ButtonStyleThinOutline.swift */; };
+		9486C3CC2B0E4D51003E651D /* Curve_ExtractTitleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C35A2B0E4D50003E651D /* Curve_ExtractTitleView.swift */; };
+		9486C3CD2B0E4D51003E651D /* Curve_SetupTheBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C35B2B0E4D50003E651D /* Curve_SetupTheBackground.swift */; };
+		9486C3CE2B0E4D51003E651D /* Curve_PuttingItAllTogether.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C35C2B0E4D50003E651D /* Curve_PuttingItAllTogether.swift */; };
+		9486C3CF2B0E4D51003E651D /* Curve_ExtractWelcomeBackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C35D2B0E4D50003E651D /* Curve_ExtractWelcomeBackView.swift */; };
+		9486C3D02B0E4D51003E651D /* Curve_WelcomeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C35E2B0E4D50003E651D /* Curve_WelcomeScreen.swift */; };
+		9486C3D12B0E4D51003E651D /* Curve_TimingCurveModifier1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C35F2B0E4D50003E651D /* Curve_TimingCurveModifier1.swift */; };
+		9486C3D22B0E4D51003E651D /* Curve_ReadingCurves2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3602B0E4D50003E651D /* Curve_ReadingCurves2.swift */; };
+		9486C3D32B0E4D51003E651D /* Curve_CurveAbove.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3612B0E4D50003E651D /* Curve_CurveAbove.swift */; };
+		9486C3D42B0E4D51003E651D /* Curve_Challenge1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3632B0E4D50003E651D /* Curve_Challenge1.swift */; };
+		9486C3D52B0E4D51003E651D /* AnimatableData_Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3652B0E4D50003E651D /* AnimatableData_Intro.swift */; };
+		9486C3D62B0E4D51003E651D /* AnimatableData_QuadCurveExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3662B0E4D50003E651D /* AnimatableData_QuadCurveExample.swift */; };
+		9486C3D72B0E4D51003E651D /* AnimatableData_BlobExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3672B0E4D50003E651D /* AnimatableData_BlobExample.swift */; };
+		9486C3D82B0E4D51003E651D /* AnimatableModifiers_Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3682B0E4D50003E651D /* AnimatableModifiers_Intro.swift */; };
+		9486C3D92B0E4D51003E651D /* AnimatablePair_ThreeValues.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3692B0E4D50003E651D /* AnimatablePair_ThreeValues.swift */; };
+		9486C3DA2B0E4D51003E651D /* AnimatablePair_BlobExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C36A2B0E4D50003E651D /* AnimatablePair_BlobExample.swift */; };
+		9486C3DB2B0E4D51003E651D /* MGE_TwoScreens_Namespaces_Problem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C36D2B0E4D50003E651D /* MGE_TwoScreens_Namespaces_Problem.swift */; };
+		9486C3DC2B0E4D51003E651D /* MGE_TwoScreens_Namespaces_Solution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C36E2B0E4D50003E651D /* MGE_TwoScreens_Namespaces_Solution.swift */; };
+		9486C3DD2B0E4D51003E651D /* MGE_WithParentAndChildViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3702B0E4D50003E651D /* MGE_WithParentAndChildViews.swift */; };
+		9486C3DE2B0E4D51003E651D /* MGE_FullScreenCover.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3712B0E4D50003E651D /* MGE_FullScreenCover.swift */; };
+		9486C3DF2B0E4D51003E651D /* MGE_Sizing_Problem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3722B0E4D50003E651D /* MGE_Sizing_Problem.swift */; };
+		9486C3E02B0E4D51003E651D /* MGE_LikeTransitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3732B0E4D50003E651D /* MGE_LikeTransitions.swift */; };
+		9486C3E12B0E4D51003E651D /* MGE_TextLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3742B0E4D50003E651D /* MGE_TextLocation.swift */; };
+		9486C3E22B0E4D51003E651D /* MGE_View1_To_View2_Problem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3752B0E4D50003E651D /* MGE_View1_To_View2_Problem.swift */; };
+		9486C3E32B0E4D51003E651D /* MGE_ClipShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3762B0E4D50003E651D /* MGE_ClipShape.swift */; };
+		9486C3E42B0E4D51003E651D /* MGE_Example1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3772B0E4D50003E651D /* MGE_Example1.swift */; };
+		9486C3E52B0E4D51003E651D /* MGE_Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3782B0E4D50003E651D /* MGE_Intro.swift */; };
+		9486C3E62B0E4D51003E651D /* MGE_HidingShowingViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3792B0E4D50003E651D /* MGE_HidingShowingViews.swift */; };
+		9486C3E72B0E4D51003E651D /* MGE_Grid_DuplicateIds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C37A2B0E4D50003E651D /* MGE_Grid_DuplicateIds.swift */; };
+		9486C3E82B0E4D51003E651D /* MGE_BugReport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C37B2B0E4D50003E651D /* MGE_BugReport.swift */; };
+		9486C3E92B0E4D51003E651D /* MGE_Positioning_Solution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C37C2B0E4D50003E651D /* MGE_Positioning_Solution.swift */; };
+		9486C3EA2B0E4D51003E651D /* MGE_Positioning_Problem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C37D2B0E4D50003E651D /* MGE_Positioning_Problem.swift */; };
+		9486C3EB2B0E4D51003E651D /* MGE_Sizing_Solution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C37E2B0E4D51003E651D /* MGE_Sizing_Solution.swift */; };
+		9486C3EC2B0E4D51003E651D /* MGE_Source_DifferentIds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3802B0E4D51003E651D /* MGE_Source_DifferentIds.swift */; };
+		9486C3ED2B0E4D51003E651D /* MGE_MatchingJustPosition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3812B0E4D51003E651D /* MGE_MatchingJustPosition.swift */; };
+		9486C3EE2B0E4D51003E651D /* MGE_MatchingGeometries.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3822B0E4D51003E651D /* MGE_MatchingGeometries.swift */; };
+		9486C3EF2B0E4D51003E651D /* MGE_MatchingJustSize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3832B0E4D51003E651D /* MGE_MatchingJustSize.swift */; };
+		9486C3F02B0E4D51003E651D /* MGE_SettingTheSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3842B0E4D51003E651D /* MGE_SettingTheSource.swift */; };
+		9486C3F12B0E4D51003E651D /* MGE_TogglingIsSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3852B0E4D51003E651D /* MGE_TogglingIsSource.swift */; };
+		9486C3F22B0E4D51003E651D /* MGE_WhatCouldGoWrong_FrameSolution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3872B0E4D51003E651D /* MGE_WhatCouldGoWrong_FrameSolution.swift */; };
+		9486C3F32B0E4D51003E651D /* MGE_WhatCouldGoWrong_PositioningProblem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3882B0E4D51003E651D /* MGE_WhatCouldGoWrong_PositioningProblem.swift */; };
+		9486C3F42B0E4D51003E651D /* MGE_WhatCouldGoWrong_CornerRadiusSolution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3892B0E4D51003E651D /* MGE_WhatCouldGoWrong_CornerRadiusSolution.swift */; };
+		9486C3F52B0E4D51003E651D /* MGE_WhatCouldGoWrong_ClipShapeProblem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C38A2B0E4D51003E651D /* MGE_WhatCouldGoWrong_ClipShapeProblem.swift */; };
+		9486C3F62B0E4D51003E651D /* MGE_WhatCouldGoWrong_FrameProblem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C38B2B0E4D51003E651D /* MGE_WhatCouldGoWrong_FrameProblem.swift */; };
+		9486C3F72B0E4D51003E651D /* MGE_WhatCouldGoWrong_ClipShapeSolution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C38C2B0E4D51003E651D /* MGE_WhatCouldGoWrong_ClipShapeSolution.swift */; };
+		9486C3F82B0E4D51003E651D /* MGE_WhatCouldGoWrong_CornerRadiusProblem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C38D2B0E4D51003E651D /* MGE_WhatCouldGoWrong_CornerRadiusProblem.swift */; };
+		9486C3F92B0E4D51003E651D /* MGE_WhatCouldGoWrong_PositioningSolution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C38E2B0E4D51003E651D /* MGE_WhatCouldGoWrong_PositioningSolution.swift */; };
+		9486C3FA2B0E4D51003E651D /* MGE_HStack_Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3912B0E4D51003E651D /* MGE_HStack_Intro.swift */; };
+		9486C3FB2B0E4D51003E651D /* MGE_VStack_Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3932B0E4D51003E651D /* MGE_VStack_Intro.swift */; };
+		9486C3FC2B0E4D51003E651D /* MGE_Images_Solution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3952B0E4D51003E651D /* MGE_Images_Solution.swift */; };
+		9486C3FD2B0E4D51003E651D /* MGE_Button_Problem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3962B0E4D51003E651D /* MGE_Button_Problem.swift */; };
+		9486C3FE2B0E4D51003E651D /* MGE_Text_Solution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3972B0E4D51003E651D /* MGE_Text_Solution.swift */; };
+		9486C3FF2B0E4D51003E651D /* MGE_Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3982B0E4D51003E651D /* MGE_Images.swift */; };
+		9486C4002B0E4D51003E651D /* MGE_Text_Problem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3992B0E4D51003E651D /* MGE_Text_Problem.swift */; };
+		9486C4012B0E4D51003E651D /* MGE_Button_TextSolution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C39A2B0E4D51003E651D /* MGE_Button_TextSolution.swift */; };
+		9486C4022B0E4D51003E651D /* MGE_MultipleEffects_Solution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C39B2B0E4D51003E651D /* MGE_MultipleEffects_Solution.swift */; };
+		9486C4032B0E4D51003E651D /* MGE_MultipleEffects_Problems.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C39C2B0E4D51003E651D /* MGE_MultipleEffects_Problems.swift */; };
+		9486C4042B0E4D51003E651D /* MGE_Images_Problem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C39D2B0E4D51003E651D /* MGE_Images_Problem.swift */; };
+		9486C4052B0E4D51003E651D /* MGE_Button_Solution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C39E2B0E4D51003E651D /* MGE_Button_Solution.swift */; };
+		9486C4062B0E4D51003E651D /* MGE_ShowingTheDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3A02B0E4D51003E651D /* MGE_ShowingTheDetailView.swift */; };
+		9486C4072B0E4D51003E651D /* MGE_AddSectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3A12B0E4D51003E651D /* MGE_AddSectionView.swift */; };
+		9486C4082B0E4D51003E651D /* MGE_RowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3A22B0E4D51003E651D /* MGE_RowView.swift */; };
+		9486C4092B0E4D51003E651D /* MGE_AddParkNameToRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3A32B0E4D51003E651D /* MGE_AddParkNameToRow.swift */; };
+		9486C40A2B0E4D52003E651D /* MGE_ParksDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3A42B0E4D51003E651D /* MGE_ParksDetailView.swift */; };
+		9486C40B2B0E4D52003E651D /* MGE_GeometryEffectOnParkTitle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3A52B0E4D51003E651D /* MGE_GeometryEffectOnParkTitle.swift */; };
+		9486C40C2B0E4D52003E651D /* MGE_SetupTheLazyVStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3A62B0E4D51003E651D /* MGE_SetupTheLazyVStack.swift */; };
+		9486C40D2B0E4D52003E651D /* MGE_Final.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3A72B0E4D51003E651D /* MGE_Final.swift */; };
+		9486C40E2B0E4D52003E651D /* MGE_Shapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3A92B0E4D51003E651D /* MGE_Shapes.swift */; };
+		9486C40F2B0E4D52003E651D /* MGE_WhatItDoes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3AA2B0E4D51003E651D /* MGE_WhatItDoes.swift */; };
+		9486C4102B0E4D52003E651D /* MGE_OneAnimationModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3AC2B0E4D51003E651D /* MGE_OneAnimationModifier.swift */; };
+		9486C4112B0E4D52003E651D /* MGE_OneSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3AD2B0E4D51003E651D /* MGE_OneSource.swift */; };
+		9486C4122B0E4D52003E651D /* MGE_SettingSourceViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3AE2B0E4D51003E651D /* MGE_SettingSourceViews.swift */; };
+		9486C4132B0E4D52003E651D /* MGE_Challenge1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3B02B0E4D51003E651D /* MGE_Challenge1.swift */; };
+		9486C4142B0E4D52003E651D /* MGE_LazyVGrid_Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3B22B0E4D51003E651D /* MGE_LazyVGrid_Intro.swift */; };
+		9486C4152B0E4D52003E651D /* MGE_List_Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3B32B0E4D51003E651D /* MGE_List_Intro.swift */; };
+		9486C4162B0E4D52003E651D /* MGE_LazyVStack_Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3B42B0E4D51003E651D /* MGE_LazyVStack_Intro.swift */; };
+		9486C4172B0E4D52003E651D /* MGE_List_SeparateDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3B52B0E4D51003E651D /* MGE_List_SeparateDetailView.swift */; };
+		9486C4182B0E4D52003E651D /* VerticalScrolling_ScaleInOut.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3B82B0E4D51003E651D /* VerticalScrolling_ScaleInOut.swift */; };
+		9486C4192B0E4D52003E651D /* HorizontalScrolling_YAxis1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3BA2B0E4D51003E651D /* HorizontalScrolling_YAxis1.swift */; };
+		9486C41A2B0E4D52003E651D /* HorizontalScrolling_YAxisswift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3BB2B0E4D51003E651D /* HorizontalScrolling_YAxisswift.swift */; };
+		9486C41B2B0E4D52003E651D /* HorizontalScrolling_Twisting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3BC2B0E4D51003E651D /* HorizontalScrolling_Twisting.swift */; };
+		9486C41C2B0E4D52003E651D /* HorizontalScrolling_YAxis2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C3BD2B0E4D51003E651D /* HorizontalScrolling_YAxis2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -1893,6 +1988,101 @@
 		9486C3402B0E4C5D003E651D /* RoundedCorner.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoundedCorner.swift; sourceTree = "<group>"; };
 		9486C3412B0E4C5D003E651D /* ColorExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorExtension.swift; sourceTree = "<group>"; };
 		9486C3432B0E4C5D003E651D /* Data.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		9486C3492B0E4D50003E651D /* TimeLineView_Intro.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TimeLineView_Intro.swift; sourceTree = "<group>"; };
+		9486C34A2B0E4D50003E651D /* TimeLineView_Animation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TimeLineView_Animation.swift; sourceTree = "<group>"; };
+		9486C34C2B0E4D50003E651D /* Curve_CurveBelow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Curve_CurveBelow.swift; sourceTree = "<group>"; };
+		9486C34E2B0E4D50003E651D /* Curve_CheckYourUnderstanding2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Curve_CheckYourUnderstanding2.swift; sourceTree = "<group>"; };
+		9486C34F2B0E4D50003E651D /* Curve_ReadingCurves1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Curve_ReadingCurves1.swift; sourceTree = "<group>"; };
+		9486C3502B0E4D50003E651D /* Curve_TimingCurveModifier2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Curve_TimingCurveModifier2.swift; sourceTree = "<group>"; };
+		9486C3512B0E4D50003E651D /* Curve_CurveBelowThenAbove.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Curve_CurveBelowThenAbove.swift; sourceTree = "<group>"; };
+		9486C3532B0E4D50003E651D /* Curve_Final.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Curve_Final.swift; sourceTree = "<group>"; };
+		9486C3542B0E4D50003E651D /* Curve_OffsetTheViews.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Curve_OffsetTheViews.swift; sourceTree = "<group>"; };
+		9486C3552B0E4D50003E651D /* Curve_UpdatedWelcomeScreen.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Curve_UpdatedWelcomeScreen.swift; sourceTree = "<group>"; };
+		9486C3562B0E4D50003E651D /* Curve_AddAnimationToWelcomeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Curve_AddAnimationToWelcomeView.swift; sourceTree = "<group>"; };
+		9486C3572B0E4D50003E651D /* Curve_MainScreenWithWelcomeViewAnimation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Curve_MainScreenWithWelcomeViewAnimation.swift; sourceTree = "<group>"; };
+		9486C3582B0E4D50003E651D /* Curve_Menus.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Curve_Menus.swift; sourceTree = "<group>"; };
+		9486C3592B0E4D50003E651D /* ButtonStyleThinOutline.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ButtonStyleThinOutline.swift; sourceTree = "<group>"; };
+		9486C35A2B0E4D50003E651D /* Curve_ExtractTitleView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Curve_ExtractTitleView.swift; sourceTree = "<group>"; };
+		9486C35B2B0E4D50003E651D /* Curve_SetupTheBackground.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Curve_SetupTheBackground.swift; sourceTree = "<group>"; };
+		9486C35C2B0E4D50003E651D /* Curve_PuttingItAllTogether.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Curve_PuttingItAllTogether.swift; sourceTree = "<group>"; };
+		9486C35D2B0E4D50003E651D /* Curve_ExtractWelcomeBackView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Curve_ExtractWelcomeBackView.swift; sourceTree = "<group>"; };
+		9486C35E2B0E4D50003E651D /* Curve_WelcomeScreen.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Curve_WelcomeScreen.swift; sourceTree = "<group>"; };
+		9486C35F2B0E4D50003E651D /* Curve_TimingCurveModifier1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Curve_TimingCurveModifier1.swift; sourceTree = "<group>"; };
+		9486C3602B0E4D50003E651D /* Curve_ReadingCurves2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Curve_ReadingCurves2.swift; sourceTree = "<group>"; };
+		9486C3612B0E4D50003E651D /* Curve_CurveAbove.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Curve_CurveAbove.swift; sourceTree = "<group>"; };
+		9486C3632B0E4D50003E651D /* Curve_Challenge1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Curve_Challenge1.swift; sourceTree = "<group>"; };
+		9486C3652B0E4D50003E651D /* AnimatableData_Intro.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnimatableData_Intro.swift; sourceTree = "<group>"; };
+		9486C3662B0E4D50003E651D /* AnimatableData_QuadCurveExample.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnimatableData_QuadCurveExample.swift; sourceTree = "<group>"; };
+		9486C3672B0E4D50003E651D /* AnimatableData_BlobExample.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnimatableData_BlobExample.swift; sourceTree = "<group>"; };
+		9486C3682B0E4D50003E651D /* AnimatableModifiers_Intro.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnimatableModifiers_Intro.swift; sourceTree = "<group>"; };
+		9486C3692B0E4D50003E651D /* AnimatablePair_ThreeValues.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnimatablePair_ThreeValues.swift; sourceTree = "<group>"; };
+		9486C36A2B0E4D50003E651D /* AnimatablePair_BlobExample.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnimatablePair_BlobExample.swift; sourceTree = "<group>"; };
+		9486C36D2B0E4D50003E651D /* MGE_TwoScreens_Namespaces_Problem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_TwoScreens_Namespaces_Problem.swift; sourceTree = "<group>"; };
+		9486C36E2B0E4D50003E651D /* MGE_TwoScreens_Namespaces_Solution.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_TwoScreens_Namespaces_Solution.swift; sourceTree = "<group>"; };
+		9486C3702B0E4D50003E651D /* MGE_WithParentAndChildViews.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_WithParentAndChildViews.swift; sourceTree = "<group>"; };
+		9486C3712B0E4D50003E651D /* MGE_FullScreenCover.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_FullScreenCover.swift; sourceTree = "<group>"; };
+		9486C3722B0E4D50003E651D /* MGE_Sizing_Problem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_Sizing_Problem.swift; sourceTree = "<group>"; };
+		9486C3732B0E4D50003E651D /* MGE_LikeTransitions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_LikeTransitions.swift; sourceTree = "<group>"; };
+		9486C3742B0E4D50003E651D /* MGE_TextLocation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_TextLocation.swift; sourceTree = "<group>"; };
+		9486C3752B0E4D50003E651D /* MGE_View1_To_View2_Problem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_View1_To_View2_Problem.swift; sourceTree = "<group>"; };
+		9486C3762B0E4D50003E651D /* MGE_ClipShape.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_ClipShape.swift; sourceTree = "<group>"; };
+		9486C3772B0E4D50003E651D /* MGE_Example1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_Example1.swift; sourceTree = "<group>"; };
+		9486C3782B0E4D50003E651D /* MGE_Intro.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_Intro.swift; sourceTree = "<group>"; };
+		9486C3792B0E4D50003E651D /* MGE_HidingShowingViews.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_HidingShowingViews.swift; sourceTree = "<group>"; };
+		9486C37A2B0E4D50003E651D /* MGE_Grid_DuplicateIds.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_Grid_DuplicateIds.swift; sourceTree = "<group>"; };
+		9486C37B2B0E4D50003E651D /* MGE_BugReport.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_BugReport.swift; sourceTree = "<group>"; };
+		9486C37C2B0E4D50003E651D /* MGE_Positioning_Solution.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_Positioning_Solution.swift; sourceTree = "<group>"; };
+		9486C37D2B0E4D50003E651D /* MGE_Positioning_Problem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_Positioning_Problem.swift; sourceTree = "<group>"; };
+		9486C37E2B0E4D51003E651D /* MGE_Sizing_Solution.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_Sizing_Solution.swift; sourceTree = "<group>"; };
+		9486C3802B0E4D51003E651D /* MGE_Source_DifferentIds.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_Source_DifferentIds.swift; sourceTree = "<group>"; };
+		9486C3812B0E4D51003E651D /* MGE_MatchingJustPosition.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_MatchingJustPosition.swift; sourceTree = "<group>"; };
+		9486C3822B0E4D51003E651D /* MGE_MatchingGeometries.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_MatchingGeometries.swift; sourceTree = "<group>"; };
+		9486C3832B0E4D51003E651D /* MGE_MatchingJustSize.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_MatchingJustSize.swift; sourceTree = "<group>"; };
+		9486C3842B0E4D51003E651D /* MGE_SettingTheSource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_SettingTheSource.swift; sourceTree = "<group>"; };
+		9486C3852B0E4D51003E651D /* MGE_TogglingIsSource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_TogglingIsSource.swift; sourceTree = "<group>"; };
+		9486C3872B0E4D51003E651D /* MGE_WhatCouldGoWrong_FrameSolution.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_WhatCouldGoWrong_FrameSolution.swift; sourceTree = "<group>"; };
+		9486C3882B0E4D51003E651D /* MGE_WhatCouldGoWrong_PositioningProblem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_WhatCouldGoWrong_PositioningProblem.swift; sourceTree = "<group>"; };
+		9486C3892B0E4D51003E651D /* MGE_WhatCouldGoWrong_CornerRadiusSolution.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_WhatCouldGoWrong_CornerRadiusSolution.swift; sourceTree = "<group>"; };
+		9486C38A2B0E4D51003E651D /* MGE_WhatCouldGoWrong_ClipShapeProblem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_WhatCouldGoWrong_ClipShapeProblem.swift; sourceTree = "<group>"; };
+		9486C38B2B0E4D51003E651D /* MGE_WhatCouldGoWrong_FrameProblem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_WhatCouldGoWrong_FrameProblem.swift; sourceTree = "<group>"; };
+		9486C38C2B0E4D51003E651D /* MGE_WhatCouldGoWrong_ClipShapeSolution.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_WhatCouldGoWrong_ClipShapeSolution.swift; sourceTree = "<group>"; };
+		9486C38D2B0E4D51003E651D /* MGE_WhatCouldGoWrong_CornerRadiusProblem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_WhatCouldGoWrong_CornerRadiusProblem.swift; sourceTree = "<group>"; };
+		9486C38E2B0E4D51003E651D /* MGE_WhatCouldGoWrong_PositioningSolution.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_WhatCouldGoWrong_PositioningSolution.swift; sourceTree = "<group>"; };
+		9486C3912B0E4D51003E651D /* MGE_HStack_Intro.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_HStack_Intro.swift; sourceTree = "<group>"; };
+		9486C3932B0E4D51003E651D /* MGE_VStack_Intro.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_VStack_Intro.swift; sourceTree = "<group>"; };
+		9486C3952B0E4D51003E651D /* MGE_Images_Solution.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_Images_Solution.swift; sourceTree = "<group>"; };
+		9486C3962B0E4D51003E651D /* MGE_Button_Problem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_Button_Problem.swift; sourceTree = "<group>"; };
+		9486C3972B0E4D51003E651D /* MGE_Text_Solution.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_Text_Solution.swift; sourceTree = "<group>"; };
+		9486C3982B0E4D51003E651D /* MGE_Images.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_Images.swift; sourceTree = "<group>"; };
+		9486C3992B0E4D51003E651D /* MGE_Text_Problem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_Text_Problem.swift; sourceTree = "<group>"; };
+		9486C39A2B0E4D51003E651D /* MGE_Button_TextSolution.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_Button_TextSolution.swift; sourceTree = "<group>"; };
+		9486C39B2B0E4D51003E651D /* MGE_MultipleEffects_Solution.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_MultipleEffects_Solution.swift; sourceTree = "<group>"; };
+		9486C39C2B0E4D51003E651D /* MGE_MultipleEffects_Problems.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_MultipleEffects_Problems.swift; sourceTree = "<group>"; };
+		9486C39D2B0E4D51003E651D /* MGE_Images_Problem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_Images_Problem.swift; sourceTree = "<group>"; };
+		9486C39E2B0E4D51003E651D /* MGE_Button_Solution.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_Button_Solution.swift; sourceTree = "<group>"; };
+		9486C3A02B0E4D51003E651D /* MGE_ShowingTheDetailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_ShowingTheDetailView.swift; sourceTree = "<group>"; };
+		9486C3A12B0E4D51003E651D /* MGE_AddSectionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_AddSectionView.swift; sourceTree = "<group>"; };
+		9486C3A22B0E4D51003E651D /* MGE_RowView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_RowView.swift; sourceTree = "<group>"; };
+		9486C3A32B0E4D51003E651D /* MGE_AddParkNameToRow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_AddParkNameToRow.swift; sourceTree = "<group>"; };
+		9486C3A42B0E4D51003E651D /* MGE_ParksDetailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_ParksDetailView.swift; sourceTree = "<group>"; };
+		9486C3A52B0E4D51003E651D /* MGE_GeometryEffectOnParkTitle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_GeometryEffectOnParkTitle.swift; sourceTree = "<group>"; };
+		9486C3A62B0E4D51003E651D /* MGE_SetupTheLazyVStack.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_SetupTheLazyVStack.swift; sourceTree = "<group>"; };
+		9486C3A72B0E4D51003E651D /* MGE_Final.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_Final.swift; sourceTree = "<group>"; };
+		9486C3A92B0E4D51003E651D /* MGE_Shapes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_Shapes.swift; sourceTree = "<group>"; };
+		9486C3AA2B0E4D51003E651D /* MGE_WhatItDoes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_WhatItDoes.swift; sourceTree = "<group>"; };
+		9486C3AC2B0E4D51003E651D /* MGE_OneAnimationModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_OneAnimationModifier.swift; sourceTree = "<group>"; };
+		9486C3AD2B0E4D51003E651D /* MGE_OneSource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_OneSource.swift; sourceTree = "<group>"; };
+		9486C3AE2B0E4D51003E651D /* MGE_SettingSourceViews.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_SettingSourceViews.swift; sourceTree = "<group>"; };
+		9486C3B02B0E4D51003E651D /* MGE_Challenge1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_Challenge1.swift; sourceTree = "<group>"; };
+		9486C3B22B0E4D51003E651D /* MGE_LazyVGrid_Intro.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_LazyVGrid_Intro.swift; sourceTree = "<group>"; };
+		9486C3B32B0E4D51003E651D /* MGE_List_Intro.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_List_Intro.swift; sourceTree = "<group>"; };
+		9486C3B42B0E4D51003E651D /* MGE_LazyVStack_Intro.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_LazyVStack_Intro.swift; sourceTree = "<group>"; };
+		9486C3B52B0E4D51003E651D /* MGE_List_SeparateDetailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MGE_List_SeparateDetailView.swift; sourceTree = "<group>"; };
+		9486C3B82B0E4D51003E651D /* VerticalScrolling_ScaleInOut.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VerticalScrolling_ScaleInOut.swift; sourceTree = "<group>"; };
+		9486C3BA2B0E4D51003E651D /* HorizontalScrolling_YAxis1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HorizontalScrolling_YAxis1.swift; sourceTree = "<group>"; };
+		9486C3BB2B0E4D51003E651D /* HorizontalScrolling_YAxisswift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HorizontalScrolling_YAxisswift.swift; sourceTree = "<group>"; };
+		9486C3BC2B0E4D51003E651D /* HorizontalScrolling_Twisting.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HorizontalScrolling_Twisting.swift; sourceTree = "<group>"; };
+		9486C3BD2B0E4D51003E651D /* HorizontalScrolling_YAxis2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HorizontalScrolling_YAxis2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -4431,6 +4621,11 @@
 				9486C2A32B0E4C27003E651D /* GettingStarted */,
 				9486C2AF2B0E4C27003E651D /* NOTES */,
 				9486C20F2B0E4C25003E651D /* SpringAnimations */,
+				9486C3642B0E4D50003E651D /* AnimatableData */,
+				9486C34B2B0E4D50003E651D /* Custom Timing Curve */,
+				9486C36B2B0E4D50003E651D /* MatchedGeometryEffect */,
+				9486C3B62B0E4D51003E651D /* Rotation3DEffect */,
+				9486C3482B0E4D4F003E651D /* TimelineView */,
 				9486C2322B0E4C26003E651D /* Triggers */,
 			);
 			path = Animation;
@@ -4878,6 +5073,280 @@
 			path = Data;
 			sourceTree = "<group>";
 		};
+		9486C3482B0E4D4F003E651D /* TimelineView */ = {
+			isa = PBXGroup;
+			children = (
+				9486C3492B0E4D50003E651D /* TimeLineView_Intro.swift */,
+				9486C34A2B0E4D50003E651D /* TimeLineView_Animation.swift */,
+			);
+			path = TimelineView;
+			sourceTree = "<group>";
+		};
+		9486C34B2B0E4D50003E651D /* Custom Timing Curve */ = {
+			isa = PBXGroup;
+			children = (
+				9486C34C2B0E4D50003E651D /* Curve_CurveBelow.swift */,
+				9486C34D2B0E4D50003E651D /* CheckYourUnderstanding */,
+				9486C34F2B0E4D50003E651D /* Curve_ReadingCurves1.swift */,
+				9486C3502B0E4D50003E651D /* Curve_TimingCurveModifier2.swift */,
+				9486C3512B0E4D50003E651D /* Curve_CurveBelowThenAbove.swift */,
+				9486C3522B0E4D50003E651D /* Exercise */,
+				9486C35F2B0E4D50003E651D /* Curve_TimingCurveModifier1.swift */,
+				9486C3602B0E4D50003E651D /* Curve_ReadingCurves2.swift */,
+				9486C3612B0E4D50003E651D /* Curve_CurveAbove.swift */,
+				9486C3622B0E4D50003E651D /* Challenge */,
+			);
+			path = "Custom Timing Curve";
+			sourceTree = "<group>";
+		};
+		9486C34D2B0E4D50003E651D /* CheckYourUnderstanding */ = {
+			isa = PBXGroup;
+			children = (
+				9486C34E2B0E4D50003E651D /* Curve_CheckYourUnderstanding2.swift */,
+			);
+			path = CheckYourUnderstanding;
+			sourceTree = "<group>";
+		};
+		9486C3522B0E4D50003E651D /* Exercise */ = {
+			isa = PBXGroup;
+			children = (
+				9486C3532B0E4D50003E651D /* Curve_Final.swift */,
+				9486C3542B0E4D50003E651D /* Curve_OffsetTheViews.swift */,
+				9486C3552B0E4D50003E651D /* Curve_UpdatedWelcomeScreen.swift */,
+				9486C3562B0E4D50003E651D /* Curve_AddAnimationToWelcomeView.swift */,
+				9486C3572B0E4D50003E651D /* Curve_MainScreenWithWelcomeViewAnimation.swift */,
+				9486C3582B0E4D50003E651D /* Curve_Menus.swift */,
+				9486C3592B0E4D50003E651D /* ButtonStyleThinOutline.swift */,
+				9486C35A2B0E4D50003E651D /* Curve_ExtractTitleView.swift */,
+				9486C35B2B0E4D50003E651D /* Curve_SetupTheBackground.swift */,
+				9486C35C2B0E4D50003E651D /* Curve_PuttingItAllTogether.swift */,
+				9486C35D2B0E4D50003E651D /* Curve_ExtractWelcomeBackView.swift */,
+				9486C35E2B0E4D50003E651D /* Curve_WelcomeScreen.swift */,
+			);
+			path = Exercise;
+			sourceTree = "<group>";
+		};
+		9486C3622B0E4D50003E651D /* Challenge */ = {
+			isa = PBXGroup;
+			children = (
+				9486C3632B0E4D50003E651D /* Curve_Challenge1.swift */,
+			);
+			path = Challenge;
+			sourceTree = "<group>";
+		};
+		9486C3642B0E4D50003E651D /* AnimatableData */ = {
+			isa = PBXGroup;
+			children = (
+				9486C3652B0E4D50003E651D /* AnimatableData_Intro.swift */,
+				9486C3662B0E4D50003E651D /* AnimatableData_QuadCurveExample.swift */,
+				9486C3672B0E4D50003E651D /* AnimatableData_BlobExample.swift */,
+				9486C3682B0E4D50003E651D /* AnimatableModifiers_Intro.swift */,
+				9486C3692B0E4D50003E651D /* AnimatablePair_ThreeValues.swift */,
+				9486C36A2B0E4D50003E651D /* AnimatablePair_BlobExample.swift */,
+			);
+			path = AnimatableData;
+			sourceTree = "<group>";
+		};
+		9486C36B2B0E4D50003E651D /* MatchedGeometryEffect */ = {
+			isa = PBXGroup;
+			children = (
+				9486C36C2B0E4D50003E651D /* FromOneViewToAnother */,
+				9486C36F2B0E4D50003E651D /* NotInBook */,
+				9486C37F2B0E4D51003E651D /* TheBasics */,
+				9486C3862B0E4D51003E651D /* WhatCouldGoWrong? */,
+				9486C38F2B0E4D51003E651D /* WithVStacksAndHStacks */,
+				9486C3942B0E4D51003E651D /* UsingWithOtherViews */,
+				9486C39F2B0E4D51003E651D /* Exercise */,
+				9486C3A82B0E4D51003E651D /* AddingAnimation */,
+				9486C3AF2B0E4D51003E651D /* Challenge */,
+				9486C3B12B0E4D51003E651D /* ListsLazyStacksGrids */,
+			);
+			path = MatchedGeometryEffect;
+			sourceTree = "<group>";
+		};
+		9486C36C2B0E4D50003E651D /* FromOneViewToAnother */ = {
+			isa = PBXGroup;
+			children = (
+				9486C36D2B0E4D50003E651D /* MGE_TwoScreens_Namespaces_Problem.swift */,
+				9486C36E2B0E4D50003E651D /* MGE_TwoScreens_Namespaces_Solution.swift */,
+			);
+			path = FromOneViewToAnother;
+			sourceTree = "<group>";
+		};
+		9486C36F2B0E4D50003E651D /* NotInBook */ = {
+			isa = PBXGroup;
+			children = (
+				9486C3702B0E4D50003E651D /* MGE_WithParentAndChildViews.swift */,
+				9486C3712B0E4D50003E651D /* MGE_FullScreenCover.swift */,
+				9486C3722B0E4D50003E651D /* MGE_Sizing_Problem.swift */,
+				9486C3732B0E4D50003E651D /* MGE_LikeTransitions.swift */,
+				9486C3742B0E4D50003E651D /* MGE_TextLocation.swift */,
+				9486C3752B0E4D50003E651D /* MGE_View1_To_View2_Problem.swift */,
+				9486C3762B0E4D50003E651D /* MGE_ClipShape.swift */,
+				9486C3772B0E4D50003E651D /* MGE_Example1.swift */,
+				9486C3782B0E4D50003E651D /* MGE_Intro.swift */,
+				9486C3792B0E4D50003E651D /* MGE_HidingShowingViews.swift */,
+				9486C37A2B0E4D50003E651D /* MGE_Grid_DuplicateIds.swift */,
+				9486C37B2B0E4D50003E651D /* MGE_BugReport.swift */,
+				9486C37C2B0E4D50003E651D /* MGE_Positioning_Solution.swift */,
+				9486C37D2B0E4D50003E651D /* MGE_Positioning_Problem.swift */,
+				9486C37E2B0E4D51003E651D /* MGE_Sizing_Solution.swift */,
+			);
+			path = NotInBook;
+			sourceTree = "<group>";
+		};
+		9486C37F2B0E4D51003E651D /* TheBasics */ = {
+			isa = PBXGroup;
+			children = (
+				9486C3802B0E4D51003E651D /* MGE_Source_DifferentIds.swift */,
+				9486C3812B0E4D51003E651D /* MGE_MatchingJustPosition.swift */,
+				9486C3822B0E4D51003E651D /* MGE_MatchingGeometries.swift */,
+				9486C3832B0E4D51003E651D /* MGE_MatchingJustSize.swift */,
+				9486C3842B0E4D51003E651D /* MGE_SettingTheSource.swift */,
+				9486C3852B0E4D51003E651D /* MGE_TogglingIsSource.swift */,
+			);
+			path = TheBasics;
+			sourceTree = "<group>";
+		};
+		9486C3862B0E4D51003E651D /* WhatCouldGoWrong? */ = {
+			isa = PBXGroup;
+			children = (
+				9486C3872B0E4D51003E651D /* MGE_WhatCouldGoWrong_FrameSolution.swift */,
+				9486C3882B0E4D51003E651D /* MGE_WhatCouldGoWrong_PositioningProblem.swift */,
+				9486C3892B0E4D51003E651D /* MGE_WhatCouldGoWrong_CornerRadiusSolution.swift */,
+				9486C38A2B0E4D51003E651D /* MGE_WhatCouldGoWrong_ClipShapeProblem.swift */,
+				9486C38B2B0E4D51003E651D /* MGE_WhatCouldGoWrong_FrameProblem.swift */,
+				9486C38C2B0E4D51003E651D /* MGE_WhatCouldGoWrong_ClipShapeSolution.swift */,
+				9486C38D2B0E4D51003E651D /* MGE_WhatCouldGoWrong_CornerRadiusProblem.swift */,
+				9486C38E2B0E4D51003E651D /* MGE_WhatCouldGoWrong_PositioningSolution.swift */,
+			);
+			path = "WhatCouldGoWrong?";
+			sourceTree = "<group>";
+		};
+		9486C38F2B0E4D51003E651D /* WithVStacksAndHStacks */ = {
+			isa = PBXGroup;
+			children = (
+				9486C3902B0E4D51003E651D /* HStack */,
+				9486C3922B0E4D51003E651D /* VStack */,
+			);
+			path = WithVStacksAndHStacks;
+			sourceTree = "<group>";
+		};
+		9486C3902B0E4D51003E651D /* HStack */ = {
+			isa = PBXGroup;
+			children = (
+				9486C3912B0E4D51003E651D /* MGE_HStack_Intro.swift */,
+			);
+			path = HStack;
+			sourceTree = "<group>";
+		};
+		9486C3922B0E4D51003E651D /* VStack */ = {
+			isa = PBXGroup;
+			children = (
+				9486C3932B0E4D51003E651D /* MGE_VStack_Intro.swift */,
+			);
+			path = VStack;
+			sourceTree = "<group>";
+		};
+		9486C3942B0E4D51003E651D /* UsingWithOtherViews */ = {
+			isa = PBXGroup;
+			children = (
+				9486C3952B0E4D51003E651D /* MGE_Images_Solution.swift */,
+				9486C3962B0E4D51003E651D /* MGE_Button_Problem.swift */,
+				9486C3972B0E4D51003E651D /* MGE_Text_Solution.swift */,
+				9486C3982B0E4D51003E651D /* MGE_Images.swift */,
+				9486C3992B0E4D51003E651D /* MGE_Text_Problem.swift */,
+				9486C39A2B0E4D51003E651D /* MGE_Button_TextSolution.swift */,
+				9486C39B2B0E4D51003E651D /* MGE_MultipleEffects_Solution.swift */,
+				9486C39C2B0E4D51003E651D /* MGE_MultipleEffects_Problems.swift */,
+				9486C39D2B0E4D51003E651D /* MGE_Images_Problem.swift */,
+				9486C39E2B0E4D51003E651D /* MGE_Button_Solution.swift */,
+			);
+			path = UsingWithOtherViews;
+			sourceTree = "<group>";
+		};
+		9486C39F2B0E4D51003E651D /* Exercise */ = {
+			isa = PBXGroup;
+			children = (
+				9486C3A02B0E4D51003E651D /* MGE_ShowingTheDetailView.swift */,
+				9486C3A12B0E4D51003E651D /* MGE_AddSectionView.swift */,
+				9486C3A22B0E4D51003E651D /* MGE_RowView.swift */,
+				9486C3A32B0E4D51003E651D /* MGE_AddParkNameToRow.swift */,
+				9486C3A42B0E4D51003E651D /* MGE_ParksDetailView.swift */,
+				9486C3A52B0E4D51003E651D /* MGE_GeometryEffectOnParkTitle.swift */,
+				9486C3A62B0E4D51003E651D /* MGE_SetupTheLazyVStack.swift */,
+				9486C3A72B0E4D51003E651D /* MGE_Final.swift */,
+			);
+			path = Exercise;
+			sourceTree = "<group>";
+		};
+		9486C3A82B0E4D51003E651D /* AddingAnimation */ = {
+			isa = PBXGroup;
+			children = (
+				9486C3A92B0E4D51003E651D /* MGE_Shapes.swift */,
+				9486C3AA2B0E4D51003E651D /* MGE_WhatItDoes.swift */,
+				9486C3AB2B0E4D51003E651D /* NotInBook */,
+				9486C3AD2B0E4D51003E651D /* MGE_OneSource.swift */,
+				9486C3AE2B0E4D51003E651D /* MGE_SettingSourceViews.swift */,
+			);
+			path = AddingAnimation;
+			sourceTree = "<group>";
+		};
+		9486C3AB2B0E4D51003E651D /* NotInBook */ = {
+			isa = PBXGroup;
+			children = (
+				9486C3AC2B0E4D51003E651D /* MGE_OneAnimationModifier.swift */,
+			);
+			path = NotInBook;
+			sourceTree = "<group>";
+		};
+		9486C3AF2B0E4D51003E651D /* Challenge */ = {
+			isa = PBXGroup;
+			children = (
+				9486C3B02B0E4D51003E651D /* MGE_Challenge1.swift */,
+			);
+			path = Challenge;
+			sourceTree = "<group>";
+		};
+		9486C3B12B0E4D51003E651D /* ListsLazyStacksGrids */ = {
+			isa = PBXGroup;
+			children = (
+				9486C3B22B0E4D51003E651D /* MGE_LazyVGrid_Intro.swift */,
+				9486C3B32B0E4D51003E651D /* MGE_List_Intro.swift */,
+				9486C3B42B0E4D51003E651D /* MGE_LazyVStack_Intro.swift */,
+				9486C3B52B0E4D51003E651D /* MGE_List_SeparateDetailView.swift */,
+			);
+			path = ListsLazyStacksGrids;
+			sourceTree = "<group>";
+		};
+		9486C3B62B0E4D51003E651D /* Rotation3DEffect */ = {
+			isa = PBXGroup;
+			children = (
+				9486C3B72B0E4D51003E651D /* VerticalScrolling */,
+				9486C3B92B0E4D51003E651D /* HorizontalScrolling */,
+			);
+			path = Rotation3DEffect;
+			sourceTree = "<group>";
+		};
+		9486C3B72B0E4D51003E651D /* VerticalScrolling */ = {
+			isa = PBXGroup;
+			children = (
+				9486C3B82B0E4D51003E651D /* VerticalScrolling_ScaleInOut.swift */,
+			);
+			path = VerticalScrolling;
+			sourceTree = "<group>";
+		};
+		9486C3B92B0E4D51003E651D /* HorizontalScrolling */ = {
+			isa = PBXGroup;
+			children = (
+				9486C3BA2B0E4D51003E651D /* HorizontalScrolling_YAxis1.swift */,
+				9486C3BB2B0E4D51003E651D /* HorizontalScrolling_YAxisswift.swift */,
+				9486C3BC2B0E4D51003E651D /* HorizontalScrolling_Twisting.swift */,
+				9486C3BD2B0E4D51003E651D /* HorizontalScrolling_YAxis2.swift */,
+			);
+			path = HorizontalScrolling;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -4952,6 +5421,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9486C3CA2B0E4D51003E651D /* Curve_Menus.swift in Sources */,
 				9486C3042B0E4C27003E651D /* Animate_GeometryReader.swift in Sources */,
 				940D617E2B0D05680075AA28 /* Form_HeaderProminence.swift in Sources */,
 				940D611A2B0D05670075AA28 /* Color_LightDarkMode.swift in Sources */,
@@ -4987,11 +5457,13 @@
 				940D60BF2B0D05670075AA28 /* BlendMode_Examples4.swift in Sources */,
 				9486C2F12B0E4C27003E651D /* Exercise1_RotateWithRotationEffect.swift in Sources */,
 				940D61CB2B0D05680075AA28 /* Chart_RuleMark_Annotation.swift in Sources */,
+				9486C3CE2B0E4D51003E651D /* Curve_PuttingItAllTogether.swift in Sources */,
 				940D628D2B0D05690075AA28 /* Text_Measurement.swift in Sources */,
 				940D61872B0D05680075AA28 /* Searchable_Search.swift in Sources */,
 				940D5FC22B0D05650075AA28 /* ViewSizes_Push_Out.swift in Sources */,
 				940D62002B0D05680075AA28 /* Stepper_Customization.swift in Sources */,
 				940D61BA2B0D05680075AA28 /* DisclosureGroup_Animated.swift in Sources */,
+				9486C4002B0E4D51003E651D /* MGE_Text_Problem.swift in Sources */,
 				940D62322B0D05690075AA28 /* SegmentedControl_Colors.swift in Sources */,
 				940D5FA72B0D05650075AA28 /* Alert Button Options.swift in Sources */,
 				940D61222B0D05670075AA28 /* Path_CornerCircle.swift in Sources */,
@@ -5006,11 +5478,13 @@
 				940D5FCD2B0D05650075AA28 /* UnderstandingTheSomeKeywordSolution.swift in Sources */,
 				940D60052B0D05650075AA28 /* LazyHGrid_PinnedViews.swift in Sources */,
 				940D5FA32B0D05650075AA28 /* Toolbar_ControlGroup.swift in Sources */,
+				9486C3D92B0E4D51003E651D /* AnimatablePair_ThreeValues.swift in Sources */,
 				940D5FF92B0D05650075AA28 /* LazyHStack_PinnedViews.swift in Sources */,
 				940D60252B0D05650075AA28 /* HStack_Intro.swift in Sources */,
 				940D614C2B0D05670075AA28 /* Rectangular_StrokeBorder.swift in Sources */,
 				940D60EF2B0D05670075AA28 /* ZIndex_Reorder.swift in Sources */,
 				940D60282B0D05660075AA28 /* ViewThatFits_Vertical.swift in Sources */,
+				9486C40A2B0E4D52003E651D /* MGE_ParksDetailView.swift in Sources */,
 				940D5F912B0D05640075AA28 /* Sheet_PresentingWithBool.swift in Sources */,
 				940D61A12B0D05680075AA28 /* Picker_InForm.swift in Sources */,
 				940D626F2B0D05690075AA28 /* Text_PersonNameComponents.swift in Sources */,
@@ -5018,12 +5492,15 @@
 				940D61EA2B0D05680075AA28 /* TextField_PersonNameComponents.swift in Sources */,
 				940D61382B0D05670075AA28 /* Image_SymbolVariant.swift in Sources */,
 				940D62082B0D05680075AA28 /* TextEditor_LineSpacing.swift in Sources */,
+				9486C3F92B0E4D51003E651D /* MGE_WhatCouldGoWrong_PositioningSolution.swift in Sources */,
 				940D61CF2B0D05680075AA28 /* Chart_AreaMarkStartEnd.swift in Sources */,
+				9486C3EE2B0E4D51003E651D /* MGE_MatchingGeometries.swift in Sources */,
 				940D62832B0D05690075AA28 /* Text_TimeFormatting.swift in Sources */,
 				940D613F2B0D05670075AA28 /* Capsule_RoundedCornerStyle.swift in Sources */,
 				940D60B82B0D05670075AA28 /* Scale.swift in Sources */,
 				940D61E42B0D05680075AA28 /* TextField_OnEditingChanged.swift in Sources */,
 				940D5FF72B0D05650075AA28 /* LazyHStack_Intro.swift in Sources */,
+				9486C40E2B0E4D52003E651D /* MGE_Shapes.swift in Sources */,
 				940D61152B0D05670075AA28 /* Color_Inverting.swift in Sources */,
 				940D61602B0D05670075AA28 /* Resizable_Intro.swift in Sources */,
 				940D60AC2B0D05660075AA28 /* Contrast_Photos.swift in Sources */,
@@ -5043,16 +5520,19 @@
 				940D61C02B0D05680075AA28 /* Chart_OtherMarks.swift in Sources */,
 				9486C3332B0E4C28003E651D /* Curves_Examples.swift in Sources */,
 				940D607E2B0D05660075AA28 /* AccentColor_ForegroundColor.swift in Sources */,
+				9486C3C82B0E4D51003E651D /* Curve_AddAnimationToWelcomeView.swift in Sources */,
 				9486C31C2B0E4C28003E651D /* Scope_WithAnimation_CustomAnimation.swift in Sources */,
 				940D62972B0D05690075AA28 /* ProgressView_Tint.swift in Sources */,
 				940D60C82B0D05670075AA28 /* Background_Shapes.swift in Sources */,
 				940D60842B0D05660075AA28 /* Shadow_OrderMatters.swift in Sources */,
+				9486C3ED2B0E4D51003E651D /* MGE_MatchingJustPosition.swift in Sources */,
 				9486C2ED2B0E4C27003E651D /* BasicAnimations_CheckUnderstanding2.swift in Sources */,
 				940D60B52B0D05670075AA28 /* Rotation_RotationEffectCompare.swift in Sources */,
 				940D609C2B0D05660075AA28 /* Opacity_Layers.swift in Sources */,
 				940D60F02B0D05670075AA28 /* ZIndex_Intro.swift in Sources */,
 				940D62182B0D05680075AA28 /* TabView_Background.swift in Sources */,
 				940D611B2B0D05670075AA28 /* Color_ColorMultiply.swift in Sources */,
+				9486C3E12B0E4D51003E651D /* MGE_TextLocation.swift in Sources */,
 				940D60D82B0D05670075AA28 /* Edges_KeyboardRegion_After.swift in Sources */,
 				9486C2EC2B0E4C27003E651D /* Animate_ZIndex.swift in Sources */,
 				940D62512B0D05690075AA28 /* List_MoveRow.swift in Sources */,
@@ -5075,11 +5555,14 @@
 				940D5FCB2B0D05650075AA28 /* ViewBuilderExample.swift in Sources */,
 				940D5FAE2B0D05650075AA28 /* Popover_FromBool.swift in Sources */,
 				940D62852B0D05690075AA28 /* Text_CombiningModifiedText.swift in Sources */,
+				9486C3C02B0E4D51003E651D /* Curve_CurveBelow.swift in Sources */,
 				940D61622B0D05670075AA28 /* AllowHitTesting_Intro.swift in Sources */,
 				940D60912B0D05660075AA28 /* ColorInvert_Intro.swift in Sources */,
 				940D62242B0D05690075AA28 /* Button-WithImages.swift in Sources */,
 				940D5F9A2B0D05650075AA28 /* Toolbar_OnKeyboard.swift in Sources */,
+				9486C3D12B0E4D51003E651D /* Curve_TimingCurveModifier1.swift in Sources */,
 				940D603E2B0D05660075AA28 /* ScrollViewReader_Automatic.swift in Sources */,
+				9486C3EA2B0E4D51003E651D /* MGE_Positioning_Problem.swift in Sources */,
 				9486C32C2B0E4C28003E651D /* Duration_Parameter.swift in Sources */,
 				940D61682B0D05680075AA28 /* Disabled_Containers.swift in Sources */,
 				940D600E2B0D05650075AA28 /* GridItem_FlexibleSizeMinMax.swift in Sources */,
@@ -5112,6 +5595,7 @@
 				9486C3002B0E4C27003E651D /* Animate_RoundedCorners.swift in Sources */,
 				9486C2E92B0E4C27003E651D /* Animate_ExcludeModifiers.swift in Sources */,
 				940D5FA62B0D05650075AA28 /* StatusBarHidden_Intro.swift in Sources */,
+				9486C4102B0E4D52003E651D /* MGE_OneAnimationModifier.swift in Sources */,
 				940D62932B0D05690075AA28 /* SecureField_Customization.swift in Sources */,
 				940D60142B0D05650075AA28 /* GeometryReader_GettingCoordinates.swift in Sources */,
 				940D61612B0D05670075AA28 /* Interpolation_Intro.swift in Sources */,
@@ -5121,10 +5605,12 @@
 				940D61F22B0D05680075AA28 /* TextField_CustomComposition.swift in Sources */,
 				940D61482B0D05670075AA28 /* CircularShapes_Colors.swift in Sources */,
 				940D60652B0D05660075AA28 /* ProgressViewStyle.swift in Sources */,
+				9486C4022B0E4D51003E651D /* MGE_MultipleEffects_Solution.swift in Sources */,
 				940D62382B0D05690075AA28 /* List_AlternatesRowBackgrounds.swift in Sources */,
 				9486C3272B0E4C28003E651D /* Exercise_AnimationOptions_Sequence.swift in Sources */,
 				940D62132B0D05680075AA28 /* TabView_Colors.swift in Sources */,
 				940D60182B0D05650075AA28 /* LazyVStack_PinnedViews.swift in Sources */,
+				9486C3D32B0E4D51003E651D /* Curve_CurveAbove.swift in Sources */,
 				9486C2FA2B0E4C27003E651D /* Animate_Trim.swift in Sources */,
 				940D61722B0D05680075AA28 /* TabView_PageTabViewStyle_IndexViewStyle.swift in Sources */,
 				940D61022B0D05670075AA28 /* Overlay_Images.swift in Sources */,
@@ -5132,13 +5618,16 @@
 				9486C2C12B0E4C27003E651D /* Spring_BlendDuration_SideBySide.swift in Sources */,
 				940D5FB02B0D05650075AA28 /* ActionSheet_Buttons.swift in Sources */,
 				940D62062B0D05680075AA28 /* TextEditor_CustomizingText.swift in Sources */,
+				9486C4112B0E4D52003E651D /* MGE_OneSource.swift in Sources */,
 				940D62022B0D05680075AA28 /* ShareLink_Customize.swift in Sources */,
 				9486C2FC2B0E4C27003E651D /* Animate_ScaleEffect_Anchors.swift in Sources */,
 				940D62292B0D05690075AA28 /* Button_WithBorders.swift in Sources */,
 				940D617C2B0D05680075AA28 /* Form_AlignmentOfLabels.swift in Sources */,
+				9486C3F62B0E4D51003E651D /* MGE_WhatCouldGoWrong_FrameProblem.swift in Sources */,
 				940D605E2B0D05660075AA28 /* ToggleStyle_Intro.swift in Sources */,
 				940D628E2B0D05690075AA28 /* Text_ShowingDates.swift in Sources */,
 				940D60362B0D05660075AA28 /* LazyVGrid_Intro.swift in Sources */,
+				9486C3F12B0E4D51003E651D /* MGE_TogglingIsSource.swift in Sources */,
 				940D614D2B0D05670075AA28 /* Rectangular_Trim.swift in Sources */,
 				940D61EC2B0D05680075AA28 /* TextField_Border.swift in Sources */,
 				940D60CB2B0D05670075AA28 /* Background_Default.swift in Sources */,
@@ -5148,6 +5637,7 @@
 				940D61912B0D05680075AA28 /* NavLink_Intro.swift in Sources */,
 				940D61A42B0D05680075AA28 /* Navigation_DisplayMode.swift in Sources */,
 				940D61542B0D05670075AA28 /* Accessibility_Testing.swift in Sources */,
+				9486C3F22B0E4D51003E651D /* MGE_WhatCouldGoWrong_FrameSolution.swift in Sources */,
 				940D5F9B2B0D05650075AA28 /* Toolbar_ContextMenu.swift in Sources */,
 				940D60892B0D05660075AA28 /* Shadow_Style_Inner.swift in Sources */,
 				940D62102B0D05680075AA28 /* Toggle_ToggleStyle.swift in Sources */,
@@ -5167,6 +5657,7 @@
 				940D61CD2B0D05680075AA28 /* Chart_Dates.swift in Sources */,
 				9486C3302B0E4C28003E651D /* GettingStarted_CheckUnderstanding2.swift in Sources */,
 				940D5FF22B0D05650075AA28 /* Linear_ColorLocations.swift in Sources */,
+				9486C4122B0E4D52003E651D /* MGE_SettingSourceViews.swift in Sources */,
 				940D617D2B0D05680075AA28 /* Form_WithControls.swift in Sources */,
 				940D5FDC2B0D05650075AA28 /* HighPriorityGesture_After.swift in Sources */,
 				940D60922B0D05660075AA28 /* Mask_WithShapesPadding.swift in Sources */,
@@ -5187,6 +5678,7 @@
 				940D61B02B0D05680075AA28 /* DatePicker_Customizing.swift in Sources */,
 				940D60342B0D05660075AA28 /* LazyVGrid_RowSpacing.swift in Sources */,
 				940D61852B0D05680075AA28 /* Navigation_SplitViewColumnWidth.swift in Sources */,
+				9486C3E32B0E4D51003E651D /* MGE_ClipShape.swift in Sources */,
 				940D5FE82B0D05650075AA28 /* Radial_StartRadius.swift in Sources */,
 				940D62462B0D05690075AA28 /* List_ListSectionSeparator.swift in Sources */,
 				940D62822B0D05690075AA28 /* Text_DateFormat_Specific.swift in Sources */,
@@ -5194,16 +5686,19 @@
 				940D61E82B0D05680075AA28 /* FB_FocusStateCrash.swift in Sources */,
 				940D62372B0D05690075AA28 /* List_ListRowBackground.swift in Sources */,
 				940D601B2B0D05650075AA28 /* LazyVStack_WithScrolling.swift in Sources */,
+				9486C3DC2B0E4D51003E651D /* MGE_TwoScreens_Namespaces_Solution.swift in Sources */,
 				9486C2FE2B0E4C27003E651D /* Animate_Grid.swift in Sources */,
 				940D622D2B0D05690075AA28 /* LabeledContent_Customization.swift in Sources */,
 				940D624A2B0D05690075AA28 /* List_ListStyle_Grouped.swift in Sources */,
 				940D603A2B0D05660075AA28 /* ZStack_BackgroundColor_Solution.swift in Sources */,
 				940D61992B0D05680075AA28 /* NavLink_IsDetailLink.swift in Sources */,
 				9486C3162B0E4C27003E651D /* Scope_WithAnimation_Sequencing_SameView.swift in Sources */,
+				9486C3DD2B0E4D51003E651D /* MGE_WithParentAndChildViews.swift in Sources */,
 				940D61B92B0D05680075AA28 /* DisclosureGroup_ListInside.swift in Sources */,
 				940D609F2B0D05660075AA28 /* Blur_UnderneathView.swift in Sources */,
 				940D60B22B0D05660075AA28 /* ClipShape_CustomShapes.swift in Sources */,
 				9486C31A2B0E4C28003E651D /* Scope_SequenceOnSingleView.swift in Sources */,
+				9486C40C2B0E4D52003E651D /* MGE_SetupTheLazyVStack.swift in Sources */,
 				940D62302B0D05690075AA28 /* SegmentedControl_NoSelection.swift in Sources */,
 				940D622F2B0D05690075AA28 /* LabeledContent_Intro.swift in Sources */,
 				940D627E2B0D05690075AA28 /* Text_CustomFontSize_RelativeTo.swift in Sources */,
@@ -5219,6 +5714,7 @@
 				940D5F8E2B0D05640075AA28 /* Sheet_Background.swift in Sources */,
 				9486C2F42B0E4C27003E651D /* Exercise1_MoveShapesWithOffset.swift in Sources */,
 				940D61982B0D05680075AA28 /* NavLink_WithDifferentTypes.swift in Sources */,
+				9486C3EF2B0E4D51003E651D /* MGE_MatchingJustSize.swift in Sources */,
 				940D60322B0D05660075AA28 /* LazyVGrid_Columns.swift in Sources */,
 				940D604A2B0D05660075AA28 /* Grid_Intro.swift in Sources */,
 				9486C2E22B0E4C27003E651D /* Trigger_Gesture_Tap.swift in Sources */,
@@ -5238,6 +5734,7 @@
 				940D60032B0D05650075AA28 /* LazyHGrid_RowAndColumnSpacing.swift in Sources */,
 				940D5FFB2B0D05650075AA28 /* LazyHStack_HeadersFooters.swift in Sources */,
 				940D61AC2B0D05680075AA28 /* Navigation_UINavigationBarAppearance.swift in Sources */,
+				9486C3F42B0E4D51003E651D /* MGE_WhatCouldGoWrong_CornerRadiusSolution.swift in Sources */,
 				940D61342B0D05670075AA28 /* Image_ForegroundStyle.swift in Sources */,
 				940D61F02B0D05680075AA28 /* TextField_Disabled.swift in Sources */,
 				940D619C2B0D05680075AA28 /* Picker_Customized.swift in Sources */,
@@ -5247,6 +5744,7 @@
 				940D628F2B0D05690075AA28 /* Text_LayoutPriority.swift in Sources */,
 				940D600F2B0D05650075AA28 /* ControlGroup_Intro.swift in Sources */,
 				9486C2D02B0E4C27003E651D /* Spring_BlendDuration.swift in Sources */,
+				9486C3D42B0E4D51003E651D /* Curve_Challenge1.swift in Sources */,
 				940D613D2B0D05670075AA28 /* Divider_Intro.swift in Sources */,
 				9486C3282B0E4C28003E651D /* Exercise_AnimationOptions_AnimateSymbol.swift in Sources */,
 				940D61822B0D05680075AA28 /* Navigation_SplitView.swift in Sources */,
@@ -5276,11 +5774,14 @@
 				940D60E32B0D05670075AA28 /* FixedSize_TextTruncated.swift in Sources */,
 				940D60022B0D05650075AA28 /* LazyHGrid_FlexibleItems.swift in Sources */,
 				940D5FE42B0D05650075AA28 /* Radial_EndRadius.swift in Sources */,
+				9486C3F52B0E4D51003E651D /* MGE_WhatCouldGoWrong_ClipShapeProblem.swift in Sources */,
 				940D61B12B0D05680075AA28 /* FB9803194.swift in Sources */,
 				940D61792B0D05680075AA28 /* Form_Intro.swift in Sources */,
 				9486C3232B0E4C28003E651D /* Exercise_AnimationOptions_TriggerAnimation.swift in Sources */,
 				940D61862B0D05680075AA28 /* Searchable_Cancel.swift in Sources */,
 				940D60DD2B0D05670075AA28 /* Edges_KeyboardRegion_Before.swift in Sources */,
+				9486C3C42B0E4D51003E651D /* Curve_CurveBelowThenAbove.swift in Sources */,
+				9486C3DA2B0E4D51003E651D /* AnimatablePair_BlobExample.swift in Sources */,
 				940D60B02B0D05660075AA28 /* ClipShape_WithStyle.swift in Sources */,
 				940D629F2B0D05690075AA28 /* Previews_Intro.swift in Sources */,
 				940D618A2B0D05680075AA28 /* Searchable_Completion.swift in Sources */,
@@ -5292,15 +5793,19 @@
 				940D60682B0D05660075AA28 /* CustomStyling_OtherWaysToApply.swift in Sources */,
 				940D61CC2B0D05680075AA28 /* Chart_BarMarkStacking.swift in Sources */,
 				940D62A22B0D05690075AA28 /* Preview_SizeCategory.swift in Sources */,
+				9486C41C2B0E4D52003E651D /* HorizontalScrolling_YAxis2.swift in Sources */,
 				9486C3172B0E4C27003E651D /* Scope_WithAnimation_OnSingleView.swift in Sources */,
 				940D5FFD2B0D05650075AA28 /* LazyHGrid_AdaptiveItems.swift in Sources */,
 				9486C2DB2B0E4C27003E651D /* Popup_AddShowHideLogic.swift in Sources */,
+				9486C3E52B0E4D51003E651D /* MGE_Intro.swift in Sources */,
 				940D61FA2B0D05680075AA28 /* Slider_RangeOfValues.swift in Sources */,
 				940D621C2B0D05680075AA28 /* TabView_Navigating.swift in Sources */,
 				9486C3372B0E4C28003E651D /* Rotation3DEffect_XAxis_Center.swift in Sources */,
 				940D60582B0D05660075AA28 /* LabelStyle_Introduction.swift in Sources */,
 				940D62252B0D05690075AA28 /* Button-FloatingAction.swift in Sources */,
+				9486C4052B0E4D51003E651D /* MGE_Button_Solution.swift in Sources */,
 				940D60972B0D05660075AA28 /* Rotation3D_Anchors.swift in Sources */,
+				9486C3C62B0E4D51003E651D /* Curve_OffsetTheViews.swift in Sources */,
 				940D60A12B0D05660075AA28 /* Saturation_Photos.swift in Sources */,
 				940D5FA12B0D05650075AA28 /* Toolbar_ToolbarItemGroup.swift in Sources */,
 				940D627B2B0D05690075AA28 /* Text_TextSelection.swift in Sources */,
@@ -5339,18 +5844,22 @@
 				940D60672B0D05660075AA28 /* CustomStyling_WithViewModifier.swift in Sources */,
 				9486C2E12B0E4C27003E651D /* Trigger_Gesture_Rotation.swift in Sources */,
 				940D62172B0D05680075AA28 /* TabView_TabItems.swift in Sources */,
+				9486C3FF2B0E4D51003E651D /* MGE_Images.swift in Sources */,
 				9486C3102B0E4C27003E651D /* Repeating_RepeatCount_AutoReverses.swift in Sources */,
 				940D60712B0D05660075AA28 /* Border_Gradients.swift in Sources */,
 				940D606E2B0D05660075AA28 /* ForegroundStyle_Hierarchical.swift in Sources */,
 				940D61F62B0D05680075AA28 /* TextField_FocusState_WithEnum.swift in Sources */,
 				940D60A72B0D05660075AA28 /* ColorMultiply_CantDo.swift in Sources */,
 				940D620B2B0D05680075AA28 /* SignInWithApple_Customizing.swift in Sources */,
+				9486C4142B0E4D52003E651D /* MGE_LazyVGrid_Intro.swift in Sources */,
 				940D602B2B0D05660075AA28 /* LazyVGrid_HorizontalAlignment.swift in Sources */,
+				9486C4032B0E4D51003E651D /* MGE_MultipleEffects_Problems.swift in Sources */,
 				940D60BD2B0D05670075AA28 /* BlendMode_Setup.swift in Sources */,
 				940D62762B0D05690075AA28 /* Text_CustomFont.swift in Sources */,
 				940D5FB82B0D05650075AA28 /* Title.swift in Sources */,
 				940D60882B0D05660075AA28 /* Shadow_Radius.swift in Sources */,
 				940D5FB62B0D05650075AA28 /* Subtitle.swift in Sources */,
+				9486C3F82B0E4D51003E651D /* MGE_WhatCouldGoWrong_CornerRadiusProblem.swift in Sources */,
 				940D62A12B0D05690075AA28 /* Previews_Devices.swift in Sources */,
 				940D5FBE2B0D05650075AA28 /* Layers.swift in Sources */,
 				940D61F12B0D05680075AA28 /* TextField_LineLimit.swift in Sources */,
@@ -5361,6 +5870,7 @@
 				940D60332B0D05660075AA28 /* LazyVGrid_FlexibleWidth.swift in Sources */,
 				9486C2D82B0E4C27003E651D /* Popup_AddThePopup.swift in Sources */,
 				940D60C12B0D05670075AA28 /* BlendMode_Examples5.swift in Sources */,
+				9486C3E72B0E4D51003E651D /* MGE_Grid_DuplicateIds.swift in Sources */,
 				940D60AA2B0D05660075AA28 /* CornerRadius_FullyRoundedSides.swift in Sources */,
 				940D628A2B0D05690075AA28 /* Text_Tracking.swift in Sources */,
 				940D625E2B0D05690075AA28 /* Menu_WithSections.swift in Sources */,
@@ -5377,6 +5887,7 @@
 				940D616B2B0D05680075AA28 /* Redacted_Unredacted.swift in Sources */,
 				940D61CE2B0D05680075AA28 /* Chart_Groups.swift in Sources */,
 				940D60592B0D05660075AA28 /* IndexViewStyle_Intro.swift in Sources */,
+				9486C3DE2B0E4D51003E651D /* MGE_FullScreenCover.swift in Sources */,
 				940D61112B0D05670075AA28 /* Group_Intro.swift in Sources */,
 				940D5FBC2B0D05650075AA28 /* AddVStack.swift in Sources */,
 				940D61432B0D05670075AA28 /* CircularShapes_SizingPaddingFrame.swift in Sources */,
@@ -5387,6 +5898,7 @@
 				940D5FF12B0D05650075AA28 /* Linear_Intro.swift in Sources */,
 				940D60492B0D05660075AA28 /* Grid_Comparison.swift in Sources */,
 				940D62742B0D05690075AA28 /* Text_FontDesign.swift in Sources */,
+				9486C3CD2B0E4D51003E651D /* Curve_SetupTheBackground.swift in Sources */,
 				940D5F922B0D05640075AA28 /* Sheet_Identifiable.swift in Sources */,
 				940D5F892B0D05640075AA28 /* Alerts_Message.swift in Sources */,
 				940D60ED2B0D05670075AA28 /* FullScreenCover_Intro.swift in Sources */,
@@ -5397,6 +5909,7 @@
 				940D627A2B0D05690075AA28 /* Text_Currency.swift in Sources */,
 				940D60762B0D05660075AA28 /* HueRotation_Intro.swift in Sources */,
 				940D608B2B0D05660075AA28 /* Shadow_Colors.swift in Sources */,
+				9486C3E62B0E4D51003E651D /* MGE_HidingShowingViews.swift in Sources */,
 				9486C2E62B0E4C27003E651D /* Trigger_Gesture_Drag.swift in Sources */,
 				9486C2C72B0E4C27003E651D /* Exercise_Spring_TheLayout.swift in Sources */,
 				940D614A2B0D05670075AA28 /* Inset_Introduction.swift in Sources */,
@@ -5420,19 +5933,23 @@
 				940D5FF82B0D05650075AA28 /* LazyHStack_WithScrolling.swift in Sources */,
 				940D5FE52B0D05650075AA28 /* Radial_CenterOfGradient.swift in Sources */,
 				940D60152B0D05650075AA28 /* GeometryReader_SafeAreaInsets.swift in Sources */,
+				9486C40B2B0E4D52003E651D /* MGE_GeometryEffectOnParkTitle.swift in Sources */,
 				940D618F2B0D05680075AA28 /* OutlineGroup_Intro.swift in Sources */,
 				940D625B2B0D05690075AA28 /* Menu_Intro.swift in Sources */,
 				940D62112B0D05680075AA28 /* Toggle_Intro.swift in Sources */,
 				940D61322B0D05670075AA28 /* Image_Resizing.swift in Sources */,
 				940D61E62B0D05680075AA28 /* TextField_ContentType.swift in Sources */,
 				940D62652B0D05690075AA28 /* Gauge_CircularSize.swift in Sources */,
+				9486C3EB2B0E4D51003E651D /* MGE_Sizing_Solution.swift in Sources */,
 				9486C2CD2B0E4C27003E651D /* Spring_Options_Speed.swift in Sources */,
 				940D5FE92B0D05650075AA28 /* Angular_OnOtherControls.swift in Sources */,
 				940D61712B0D05680075AA28 /* TabView_PageTabViewStyle_IndexDisplayMode.swift in Sources */,
 				940D61942B0D05680075AA28 /* NavLink_WithNavigationDestination.swift in Sources */,
 				940D61A72B0D05680075AA28 /* Navigation_BackButtonHidden.swift in Sources */,
 				940D61922B0D05680075AA28 /* NavLink_PopToRoot.swift in Sources */,
+				9486C3C72B0E4D51003E651D /* Curve_UpdatedWelcomeScreen.swift in Sources */,
 				940D61AA2B0D05680075AA28 /* Navigation_BarHidden.swift in Sources */,
+				9486C3E02B0E4D51003E651D /* MGE_LikeTransitions.swift in Sources */,
 				940D62692B0D05690075AA28 /* Gauge_Range.swift in Sources */,
 				940D5FAD2B0D05650075AA28 /* Popover_Color.swift in Sources */,
 				940D62542B0D05690075AA28 /* List_Badge.swift in Sources */,
@@ -5448,6 +5965,7 @@
 				940D61B42B0D05680075AA28 /* DatePicker_Styles.swift in Sources */,
 				940D62952B0D05690075AA28 /* ProgressView_Customizing.swift in Sources */,
 				940D5FDF2B0D05650075AA28 /* SequenceGesture_AppleExample.swift in Sources */,
+				9486C3F02B0E4D51003E651D /* MGE_SettingTheSource.swift in Sources */,
 				940D620E2B0D05680075AA28 /* Toggle_Tint.swift in Sources */,
 				940D611D2B0D05670075AA28 /* Color_Gradient.swift in Sources */,
 				940D5FF62B0D05650075AA28 /* Conic_Angle.swift in Sources */,
@@ -5493,6 +6011,7 @@
 				940D61572B0D05670075AA28 /* Accessibility_ReadingValues.swift in Sources */,
 				940D60532B0D05660075AA28 /* ButtonStyle_Default.swift in Sources */,
 				940D61752B0D05680075AA28 /* Scrollview_Horizontal_Circles.swift in Sources */,
+				9486C3C52B0E4D51003E651D /* Curve_Final.swift in Sources */,
 				940D61EB2B0D05680075AA28 /* TextField_KeyboardType.swift in Sources */,
 				9486C3352B0E4C28003E651D /* GettingStarted_Challenge.swift in Sources */,
 				940D62352B0D05690075AA28 /* List_SafeAreaInset.swift in Sources */,
@@ -5517,10 +6036,14 @@
 				9486C32F2B0E4C28003E651D /* GettingStarted_CheckUnderstanding_WhichCurve.swift in Sources */,
 				940D60402B0D05660075AA28 /* ScrollViewReader_Anchor.swift in Sources */,
 				940D61392B0D05670075AA28 /* Image_SymbolRenderingMode.swift in Sources */,
+				9486C3E82B0E4D51003E651D /* MGE_BugReport.swift in Sources */,
 				940D62662B0D05690075AA28 /* Gauge_Customizations.swift in Sources */,
+				9486C3FD2B0E4D51003E651D /* MGE_Button_Problem.swift in Sources */,
 				940D61D52B0D05680075AA28 /* MultiDatePicker_Label.swift in Sources */,
+				9486C3BF2B0E4D51003E651D /* TimeLineView_Animation.swift in Sources */,
 				940D60FE2B0D05670075AA28 /* LayoutPriority_Solving3.swift in Sources */,
 				940D603B2B0D05660075AA28 /* ZStack_IgnoreSafeAreaEdges.swift in Sources */,
+				9486C3D72B0E4D51003E651D /* AnimatableData_BlobExample.swift in Sources */,
 				940D625F2B0D05690075AA28 /* Menu_InsideMenu.swift in Sources */,
 				940D60452B0D05660075AA28 /* KitVStack_Intro.swift in Sources */,
 				940D60D12B0D05670075AA28 /* Background_TabViewBackground.swift in Sources */,
@@ -5528,10 +6051,13 @@
 				940D622C2B0D05690075AA28 /* Link_Customization.swift in Sources */,
 				940D5B8C2B0D04B90075AA28 /* SwiftUI_ComponentsApp.swift in Sources */,
 				9486C2DD2B0E4C27003E651D /* Popup_EndResult.swift in Sources */,
+				9486C4152B0E4D52003E651D /* MGE_List_Intro.swift in Sources */,
 				940D60292B0D05660075AA28 /* ViewThatFits_Intro.swift in Sources */,
+				9486C3FC2B0E4D51003E651D /* MGE_Images_Solution.swift in Sources */,
 				940D62A82B0D05880075AA28 /* LayoutConcepts.swift in Sources */,
 				940D61B82B0D05680075AA28 /* DisclosureGroup_Nested.swift in Sources */,
 				940D62912B0D05690075AA28 /* SecureField_KeyboardSafeArea.swift in Sources */,
+				9486C3F32B0E4D51003E651D /* MGE_WhatCouldGoWrong_PositioningProblem.swift in Sources */,
 				940D615C2B0D05670075AA28 /* RenderingMode_Intro.swift in Sources */,
 				940D60552B0D05660075AA28 /* ButtonStyle_PassInProperties.swift in Sources */,
 				940D618E2B0D05680075AA28 /* Searchable_SearchCompletion.swift in Sources */,
@@ -5540,6 +6066,8 @@
 				940D60CC2B0D05670075AA28 /* Background_Materials.swift in Sources */,
 				940D606D2B0D05660075AA28 /* ForegroundStyle_Materials.swift in Sources */,
 				940D60772B0D05660075AA28 /* HueRotation_Photos.swift in Sources */,
+				9486C4182B0E4D52003E651D /* VerticalScrolling_ScaleInOut.swift in Sources */,
+				9486C3D02B0E4D51003E651D /* Curve_WelcomeScreen.swift in Sources */,
 				940D61EF2B0D05680075AA28 /* TextField_NumberTypes.swift in Sources */,
 				940D626C2B0D05690075AA28 /* Text_WrappingImages.swift in Sources */,
 				940D5FCA2B0D05650075AA28 /* HorizontalStack.swift in Sources */,
@@ -5556,6 +6084,7 @@
 				9486C30D2B0E4C27003E651D /* Value_Introduction.swift in Sources */,
 				940D628B2B0D05690075AA28 /* Text_AllowsTightening.swift in Sources */,
 				940D5FC92B0D05650075AA28 /* DepthStack.swift in Sources */,
+				9486C3E22B0E4D51003E651D /* MGE_View1_To_View2_Problem.swift in Sources */,
 				940D618C2B0D05680075AA28 /* Searchable_DismissSearch.swift in Sources */,
 				9486C32E2B0E4C28003E651D /* Conventions.swift in Sources */,
 				940D5FDE2B0D05650075AA28 /* RotationGesture_Intro.swift in Sources */,
@@ -5581,6 +6110,7 @@
 				940D61142B0D05670075AA28 /* Color_Intro.swift in Sources */,
 				940D60D52B0D05670075AA28 /* Position_GeometryReader.swift in Sources */,
 				940D625C2B0D05690075AA28 /* Menu_Customizing.swift in Sources */,
+				9486C3D62B0E4D51003E651D /* AnimatableData_QuadCurveExample.swift in Sources */,
 				940D5FE02B0D05650075AA28 /* SequenceGesture_Intro.swift in Sources */,
 				940D607A2B0D05660075AA28 /* Scale_Intro.swift in Sources */,
 				940D625D2B0D05690075AA28 /* Menu_WithPickerInside.swift in Sources */,
@@ -5589,8 +6119,11 @@
 				9486C3252B0E4C28003E651D /* Exercise_AnimationOptions_Final.swift in Sources */,
 				940D60082B0D05650075AA28 /* GridItem_Intro.swift in Sources */,
 				940D62232B0D05690075AA28 /* Button_Tint.swift in Sources */,
+				9486C4062B0E4D51003E651D /* MGE_ShowingTheDetailView.swift in Sources */,
+				9486C4072B0E4D51003E651D /* MGE_AddSectionView.swift in Sources */,
 				9486C2F62B0E4C27003E651D /* Exercise1_FadeInWithOpacity.swift in Sources */,
 				9486C3312B0E4C28003E651D /* GettingStarted_CheckUnderstanding.swift in Sources */,
+				9486C40D2B0E4D52003E651D /* MGE_Final.swift in Sources */,
 				940D62A32B0D05690075AA28 /* Preview_DarkMode.swift in Sources */,
 				940D621A2B0D05680075AA28 /* TabView_Badge.swift in Sources */,
 				940D5FED2B0D05650075AA28 /* EllipticalGradient_SizeChanges.swift in Sources */,
@@ -5605,6 +6138,7 @@
 				9486C3062B0E4C27003E651D /* BasicAnimations_Challenge2.swift in Sources */,
 				940D60242B0D05650075AA28 /* HStack_Spacing.swift in Sources */,
 				9486C2F32B0E4C27003E651D /* Exercise1_MoveShapesWithOffset_Refactor.swift in Sources */,
+				9486C3E92B0E4D51003E651D /* MGE_Positioning_Solution.swift in Sources */,
 				940D60CD2B0D05670075AA28 /* Background_HierarchicalColor.swift in Sources */,
 				9486C3212B0E4C28003E651D /* Scope_WithAnimation_MultipleViews.swift in Sources */,
 				9486C3322B0E4C28003E651D /* Example_WithAnimation.swift in Sources */,
@@ -5614,6 +6148,7 @@
 				940D61162B0D05670075AA28 /* Color_ColorLiterals.swift in Sources */,
 				940D602C2B0D05660075AA28 /* LazyVGrid_AdaptiveWidth.swift in Sources */,
 				940D62152B0D05680075AA28 /* TabView_Intro.swift in Sources */,
+				9486C4082B0E4D51003E651D /* MGE_RowView.swift in Sources */,
 				940D62222B0D05690075AA28 /* Button_ButtonBorderShape.swift in Sources */,
 				940D60F72B0D05670075AA28 /* Padding_HorizontalVertical.swift in Sources */,
 				940D61F52B0D05680075AA28 /* TextField_OnSubmit.swift in Sources */,
@@ -5623,9 +6158,11 @@
 				940D612A2B0D05670075AA28 /* Path_RelativeArc_Mask.swift in Sources */,
 				940D5F942B0D05650075AA28 /* Sheet_SwipeDisabled.swift in Sources */,
 				940D62092B0D05680075AA28 /* TextEditor_DismissKeyboard.swift in Sources */,
+				9486C3CF2B0E4D51003E651D /* Curve_ExtractWelcomeBackView.swift in Sources */,
 				940D61772B0D05680075AA28 /* Scrollview_Horizontal.swift in Sources */,
 				940D617B2B0D05680075AA28 /* Form_ListRowInset.swift in Sources */,
 				940D61202B0D05670075AA28 /* Color_OtherSystemColors.swift in Sources */,
+				9486C40F2B0E4D52003E651D /* MGE_WhatItDoes.swift in Sources */,
 				940D610C2B0D05670075AA28 /* VideoPlayer_Intro.swift in Sources */,
 				940D61452B0D05670075AA28 /* Circles_Trim_SolidShapes.swift in Sources */,
 				940D609B2B0D05660075AA28 /* Rotation3D_XAxis.swift in Sources */,
@@ -5658,6 +6195,7 @@
 				940D62202B0D05690075AA28 /* Button_Role.swift in Sources */,
 				940D607F2B0D05660075AA28 /* AccentColor_ColorProperty.swift in Sources */,
 				940D603F2B0D05660075AA28 /* ScrollViewReader_Animating.swift in Sources */,
+				9486C4162B0E4D52003E651D /* MGE_LazyVStack_Intro.swift in Sources */,
 				940D60D62B0D05670075AA28 /* Position_Intro.swift in Sources */,
 				940D61172B0D05670075AA28 /* Color_OpacityModifier.swift in Sources */,
 				9486C3052B0E4C27003E651D /* Animate_Opacity.swift in Sources */,
@@ -5670,16 +6208,19 @@
 				940D61E22B0D05680075AA28 /* TextField_Intro.swift in Sources */,
 				940D5FC12B0D05650075AA28 /* ViewSizes_Pull_In.swift in Sources */,
 				940D619B2B0D05680075AA28 /* Picker_Intro.swift in Sources */,
+				9486C3C22B0E4D51003E651D /* Curve_ReadingCurves1.swift in Sources */,
 				940D61692B0D05680075AA28 /* Disabled_Intro.swift in Sources */,
 				940D61A32B0D05680075AA28 /* PhotosPicker_MultipleItems.swift in Sources */,
 				940D61E72B0D05680075AA28 /* TextField_DismissKeyboard.swift in Sources */,
 				9486C2CA2B0E4C27003E651D /* Spring_Challenge1.swift in Sources */,
 				940D61A62B0D05680075AA28 /* Navigation_NavBarItems.swift in Sources */,
 				940D605F2B0D05660075AA28 /* DatePickerStyle_Graphical.swift in Sources */,
+				9486C4012B0E4D51003E651D /* MGE_Button_TextSolution.swift in Sources */,
 				940D628C2B0D05690075AA28 /* Text_CapitalLetterOptions.swift in Sources */,
 				940D5FD22B0D05650075AA28 /* DragGesture_OnChanged.swift in Sources */,
 				940D61A22B0D05680075AA28 /* PhotosPicker_Intro.swift in Sources */,
 				9486C2DE2B0E4C27003E651D /* Popup_TheSetup.swift in Sources */,
+				9486C3FA2B0E4D51003E651D /* MGE_HStack_Intro.swift in Sources */,
 				940D5FD12B0D05650075AA28 /* DragGesture_LimitToXOrY.swift in Sources */,
 				940D625A2B0D05690075AA28 /* List_ListSectionSeparatorTint.swift in Sources */,
 				940D61212B0D05670075AA28 /* Path_Trapezium.swift in Sources */,
@@ -5703,6 +6244,7 @@
 				940D627F2B0D05690075AA28 /* Text_LineSpacing.swift in Sources */,
 				9486C3262B0E4C28003E651D /* Exercise_AnimationOptions_TheLayout.swift in Sources */,
 				940D612D2B0D05670075AA28 /* Path_Intro.swift in Sources */,
+				9486C4092B0E4D51003E651D /* MGE_AddParkNameToRow.swift in Sources */,
 				940D61522B0D05670075AA28 /* RoundedRectangle_CornerSize.swift in Sources */,
 				940D61E02B0D05680075AA28 /* TextField_Placeholder.swift in Sources */,
 				9486C2DA2B0E4C27003E651D /* Popup_AddAnimation.swift in Sources */,
@@ -5727,14 +6269,19 @@
 				940D621B2B0D05680075AA28 /* TabView_PreventBackground.swift in Sources */,
 				940D60C52B0D05670075AA28 /* DrawingGroup_Intro.swift in Sources */,
 				9486C2BA2B0E4C27003E651D /* Interpolating_CompareStiffnessDamping.swift in Sources */,
+				9486C3EC2B0E4D51003E651D /* MGE_Source_DifferentIds.swift in Sources */,
+				9486C3D52B0E4D51003E651D /* AnimatableData_Intro.swift in Sources */,
 				940D61312B0D05670075AA28 /* Image_FromAssetCatalog.swift in Sources */,
 				940D60732B0D05660075AA28 /* Border_RoundedCorners.swift in Sources */,
 				940D612C2B0D05670075AA28 /* Path_CGPathToPath.swift in Sources */,
+				9486C41A2B0E4D52003E651D /* HorizontalScrolling_YAxisswift.swift in Sources */,
 				940D60EA2B0D05670075AA28 /* Frame_Alignment.swift in Sources */,
+				9486C3DB2B0E4D51003E651D /* MGE_TwoScreens_Namespaces_Problem.swift in Sources */,
 				940D60122B0D05650075AA28 /* GeometryReader_Intro.swift in Sources */,
 				940D5F972B0D05650075AA28 /* ConfirmationDialog_OnIpad.swift in Sources */,
 				9486C32D2B0E4C28003E651D /* Example_NoAnimation.swift in Sources */,
 				940D61442B0D05670075AA28 /* Circles_Trim_Outline.swift in Sources */,
+				9486C3FE2B0E4D51003E651D /* MGE_Text_Solution.swift in Sources */,
 				940D60AD2B0D05660075AA28 /* ClipShape_WithLayers.swift in Sources */,
 				940D61C52B0D05680075AA28 /* Chart_WithForEach.swift in Sources */,
 				940D60E42B0D05670075AA28 /* Frame_Intro.swift in Sources */,
@@ -5752,8 +6299,10 @@
 				940D60162B0D05650075AA28 /* GeometryReader_Layers.swift in Sources */,
 				940D60DF2B0D05670075AA28 /* AspectRatio_Intro.swift in Sources */,
 				940D61472B0D05670075AA28 /* Circles_Strokes.swift in Sources */,
+				9486C41B2B0E4D52003E651D /* HorizontalScrolling_Twisting.swift in Sources */,
 				940D60072B0D05650075AA28 /* GridItem_FlexibleSize.swift in Sources */,
 				940D626D2B0D05690075AA28 /* Text_Format.swift in Sources */,
+				9486C3D82B0E4D51003E651D /* AnimatableModifiers_Intro.swift in Sources */,
 				940D5FB92B0D05650075AA28 /* Description3.swift in Sources */,
 				940D61BB2B0D05680075AA28 /* DisclosureGroup_Intro.swift in Sources */,
 				9486C2E02B0E4C27003E651D /* Trigger_Gesture_LongPress.swift in Sources */,
@@ -5784,6 +6333,7 @@
 				940D62392B0D05690075AA28 /* List_SwipeActions_Options.swift in Sources */,
 				940D616E2B0D05680075AA28 /* TabView_PageTabViewStyle.swift in Sources */,
 				940D62A02B0D05690075AA28 /* Preview_InterfaceOrientation.swift in Sources */,
+				9486C3DF2B0E4D51003E651D /* MGE_Sizing_Problem.swift in Sources */,
 				9486C2C22B0E4C27003E651D /* Spring_Color.swift in Sources */,
 				940D5FBB2B0D05650075AA28 /* Description1.swift in Sources */,
 				940D60D72B0D05670075AA28 /* Position_Coordinates.swift in Sources */,
@@ -5796,9 +6346,13 @@
 				940D60FA2B0D05670075AA28 /* Padding_Length.swift in Sources */,
 				9486C2C82B0E4C27003E651D /* Exercise_Spring_AnimateFadeIns.swift in Sources */,
 				940D5F9C2B0D05650075AA28 /* Toolbar_Menu.swift in Sources */,
+				9486C3FB2B0E4D51003E651D /* MGE_VStack_Intro.swift in Sources */,
 				940D629A2B0D05690075AA28 /* ProgressView_CurrentValue.swift in Sources */,
+				9486C3CB2B0E4D51003E651D /* ButtonStyleThinOutline.swift in Sources */,
 				9486C3182B0E4C27003E651D /* Scope_No_WithAnimation.swift in Sources */,
+				9486C3D22B0E4D51003E651D /* Curve_ReadingCurves2.swift in Sources */,
 				9486C3202B0E4C28003E651D /* Scope_NoAnimation.swift in Sources */,
+				9486C3CC2B0E4D51003E651D /* Curve_ExtractTitleView.swift in Sources */,
 				940D629D2B0D05690075AA28 /* GroupBox_AsCards.swift in Sources */,
 				940D60382B0D05660075AA28 /* ZStack_Layering.swift in Sources */,
 				940D604F2B0D05660075AA28 /* MenuStyle_Intro.swift in Sources */,
@@ -5819,11 +6373,14 @@
 				940D61072B0D05670075AA28 /* Maps_Intro.swift in Sources */,
 				940D60DE2B0D05670075AA28 /* CoordinateSpace_Intro.swift in Sources */,
 				940D60622B0D05660075AA28 /* DatePickerStyle_Compact.swift in Sources */,
+				9486C3C92B0E4D51003E651D /* Curve_MainScreenWithWelcomeViewAnimation.swift in Sources */,
 				940D5F8D2B0D05640075AA28 /* Sheet_PresentationBackground.swift in Sources */,
 				940D61372B0D05670075AA28 /* Image_ScaledMetricSymbol.swift in Sources */,
 				940D60802B0D05660075AA28 /* AccentColor_Intro.swift in Sources */,
 				940D62962B0D05690075AA28 /* ProgressView_Intro.swift in Sources */,
+				9486C3E42B0E4D51003E651D /* MGE_Example1.swift in Sources */,
 				940D62872B0D05690075AA28 /* Text_ScaledMetric_RelativeTo.swift in Sources */,
+				9486C3BE2B0E4D51003E651D /* TimeLineView_Intro.swift in Sources */,
 				9486C2BF2B0E4C27003E651D /* Interpolating_InitialVelocity.swift in Sources */,
 				940D606C2B0D05660075AA28 /* ForegroundStyle_Color.swift in Sources */,
 				940D61362B0D05670075AA28 /* Image_FromSymbols.swift in Sources */,
@@ -5845,6 +6402,7 @@
 				9486C2F02B0E4C27003E651D /* Exercise1_FadeInWithOpacity_Refactor.swift in Sources */,
 				940D62802B0D05690075AA28 /* Text_DynamicTypeSize.swift in Sources */,
 				940D61732B0D05680075AA28 /* Scrollview_Disabled.swift in Sources */,
+				9486C4172B0E4D52003E651D /* MGE_List_SeparateDetailView.swift in Sources */,
 				940D614E2B0D05670075AA28 /* Rectangular_Stokes.swift in Sources */,
 				940D613A2B0D05670075AA28 /* Image_SymbolSizing.swift in Sources */,
 				940D620F2B0D05680075AA28 /* ToggleTint.swift in Sources */,
@@ -5857,7 +6415,9 @@
 				940D608F2B0D05660075AA28 /* CompositingGroup_OneView.swift in Sources */,
 				940D606B2B0D05660075AA28 /* ForegroundStyle_Semantic.swift in Sources */,
 				940D62632B0D05690075AA28 /* Menu_MaxItems.swift in Sources */,
+				9486C3F72B0E4D51003E651D /* MGE_WhatCouldGoWrong_ClipShapeSolution.swift in Sources */,
 				9486C2F92B0E4C27003E651D /* Animate_TextSize.swift in Sources */,
+				9486C4192B0E4D52003E651D /* HorizontalScrolling_YAxis1.swift in Sources */,
 				940D60D02B0D05670075AA28 /* Background_Gradients.swift in Sources */,
 				940D60BE2B0D05670075AA28 /* BlendMode_Intro.swift in Sources */,
 				940D61BF2B0D05680075AA28 /* Chart_Horizontal.swift in Sources */,
@@ -5865,17 +6425,21 @@
 				940D601D2B0D05650075AA28 /* Spacer_Evenly.swift in Sources */,
 				940D62752B0D05690075AA28 /* Text_Formatting.swift in Sources */,
 				940D603D2B0D05660075AA28 /* ScrollViewReader_Intro.swift in Sources */,
+				9486C4042B0E4D51003E651D /* MGE_Images_Problem.swift in Sources */,
 				9486C2D32B0E4C27003E651D /* Triggers_CheckYourUnderstanding2.swift in Sources */,
 				940D61012B0D05670075AA28 /* Overlay_ZStackComparison.swift in Sources */,
 				940D608E2B0D05660075AA28 /* Brightness_Intro.swift in Sources */,
 				940D617A2B0D05680075AA28 /* Form_HeadersAndFooters.swift in Sources */,
 				940D62472B0D05690075AA28 /* List_WithChildren.swift in Sources */,
 				940D5F882B0D05640075AA28 /* Alerts_Intro.swift in Sources */,
+				9486C3C32B0E4D51003E651D /* Curve_TimingCurveModifier2.swift in Sources */,
 				940D60CF2B0D05670075AA28 /* Background_Content.swift in Sources */,
+				9486C4132B0E4D52003E651D /* MGE_Challenge1.swift in Sources */,
 				940D60FF2B0D05670075AA28 /* LayoutPriority_Solving1.swift in Sources */,
 				940D62532B0D05690075AA28 /* List_CustomRows.swift in Sources */,
 				940D62602B0D05690075AA28 /* Menu_OtherViewsWithin.swift in Sources */,
 				940D615D2B0D05670075AA28 /* Antialiased_Intro.swift in Sources */,
+				9486C3C12B0E4D51003E651D /* Curve_CheckYourUnderstanding2.swift in Sources */,
 				940D60132B0D05650075AA28 /* GeometryReader_MinMidMax.swift in Sources */,
 				9486C2D42B0E4C27003E651D /* Triggers_CheckYourUnderstanding1.swift in Sources */,
 				940D5FC02B0D05650075AA28 /* SymbolsIntro.swift in Sources */,
