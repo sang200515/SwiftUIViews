@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Searchable_SearchCompletion: View {

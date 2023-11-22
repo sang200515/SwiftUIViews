@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Nav_WithPath: View {

@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Relationships_AndModifiers: View {

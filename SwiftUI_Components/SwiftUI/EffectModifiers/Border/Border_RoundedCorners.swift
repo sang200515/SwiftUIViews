@@ -3,9 +3,6 @@
 //  100Views
 //
 //  Created by Mark Moeykens on 8/28/19.
-//  Copyright © 2019 Mark Moeykens. All rights reserved.
-//
-
 import SwiftUI
 
 private struct Border_RoundedCorners: View {

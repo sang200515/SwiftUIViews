@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct PickerStyle_Intro: View {

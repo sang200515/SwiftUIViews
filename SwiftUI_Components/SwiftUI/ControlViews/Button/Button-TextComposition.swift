@@ -1,8 +1,6 @@
 //
 //  Button-TextModifiers.swift
 //  For Book
-//
-
 import SwiftUI
 
 private struct Button_TextModifiers : View {

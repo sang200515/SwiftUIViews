@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct LazyHStack_PinnedViews: View {

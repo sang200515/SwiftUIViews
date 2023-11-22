@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct ScrollViewReader_Intro: View {

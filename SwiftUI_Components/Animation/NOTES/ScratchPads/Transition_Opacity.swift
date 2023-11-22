@@ -3,9 +3,6 @@
 //  SwiftUIAnimations
 //
 //  Created by Mark Moeykens on 10/3/19.
-//  Copyright © 2019 Mark Moeykens. All rights reserved.
-//
-
 import SwiftUI
 
 struct Transition_Opacity: View {

@@ -3,9 +3,6 @@
 //  100Views
 //
 //  Created by Mark Moeykens on 6/15/19.
-//  Copyright © 2019 Mark Moeykens. All rights reserved.
-//
-
 import SwiftUI
 
 private struct ZStack_IgnoreSafeAreaEdges : View {

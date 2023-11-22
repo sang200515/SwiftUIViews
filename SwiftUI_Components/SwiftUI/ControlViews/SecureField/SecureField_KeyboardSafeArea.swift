@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct SecureField_KeyboardSafeArea: View {

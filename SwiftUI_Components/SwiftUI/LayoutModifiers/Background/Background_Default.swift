@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Background_Default: View {

@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct TabView_SymbolVariants: View {

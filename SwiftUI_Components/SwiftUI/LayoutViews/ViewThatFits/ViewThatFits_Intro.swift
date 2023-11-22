@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct ViewThatFits_Intro: View {

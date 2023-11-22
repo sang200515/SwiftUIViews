@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Label_WithImages: View {

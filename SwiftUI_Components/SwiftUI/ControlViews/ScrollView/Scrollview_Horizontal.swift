@@ -1,5 +1,3 @@
-//  Copyright © 2020 Big Mountain Studio. All rights reserved.
-
 import SwiftUI
 
 private struct Scrollview_Horizontal : View {

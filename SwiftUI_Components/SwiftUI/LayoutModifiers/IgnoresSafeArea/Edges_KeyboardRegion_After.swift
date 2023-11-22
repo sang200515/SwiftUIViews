@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Edges_KeyboardRegion_After: View {

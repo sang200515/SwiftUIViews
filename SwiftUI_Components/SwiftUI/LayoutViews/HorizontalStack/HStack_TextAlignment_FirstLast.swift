@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct HStack_TextAlignment_FirstLast: View {

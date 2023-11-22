@@ -3,9 +3,6 @@
 //  SwiftUIAnimations
 //
 //  Created by Mark Moeykens on 9/26/19.
-//  Copyright © 2019 Mark Moeykens. All rights reserved.
-//
-
 import SwiftUI
 
 struct HorizontalScrolling_YAxisswift: View {

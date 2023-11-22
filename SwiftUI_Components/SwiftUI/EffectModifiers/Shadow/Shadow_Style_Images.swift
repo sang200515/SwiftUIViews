@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Shadow_Style_Images: View {

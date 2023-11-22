@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 /* BOOK NOTE
  SwiftUI may use a different width depending on platform, context, and orientation.

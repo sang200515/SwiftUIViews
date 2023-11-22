@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Preview_InterfaceOrientation: View {

@@ -1,8 +1,5 @@
 //
 //  Created by Mark Moeykens on 6/19/19.
-//  Copyright © 2019 Mark Moeykens. All rights reserved.
-//
-
 import SwiftUI
 
 private struct SegmentedControl_Intro : View {

@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Popover_Size: View {

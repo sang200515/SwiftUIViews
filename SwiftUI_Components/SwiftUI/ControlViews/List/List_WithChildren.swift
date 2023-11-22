@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 // Need to conform to Identifiable

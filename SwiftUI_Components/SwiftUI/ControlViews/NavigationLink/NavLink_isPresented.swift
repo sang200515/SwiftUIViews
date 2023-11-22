@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct NavLink_isPresented: View {

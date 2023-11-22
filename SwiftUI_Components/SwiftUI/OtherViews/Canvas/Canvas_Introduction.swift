@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Canvas_Introduction: View {

@@ -1,7 +1,3 @@
-
-
-// Not quite sure where I was going with this. Something that was said in a WWDC video?
-
 import SwiftUI
 
 private struct Form_AlignmentOfLabels: View {

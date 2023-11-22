@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Accessibility_Hiding: View {

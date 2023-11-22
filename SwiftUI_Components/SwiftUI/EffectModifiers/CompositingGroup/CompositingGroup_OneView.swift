@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct CompositingGroup_OneView: View {

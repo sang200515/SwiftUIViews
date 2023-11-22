@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct ShareLink_Customize: View {

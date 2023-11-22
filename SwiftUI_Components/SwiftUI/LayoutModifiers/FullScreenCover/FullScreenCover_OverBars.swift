@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct FullScreenCover_OverBars: View {

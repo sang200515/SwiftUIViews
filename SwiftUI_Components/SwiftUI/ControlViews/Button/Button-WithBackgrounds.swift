@@ -1,7 +1,5 @@
 //  Created by Mark Moeykens on 6/14/19.
 //  For Book
-//
-
 import SwiftUI
 
 private struct Button_EffectModifiers : View {

@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct TextEditor_LineSpacing: View {

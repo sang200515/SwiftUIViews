@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Toggle_ToggleStyle: View {

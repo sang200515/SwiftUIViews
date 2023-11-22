@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Menu_InsideMenu: View {

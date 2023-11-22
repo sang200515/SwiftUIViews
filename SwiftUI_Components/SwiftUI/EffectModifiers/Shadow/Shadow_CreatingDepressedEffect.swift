@@ -3,9 +3,6 @@
 //  SwiftUI_Views
 //
 //  Created by Mark Moeykens on 11/27/19.
-//  Copyright © 2019 Mark Moeykens. All rights reserved.
-//
-
 import SwiftUI
 
 private struct Shadow_CreatingDepressedEffect: View {

@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct ZStack_Aligning: View {

@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 import Charts // You need to import the Charts framework (separate from SwiftUI)
 

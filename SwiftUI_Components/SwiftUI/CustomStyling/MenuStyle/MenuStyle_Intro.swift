@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct MenuStyle_Intro: View {

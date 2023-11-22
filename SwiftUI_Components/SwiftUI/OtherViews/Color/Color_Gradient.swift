@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Color_Gradient: View {

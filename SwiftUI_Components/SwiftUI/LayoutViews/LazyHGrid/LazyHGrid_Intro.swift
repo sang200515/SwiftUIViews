@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct LazyHGrid_Intro: View {

@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Image_ScaledMetricSymbol: View {

@@ -1,5 +1,3 @@
-// Copyright © 2021 Mark Moeykens. All rights reserved. | @BigMtnStudio
-
 import SwiftUI
 
 private struct List_SafeAreaInset: View {

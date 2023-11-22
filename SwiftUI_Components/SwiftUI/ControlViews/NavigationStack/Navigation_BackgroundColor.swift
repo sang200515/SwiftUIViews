@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Navigation_BackgroundColor: View {

@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Overlay_ImagesAndButtons: View {

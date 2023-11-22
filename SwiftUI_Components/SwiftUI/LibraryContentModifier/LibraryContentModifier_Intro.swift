@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct LibraryContentModifier_Intro: View {

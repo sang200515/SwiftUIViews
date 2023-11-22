@@ -3,9 +3,6 @@
 //  100Views
 //
 //  Created by Mark Moeykens on 6/8/19.
-//  Copyright © 2019 Mark Moeykens. All rights reserved.
-//
-
 import SwiftUI
 
 private struct Circles_2_00_Strokes : View {

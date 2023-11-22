@@ -1,6 +1,4 @@
 //  Created by Mark Moeykens on 6/24/19.
-//  Copyright © 2019 Mark Moeykens. All rights reserved.
-
 import SwiftUI
 
 private struct Slider_Customization : View {

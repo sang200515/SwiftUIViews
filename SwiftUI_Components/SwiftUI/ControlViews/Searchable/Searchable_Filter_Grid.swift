@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Searchable_Filter_Grid: View {

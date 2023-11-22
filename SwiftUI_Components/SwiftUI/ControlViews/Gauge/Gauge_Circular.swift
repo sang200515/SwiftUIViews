@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Gauge_Circular: View {

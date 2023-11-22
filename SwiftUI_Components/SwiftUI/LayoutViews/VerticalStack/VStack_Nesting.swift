@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct VStack_Nesting: View {

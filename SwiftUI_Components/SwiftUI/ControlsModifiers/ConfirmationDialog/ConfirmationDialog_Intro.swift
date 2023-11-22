@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct ConfirmationDialog_Intro: View {

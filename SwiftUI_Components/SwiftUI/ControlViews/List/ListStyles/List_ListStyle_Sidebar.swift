@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct List_ListStyle_Sidebar: View {

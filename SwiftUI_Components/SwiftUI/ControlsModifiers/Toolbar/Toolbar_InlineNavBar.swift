@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Toolbar_InlineNavBar: View {

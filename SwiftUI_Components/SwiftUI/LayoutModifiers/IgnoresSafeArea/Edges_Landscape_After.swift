@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Edges_Landscape_After: View {

@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct IndexViewStyle_Intro: View {

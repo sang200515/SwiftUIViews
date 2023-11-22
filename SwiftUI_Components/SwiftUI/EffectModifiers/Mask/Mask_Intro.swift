@@ -3,9 +3,6 @@
 //  100Views
 //
 //  Created by Mark Moeykens on 9/19/19.
-//  Copyright © 2019 Mark Moeykens. All rights reserved.
-//
-
 import SwiftUI
 
 private struct Mask_Intro: View {

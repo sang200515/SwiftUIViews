@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 /* Use different initializers depending on what part of the LabeledContent you want to customize. */

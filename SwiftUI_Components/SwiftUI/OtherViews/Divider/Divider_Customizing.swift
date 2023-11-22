@@ -1,7 +1,4 @@
 //  Created by Mark Moeykens on 7/11/19.
-//  Copyright © 2019 Mark Moeykens. All rights reserved.
-//
-
 import SwiftUI
 
 private struct Divider_Customizing : View {

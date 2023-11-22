@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 /* This was introduced in iOS 15. Prior to this, use .autocapitalization. */
 struct TextField_Autocapitalization: View {

@@ -1,6 +1,4 @@
 //  Created by Mark Moeykens on 6/6/19.
-//  Copyright © 2019 Mark Moeykens. All rights reserved.
-
 import SwiftUI
 
 private struct VStack_Intro : View {

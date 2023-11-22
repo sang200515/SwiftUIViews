@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct ControlGroup_Intro: View {

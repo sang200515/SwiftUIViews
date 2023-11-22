@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct PreferenceKey_Intro: View {

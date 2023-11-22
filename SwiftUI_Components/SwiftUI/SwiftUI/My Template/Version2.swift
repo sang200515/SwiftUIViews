@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Version2: View {

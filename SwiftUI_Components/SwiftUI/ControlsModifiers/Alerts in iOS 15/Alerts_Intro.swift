@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Alerts_Intro: View {

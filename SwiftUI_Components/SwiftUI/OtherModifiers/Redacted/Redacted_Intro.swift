@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Redacted_Intro: View {

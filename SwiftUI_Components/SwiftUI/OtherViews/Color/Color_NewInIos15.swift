@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Color_NewInIos15: View {

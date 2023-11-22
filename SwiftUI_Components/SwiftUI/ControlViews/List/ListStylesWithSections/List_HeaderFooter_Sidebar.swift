@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct List_HeaderFooter_Sidebar: View {

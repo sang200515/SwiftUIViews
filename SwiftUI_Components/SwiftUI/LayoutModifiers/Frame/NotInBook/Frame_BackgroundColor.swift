@@ -3,9 +3,6 @@
 //  SwiftUI_Views
 //
 //  Created by Mark Moeykens on 12/16/19.
-//  Copyright © 2019 Mark Moeykens. All rights reserved.
-//
-
 import SwiftUI
 
 private struct Frame_BackgroundColor: View {

@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Preference_ReduceFunction: View {

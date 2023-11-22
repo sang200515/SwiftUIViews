@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct AccentColor_ColorProperty: View {

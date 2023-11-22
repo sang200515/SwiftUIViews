@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Disabled_Intro: View {

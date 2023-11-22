@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct GeometryReader_Layers: View {

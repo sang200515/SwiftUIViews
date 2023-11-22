@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct LazyVGrid_ColumnSpacing: View {

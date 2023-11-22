@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct LabelStyle_Introduction: View {

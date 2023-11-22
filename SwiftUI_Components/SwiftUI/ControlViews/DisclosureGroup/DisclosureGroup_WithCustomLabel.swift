@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct DisclosureGroup_WithCustomLabel: View {

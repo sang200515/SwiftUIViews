@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Group_WithConditional: View {

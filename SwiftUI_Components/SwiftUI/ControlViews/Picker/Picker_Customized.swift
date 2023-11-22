@@ -1,8 +1,5 @@
 //
 //  Created by Mark Moeykens on 6/18/19.
-//  Copyright © 2019 Mark Moeykens. All rights reserved.
-//
-
 import SwiftUI
 
 private struct Picker_Customized : View {

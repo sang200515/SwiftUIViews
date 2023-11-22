@@ -1,5 +1,3 @@
-//  Copyright © 2019 Mark Moeykens. All rights reserved
-
 import SwiftUI
 
 private struct Animate_TextSize: View {

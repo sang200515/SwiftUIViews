@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct ForegroundStyle_Gradient: View {

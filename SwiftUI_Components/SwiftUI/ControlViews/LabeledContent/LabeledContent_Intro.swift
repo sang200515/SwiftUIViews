@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct LabeledContent_Intro: View {

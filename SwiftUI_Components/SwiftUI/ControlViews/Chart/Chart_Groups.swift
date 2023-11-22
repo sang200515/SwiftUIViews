@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 import Charts
 /* This is another way to show multiple series of data*/

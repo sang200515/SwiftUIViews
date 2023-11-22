@@ -3,9 +3,7 @@
 //  SwiftUI_Views
 //
 //  Created by Mark Moeykens on 2/22/20.
-//  Copyright © 2020 Mark Moeykens. All rights reserved.
-//
-
+//  Copyright © 2020 Mark Moeykens. All rights reserved
 import SwiftUI
 
 private struct AllGradients: View {

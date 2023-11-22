@@ -1,7 +1,5 @@
 
 //  Created by Mark Moeykens on 6/16/19.
-//  Copyright © 2019 Mark Moeykens. All rights reserved.
-
 import SwiftUI
 
 private struct Spacer_1_00 : View {

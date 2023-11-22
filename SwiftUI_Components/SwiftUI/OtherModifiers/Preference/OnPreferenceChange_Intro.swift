@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct OnPreferenceChange_Intro: View {

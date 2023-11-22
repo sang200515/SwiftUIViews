@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct ProgressView_ShowingProgress: View {

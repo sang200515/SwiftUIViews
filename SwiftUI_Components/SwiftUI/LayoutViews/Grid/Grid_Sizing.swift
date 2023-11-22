@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Grid_Sizing: View {

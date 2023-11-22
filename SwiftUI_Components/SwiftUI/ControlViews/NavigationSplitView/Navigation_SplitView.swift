@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Navigation_SplitView: View {

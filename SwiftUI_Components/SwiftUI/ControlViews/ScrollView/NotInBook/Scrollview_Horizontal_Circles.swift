@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Scrollview_Horizontal_Circles: View {

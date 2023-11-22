@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 /*
  The grid evenly divides up spacing for all items in all of the rows so all views in all rows have the same same widths.

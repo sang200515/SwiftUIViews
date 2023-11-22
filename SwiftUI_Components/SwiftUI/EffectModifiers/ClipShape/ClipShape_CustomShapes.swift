@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct ClipShape_CustomShapes: View {

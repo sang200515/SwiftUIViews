@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Image_ForegroundStyle: View {

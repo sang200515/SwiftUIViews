@@ -3,8 +3,6 @@
 //  100Views
 //
 //  Created by Mark Moeykens on 8/21/19.
-//  Copyright © 2019 Mark Moeykens. All rights reserved.
-//
 
 import SwiftUI
 

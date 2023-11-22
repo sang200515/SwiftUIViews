@@ -1,5 +1,3 @@
-//  Copyright © 2020 Mark Moeykens. All rights reserved. | @BigMtnStudio
-
 import SwiftUI
 
 private struct AddVStack: View {

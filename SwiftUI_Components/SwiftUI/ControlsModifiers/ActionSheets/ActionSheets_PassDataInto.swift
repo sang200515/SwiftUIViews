@@ -3,9 +3,6 @@
 //  100Views
 //
 //  Created by Mark Moeykens on 8/13/19.
-//  Copyright © 2019 Mark Moeykens. All rights reserved.
-//
-
 import SwiftUI
 
 // 1. Create an Identifiable struct to hold the action sheet data

@@ -3,9 +3,7 @@
 //  SwiftUI_Views
 //
 //  Created by Kitwana Akil on 6/16/23.
-//  Copyright © 2023 Mark Moeykens. All rights reserved.
-//
-
+//  Copyright © 2023 Mark Moeykens. All rights reserved
 import SwiftUI
 
 private struct KitVStack_Intro: View {

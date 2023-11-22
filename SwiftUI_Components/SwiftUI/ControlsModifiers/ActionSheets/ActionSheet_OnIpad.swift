@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct ActionSheet_OnIpad: View {

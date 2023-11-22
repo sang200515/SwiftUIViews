@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Sheet_Background: View {

@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Path_QuadCurve2: View {

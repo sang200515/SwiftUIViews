@@ -1,7 +1,4 @@
 //  Created by Mark Moeykens on 8/23/19.
-//  Copyright © 2019 Mark Moeykens. All rights reserved.
-//
-
 import SwiftUI
 
 private struct Background_Colors: View {

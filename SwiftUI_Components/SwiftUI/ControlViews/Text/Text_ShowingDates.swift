@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Text_ShowingDates: View {

@@ -3,9 +3,6 @@
 //  100Views
 //
 //  Created by Mark Moeykens on 7/6/19.
-//  Copyright © 2019 Mark Moeykens. All rights reserved.
-//
-
 import SwiftUI
 
 private struct Image_SymbolSizing : View {

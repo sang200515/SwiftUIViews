@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct LazyVStack_Intro: View {

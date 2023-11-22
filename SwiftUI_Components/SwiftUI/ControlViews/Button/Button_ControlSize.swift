@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Button_ControlSize: View {

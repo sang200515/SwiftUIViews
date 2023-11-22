@@ -2,9 +2,7 @@
 /*
  Note: The problem here is that we can't use more than one alignment guide with a VStack/HStack.
  This problem was solved using Preferences in OtherModifiers > Preference > Preference_WidestTextView.swift
- */
-
-import SwiftUI
+ */import SwiftUI
 
 private struct AlignNumbers: View {
     var body: some View {

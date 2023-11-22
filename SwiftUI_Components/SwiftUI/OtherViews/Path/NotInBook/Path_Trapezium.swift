@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Path_Trapezium: View {

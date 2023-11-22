@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct Form_WithDisclosureGroup: View {

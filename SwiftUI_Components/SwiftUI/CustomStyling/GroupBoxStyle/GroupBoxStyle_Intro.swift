@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct GroupBoxStyle_Intro: View {

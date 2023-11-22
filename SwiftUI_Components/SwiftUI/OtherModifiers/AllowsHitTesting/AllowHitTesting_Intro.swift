@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct AllowHitTesting_Intro: View {

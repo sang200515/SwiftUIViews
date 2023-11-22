@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct RenameButton_EditText: View {

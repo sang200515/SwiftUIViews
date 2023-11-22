@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct DatePickerStyle_InForms: View {

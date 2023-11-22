@@ -1,5 +1,3 @@
-// Copyright © 2023 Big Mountain Studio. All rights reserved. Twitter: @BigMtnStudio
-
 import SwiftUI
 
 private struct Sheet_Detents: View {

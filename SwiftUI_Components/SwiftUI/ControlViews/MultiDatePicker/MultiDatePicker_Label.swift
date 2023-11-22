@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct MultiDatePicker_Label: View {

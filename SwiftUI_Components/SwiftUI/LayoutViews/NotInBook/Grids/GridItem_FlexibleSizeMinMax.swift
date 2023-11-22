@@ -1,5 +1,3 @@
-
-
 import SwiftUI
 
 private struct GridItem_FlexibleSizeMinMax: View {

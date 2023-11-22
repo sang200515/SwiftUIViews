@@ -3,9 +3,6 @@
 //  SwiftUI_Views
 //
 //  Created by Mark Moeykens on 10/16/19.
-//  Copyright © 2019 Mark Moeykens. All rights reserved.
-//
-
 import SwiftUI
 
 private struct TextField_Alignment: View {
