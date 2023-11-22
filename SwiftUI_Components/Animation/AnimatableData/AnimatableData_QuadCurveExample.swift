@@ -1,7 +1,7 @@
 // Copyright © 2021 Big Mountain Studio. All rights reserved. Twitter: @BigMtnStudi
 import SwiftUI
 
-private struct AnimatableData_QuadCurveExample: View {
+private struct AnimatableData_QuadCurveExample: View {//flag
     @State private var presentingSheet = false
     @State private var curveOffset = -40.0
     

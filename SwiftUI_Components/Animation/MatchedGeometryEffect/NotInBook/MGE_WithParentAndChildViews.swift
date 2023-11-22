@@ -13,6 +13,11 @@ private struct MGE_WithParentAndChildViews: View {
             }
         }
         .animation(.easeIn, value: showDetailView)
+        .onAppear {
+            Timer.scheduledTimer(withTimeInterval: 2, repeats: true) { _ in
+                showDetailView.toggle()
+            }
+        }
     }
 }
 
@@ -22,7 +27,7 @@ struct MGE_WithParentAndChildViews_Previews: PreviewProvider {
     }
 }
 
-struct MGE_ParentView: View {
+private  struct MGE_ParentView: View {
     var namespace: Namespace.ID
     @Binding var showDetailView: Bool
     
@@ -50,7 +55,7 @@ struct MGE_ParentView: View {
     }
 }
 
-struct MGE_DetailView: View {
+private  struct MGE_DetailView: View {
     var namespace: Namespace.ID
     @Binding var showDetailView: Bool
     

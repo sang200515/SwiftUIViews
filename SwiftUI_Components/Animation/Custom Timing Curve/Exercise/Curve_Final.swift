@@ -1,7 +1,7 @@
 // 1/22/20.
 import SwiftUI
 
-private struct Curve_Final: View {
+private struct Curve_Final: View {//flag
     @State private var showMenus = false
     private var blurRadius: CGFloat = 4
     private var backgroundGradient = LinearGradient(gradient: Gradient(colors: [Color("Background4"), Color("Secondary4")]), startPoint: .top, endPoint: .bottom)
@@ -108,7 +108,11 @@ private struct Curve_Final: View {
                            Animation.easeInOut(duration: 1).delay(0.1) :
                                 .timingCurve(0.5, 0, 0.5, 1.5, duration: 1), value: showMenus)
             }.offset(y: 50)
-            
+                .onAppear {
+                    Timer.scheduledTimer(withTimeInterval: 2, repeats: true) { _ in
+                        showMenus.toggle()
+                    }
+                }
         }
         .font(.title)
         .foregroundColor(Color("Foreground4"))

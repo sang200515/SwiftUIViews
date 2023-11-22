@@ -1,7 +1,7 @@
 // 1/17/20.
 import SwiftUI
 
-private struct Curve_CurveBelow: View {
+private struct Curve_CurveBelow: View {//flag
     @State private var show = false
     
     var body: some View {
@@ -48,6 +48,15 @@ private struct Curve_CurveBelow: View {
                                 .shadow(radius: 8))
                 .transition(.slide)
                 .zIndex(1)
+            }
+        }  .onAppear {
+            Timer.scheduledTimer(withTimeInterval: 3, repeats: true) { _ in
+                show = true
+                DispatchQueue.main.asyncAfter(deadline: .now() + 1, execute:  {
+                    withAnimation(.timingCurve(0, -0.3, 1, 0, duration: 0.6)) {
+                        show = false
+                    }
+                })
             }
         }
     }

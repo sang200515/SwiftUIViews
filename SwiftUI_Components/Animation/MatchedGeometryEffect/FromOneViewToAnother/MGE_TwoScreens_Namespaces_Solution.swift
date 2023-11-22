@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MGE_TwoScreens_Namespaces_Solution: View {
+private struct MGE_TwoScreens_Namespaces_Solution: View {//flag
     @State private var showGreenScreen = false
     @Namespace var namespace
     
@@ -29,6 +29,11 @@ private struct MGE_TwoScreens_Namespaces_Solution: View {
         }
         .font(.title)
         .animation(.easeIn, value: showGreenScreen)
+        .onAppear {
+            Timer.scheduledTimer(withTimeInterval: 2, repeats: true) { _ in
+                showGreenScreen.toggle()
+            }
+        }
     }
 }
 

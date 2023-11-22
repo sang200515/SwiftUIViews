@@ -38,6 +38,11 @@ private struct Exercise_Spring_AnimateOffsets: View {
                         .background(Circle().fill(Color("Accent2")).shadow(radius: 10))
                 }
             }.onAppear { start.toggle() }
+                .onAppear {
+                    Timer.scheduledTimer(withTimeInterval: 2, repeats: true) { _ in
+                        start.toggle()
+                    }
+                }
         }
     }
 }

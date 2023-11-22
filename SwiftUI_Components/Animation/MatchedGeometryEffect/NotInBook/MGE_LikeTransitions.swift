@@ -34,6 +34,11 @@ private struct MGE_LikeTransitions: View {
         }
         .animation(.default, value: showView2)
         .font(.title)
+        .onAppear {
+            Timer.scheduledTimer(withTimeInterval: 2, repeats: true) { _ in
+                showView2.toggle()
+            }
+        }
     }
 }
 

@@ -33,6 +33,11 @@ private struct MGE_View1_To_View2_Problem: View {
         }
         .animation(.default, value: showView2)
         .font(.title)
+        .onAppear {
+            Timer.scheduledTimer(withTimeInterval: 1, repeats: true) { _ in
+                showView2.toggle()
+            }
+        }
     }
 }
 

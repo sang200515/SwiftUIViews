@@ -24,6 +24,11 @@ private struct MGE_FullScreenCover: View {
             //                .transition(.move(edge: .bottom))
         }
         .animation(.easeIn, value: showDetailView)
+        .onAppear {
+            Timer.scheduledTimer(withTimeInterval: 2, repeats: true) { _ in
+                showDetailView.toggle()
+            }
+        }
     }
 }
 

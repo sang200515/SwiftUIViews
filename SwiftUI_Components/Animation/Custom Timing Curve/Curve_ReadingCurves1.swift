@@ -28,6 +28,11 @@ private struct Curve_ReadingCurves1: View {
                 Button("Change") {
                     change.toggle()
                 }
+                .onAppear {
+                    Timer.scheduledTimer(withTimeInterval: 2, repeats: true) { _ in
+                        change.toggle()
+                    }
+                }
             }
             .font(.title)
             .tint(Color("Accent3"))

@@ -19,6 +19,11 @@ private struct Curve_PuttingItAllTogether: View {
         }
         .font(.title)
         .foregroundColor(Color("Foreground4"))
+        .onAppear {
+            Timer.scheduledTimer(withTimeInterval: 2, repeats: true) { _ in
+                showMenus.toggle()
+            }
+        }
     }
 }
 

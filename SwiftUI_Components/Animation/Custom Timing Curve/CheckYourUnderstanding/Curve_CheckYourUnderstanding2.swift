@@ -6,11 +6,16 @@ private struct Curve_CheckYourUnderstanding2: View {
     
     var body: some View {
         Text("Slow - Fast - Slow")
-            .offset(y: change ? 300 : -300)
+            .offset(y: change ? 200 : -200)
             .animation(.timingCurve(1, 0, 0, 1), value: change)
             .onTapGesture {
                 change.toggle()
-        }
+            }
+            .onAppear {
+                Timer.scheduledTimer(withTimeInterval: 1, repeats: true) { _ in
+                    change.toggle()
+                }
+            }
     }
 }
 

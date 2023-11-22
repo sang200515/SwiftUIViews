@@ -31,6 +31,11 @@ private struct Curve_ReadingCurves2: View {
                 }
                 .font(.title)
                 .tint(Color("Accent3"))
+                .onAppear {
+                    Timer.scheduledTimer(withTimeInterval: 2, repeats: true) { _ in
+                        change.toggle()
+                    }
+                }
             }
         }
     }

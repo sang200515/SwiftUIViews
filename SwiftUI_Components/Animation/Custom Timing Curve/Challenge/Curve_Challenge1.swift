@@ -73,6 +73,11 @@ private struct Curve_Challenge1: View {
         }
         .font(.largeTitle)
         .animation(.timingCurve(0.2, 1, 0.5, 1.5, duration: 0.3), value: menuSelection)
+        .onAppear {
+            Timer.scheduledTimer(withTimeInterval: 1, repeats: true) { _ in
+                menuSelection = ["airplane","car","tram"].randomElement() ?? ""
+            }
+        }
     }
 }
 

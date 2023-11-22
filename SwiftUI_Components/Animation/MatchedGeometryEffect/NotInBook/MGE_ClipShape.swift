@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MGE_ClipShape: View {
+private struct MGE_ClipShape: View {//flag
     @State private var showDetail = false
     @Namespace var namespace
     
@@ -53,6 +53,11 @@ private struct MGE_ClipShape: View {
         }
         .animation(.linear, value: showDetail)
         .padding(.bottom)
+        .onAppear {
+            Timer.scheduledTimer(withTimeInterval: 2, repeats: true) { _ in
+                showDetail.toggle()
+            }
+        }
     }
 }
 

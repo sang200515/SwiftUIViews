@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MGE_TextLocation: View {
+private struct MGE_TextLocation: View {//flag
     @Namespace private var animation
     @State private var isZoomed = false
 
@@ -44,6 +44,13 @@ private struct MGE_TextLocation: View {
             .frame(maxWidth: .infinity)
             .frame(height: isZoomed ? 400 : 60)
             .background(Color(white: 0.9))
+            .onAppear {
+                Timer.scheduledTimer(withTimeInterval: 2, repeats: true) { _ in
+                    withAnimation(.spring()) {
+                        isZoomed.toggle()
+                    }
+                }
+            }
         }
     }
 }
