@@ -1,4 +1,4 @@
-// Copyright © 2022 Big Mountain Studio. All rights reserved. Twitter: @BigMtnStudio
+
 /*
  Note: On iOS you're only going to see the first column and NO header name. It's better to use and different container when targeting iOS.
  */

@@ -1,4 +1,4 @@
-// Copyright © 2022 Big Mountain Studio. All rights reserved. Twitter: @BigMtnStudio
+
 
 import SwiftUI
 import Charts // You need to import the Charts framework (separate from SwiftUI)

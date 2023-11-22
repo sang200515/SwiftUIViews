@@ -16,7 +16,7 @@ private struct BasicSyntax: View {
     }
 }
 
-struct Person {
+struct Person2 {
     // Computed read-only property (no setter, value is not stored)
     var personType: String {
         get {
