@@ -1086,6 +1086,7 @@
 		9486C47D2B0E4F02003E651D /* Transition_Challenge2_List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C4542B0E4F02003E651D /* Transition_Challenge2_List.swift */; };
 		9486C47E2B0E4F02003E651D /* Transition_Challenge2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C4552B0E4F02003E651D /* Transition_Challenge2.swift */; };
 		9486C47F2B0E4F02003E651D /* Transition_Challenge1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C4562B0E4F02003E651D /* Transition_Challenge1.swift */; };
+		9495797E2B1230A2002DC2D3 /* CustomCarouselSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9495797D2B1230A2002DC2D3 /* CustomCarouselSlider.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -2169,6 +2170,7 @@
 		9486C4542B0E4F02003E651D /* Transition_Challenge2_List.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Transition_Challenge2_List.swift; sourceTree = "<group>"; };
 		9486C4552B0E4F02003E651D /* Transition_Challenge2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Transition_Challenge2.swift; sourceTree = "<group>"; };
 		9486C4562B0E4F02003E651D /* Transition_Challenge1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Transition_Challenge1.swift; sourceTree = "<group>"; };
+		9495797D2B1230A2002DC2D3 /* CustomCarouselSlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCarouselSlider.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -4710,6 +4712,7 @@
 			isa = PBXGroup;
 			children = (
 				9461714A2B11B63B00422B1A /* AnimatedStickyHeader.swift */,
+				9495797D2B1230A2002DC2D3 /* CustomCarouselSlider.swift */,
 			);
 			path = Youtube;
 			sourceTree = "<group>";
@@ -6615,6 +6618,7 @@
 				940D62212B0D05690075AA28 /* Button-WithBackgrounds.swift in Sources */,
 				940D5FCC2B0D05650075AA28 /* FunctionBuilders.swift in Sources */,
 				940D61D32B0D05680075AA28 /* Chart_RuleMark.swift in Sources */,
+				9495797E2B1230A2002DC2D3 /* CustomCarouselSlider.swift in Sources */,
 				9486C3342B0E4C28003E651D /* GettingStarted_Challenge2.swift in Sources */,
 				940D60A02B0D05660075AA28 /* Saturation_Intro.swift in Sources */,
 				940D62682B0D05690075AA28 /* Gauge_Labels.swift in Sources */,
