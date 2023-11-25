@@ -2,7 +2,7 @@
 //  ZStack_BackgroundColor_Problem.swift
 //  SwiftUI_Views
 //
-//  Created by Mark Moeykens on 9/30/19.
+//9/30/19.
 import SwiftUI
 
 private struct ZStack_BackgroundColor_Problem: View {

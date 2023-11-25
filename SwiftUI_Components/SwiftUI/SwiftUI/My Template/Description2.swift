@@ -2,7 +2,7 @@
 //  Description2.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 9/28/19.
+//9/28/19.
 import SwiftUI
 
 private struct Description2: View {

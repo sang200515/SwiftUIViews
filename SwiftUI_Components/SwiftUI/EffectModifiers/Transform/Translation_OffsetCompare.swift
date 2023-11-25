@@ -2,7 +2,7 @@
 //  Translation_OffsetCompare.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 9/6/19.
+//9/6/19.
 import SwiftUI
 
 private struct Translation_OffsetCompare: View {

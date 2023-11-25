@@ -2,7 +2,7 @@
 //  Shadow_Offset.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 9/8/19.
+//9/8/19.
 import SwiftUI
 
 private struct Shadow_Offset: View {

@@ -2,7 +2,7 @@
 //  Inset_Introduction.swift
 //  SwiftUI_Views
 //
-//  Created by Mark Moeykens on 11/22/19.
+//11/22/19.
 import SwiftUI
 
 private struct Inset_Introduction: View {

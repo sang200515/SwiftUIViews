@@ -2,7 +2,7 @@
 //  Text_Tightening_Truncation.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 6/27/19.
+//6/27/19.
 import SwiftUI
 
 private struct Text_AllowsTightening : View {

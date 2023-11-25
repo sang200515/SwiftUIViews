@@ -2,7 +2,7 @@
 //  Background_Shapes.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 8/24/19.
+//8/24/19.
 import SwiftUI
 
 private struct Background_Shapes: View {

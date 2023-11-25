@@ -1,4 +1,4 @@
-//  Created by Mark Moeykens on 7/18/19.
+//7/18/19.
 import SwiftUI
 
 private struct SegmentedControl_Colors: View {

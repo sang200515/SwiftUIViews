@@ -2,7 +2,7 @@
 //  Alert_Parts.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 8/17/19.
+//8/17/19.
 import SwiftUI
 
 private struct Alert_Intro: View {

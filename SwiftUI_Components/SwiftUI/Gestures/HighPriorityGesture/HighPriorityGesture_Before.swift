@@ -2,7 +2,7 @@
 //  HighPriorityGesture_Intro.swift
 //  SwiftUI_Views
 //
-//  Created by Mark Moeykens on 11/3/19.
+//11/3/19.
 import SwiftUI
 
 private struct HighPriorityGesture_Before: View {

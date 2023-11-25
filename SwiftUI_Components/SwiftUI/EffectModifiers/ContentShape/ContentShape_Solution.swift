@@ -2,7 +2,7 @@
 //  ContentShape_Solution.swift
 //  SwiftUI_Views
 //
-//  Created by Mark Moeykens on 10/25/19.
+//10/25/19.
 import SwiftUI
 
 private struct ContentShape_Solution: View {

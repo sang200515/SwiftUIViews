@@ -2,7 +2,7 @@
 //  Stepper_Colors.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 6/29/19.
+//6/29/19.
 import SwiftUI
 
 private struct Stepper_Colors : View {

@@ -1,4 +1,4 @@
-//  Created by Mark Moeykens on 12/21/19.
+//12/21/19.
 import SwiftUI
 
 private struct Slider_RangeOfValues: View {

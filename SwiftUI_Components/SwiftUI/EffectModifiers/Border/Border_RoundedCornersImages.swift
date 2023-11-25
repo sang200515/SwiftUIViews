@@ -2,7 +2,7 @@
 //  Border_RoundedCornersImages.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 8/28/19.
+//8/28/19.
 import SwiftUI
 
 private struct Border_RoundedCornersImages: View {

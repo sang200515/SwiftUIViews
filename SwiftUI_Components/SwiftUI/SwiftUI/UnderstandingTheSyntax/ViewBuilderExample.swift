@@ -2,7 +2,7 @@
 //  ViewBuilderExample.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 8/9/19.
+//8/9/19.
 import SwiftUI
 
 private struct ViewBuilderExample: View {

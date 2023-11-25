@@ -2,7 +2,7 @@
 //  HueRotation_Photos.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 9/2/19.
+//9/2/19.
 import SwiftUI
 
 private struct HueRotation_Photos: View {

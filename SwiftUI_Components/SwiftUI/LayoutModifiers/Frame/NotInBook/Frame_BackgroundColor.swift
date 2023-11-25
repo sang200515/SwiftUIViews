@@ -2,7 +2,7 @@
 //  Frame_BackgroundColor.swift
 //  SwiftUI_Views
 //
-//  Created by Mark Moeykens on 12/16/19.
+//12/16/19.
 import SwiftUI
 
 private struct Frame_BackgroundColor: View {

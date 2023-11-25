@@ -2,7 +2,7 @@
 //  Resizable_MaintainAspectRatio.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 9/17/19.
+//9/17/19.
 import SwiftUI
 
 private struct Resizable_MaintainAspectRatio: View {

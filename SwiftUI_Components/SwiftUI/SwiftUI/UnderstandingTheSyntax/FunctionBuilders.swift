@@ -2,7 +2,7 @@
 //  FunctionBuilders.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 8/7/19.
+//8/7/19.
 import SwiftUI
 
 private struct FunctionBuilders: View {

@@ -2,7 +2,7 @@
 //  GeometryReader_Positioning.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 9/1/19.
+//9/1/19.
 import SwiftUI
 
 private struct GeometryReader_Positioning: View {

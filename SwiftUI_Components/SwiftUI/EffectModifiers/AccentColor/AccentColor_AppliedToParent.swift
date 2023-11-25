@@ -2,7 +2,7 @@
 //  AccentColor_AppliedToParent.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 9/17/19.
+//9/17/19.
 import SwiftUI
 
 private struct AccentColor_AppliedToParent: View {

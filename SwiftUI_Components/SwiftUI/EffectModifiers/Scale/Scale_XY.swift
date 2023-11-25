@@ -2,7 +2,7 @@
 //  Scale_XY.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 9/3/19.
+//9/3/19.
 import SwiftUI
 
 private struct Scale_XY: View {

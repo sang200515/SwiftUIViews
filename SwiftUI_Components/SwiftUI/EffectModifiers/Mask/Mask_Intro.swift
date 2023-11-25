@@ -2,7 +2,7 @@
 //  Mask_Intro.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 9/19/19.
+//9/19/19.
 import SwiftUI
 
 private struct Mask_Intro: View {

@@ -2,7 +2,7 @@
 //  PreferredColorScheme_Intro.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 9/20/19.
+//9/20/19.
 import SwiftUI
 
 private struct PreferredColorScheme_Intro: View {

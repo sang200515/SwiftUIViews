@@ -2,7 +2,7 @@
 //  Shadow_CreatingRaisedEffect.swift
 //  SwiftUI_Views
 //
-//  Created by Mark Moeykens on 11/26/19.
+//11/26/19.
 import SwiftUI
 
 private struct Shadow_CreatingRaisedEffect: View {

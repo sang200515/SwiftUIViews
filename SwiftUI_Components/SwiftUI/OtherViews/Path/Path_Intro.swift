@@ -2,7 +2,7 @@
 //  Path_Intro.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 7/1/19.
+//7/1/19.
 import SwiftUI
 
 private struct Path_Intro : View {

@@ -2,7 +2,7 @@
 //  ToggleStyle_Intro.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 9/12/19.
+//9/12/19.
 import SwiftUI
 
 private struct ToggleStyle_Intro: View {

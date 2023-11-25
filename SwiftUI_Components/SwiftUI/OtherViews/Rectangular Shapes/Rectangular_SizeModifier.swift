@@ -2,7 +2,7 @@
 //  Rectangular_SizeModifier.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 7/13/19.
+//7/13/19.
 import SwiftUI
 
 private struct Rectangular_SizeModifier : View {

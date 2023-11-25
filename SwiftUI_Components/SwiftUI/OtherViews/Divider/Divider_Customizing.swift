@@ -1,4 +1,4 @@
-//  Created by Mark Moeykens on 7/11/19.
+//7/11/19.
 import SwiftUI
 
 private struct Divider_Customizing : View {

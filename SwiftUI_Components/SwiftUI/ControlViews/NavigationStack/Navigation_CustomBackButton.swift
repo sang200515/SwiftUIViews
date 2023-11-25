@@ -1,4 +1,4 @@
-//  Created by Mark Moeykens on 9/21/19.
+//9/21/19.
 import SwiftUI
 
 private struct Navigation_CustomBackButton: View {

@@ -2,7 +2,7 @@
 //  Text_Modifiers.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 6/26/19.
+//6/26/19.
 import SwiftUI
 
 private struct Text_Modifiers : View {

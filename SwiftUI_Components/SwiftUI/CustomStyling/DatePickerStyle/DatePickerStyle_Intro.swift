@@ -2,7 +2,7 @@
 //  DatePickerStyle_Intro.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 9/12/19.
+//9/12/19.
 import SwiftUI
 
 private struct DatePickerStyle_Intro: View {

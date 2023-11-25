@@ -1,4 +1,4 @@
-//  Created by Mark Moeykens on 6/30/19.
+//6/30/19.
 import SwiftUI
 
 private struct Form_ListRowInset : View {

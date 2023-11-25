@@ -2,7 +2,7 @@
 //  View_And_Modifier_Concept.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 9/27/19.
+//9/27/19.
 import SwiftUI
 
 private struct View_And_Modifier_Concept: View {

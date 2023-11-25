@@ -2,7 +2,7 @@
 //  Blur_UnderneathView.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 8/27/19.
+//8/27/19.
 import SwiftUI
 
 private struct Blur_UnderneathView: View {

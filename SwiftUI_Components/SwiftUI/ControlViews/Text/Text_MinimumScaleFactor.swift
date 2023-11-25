@@ -2,7 +2,7 @@
 //  Text_2_0_Shrinking.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 6/9/19.
+//6/9/19.
 import SwiftUI
 
 private struct Text_MinimumScaleFactor : View {

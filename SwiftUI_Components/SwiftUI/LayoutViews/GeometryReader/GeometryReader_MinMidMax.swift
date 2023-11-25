@@ -2,7 +2,7 @@
 //  GeometryReader_MinMidMax.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 9/25/19.
+//9/25/19.
 import SwiftUI
 
 private struct GeometryReader_MinMidMax: View {

@@ -2,7 +2,7 @@
 //  CustomStyling_WithShapes.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 9/14/19.
+//9/14/19.
 import SwiftUI
 
 private struct CustomStyling_WithShapes: View {

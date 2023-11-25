@@ -2,7 +2,7 @@
 //  AllShadows.swift
 //  SwiftUI_Views
 //
-//  Created by Mark Moeykens on 2/22/20.
+//2/22/20.
 //  Copyright © 2020 Mark Moeykens. All rights reserved
 import SwiftUI
 

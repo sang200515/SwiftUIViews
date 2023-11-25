@@ -1,4 +1,4 @@
-//  Created by Mark Moeykens on 6/19/19.
+//6/19/19.
 import SwiftUI
 
 private struct Navigation_Intro : View {

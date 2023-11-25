@@ -2,7 +2,7 @@
 //  Previews_Intro.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 9/26/19.
+//9/26/19.
 import SwiftUI
 
 private struct Previews_Intro: View {

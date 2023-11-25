@@ -1,4 +1,4 @@
-//  Created by Mark Moeykens on 6/12/19.
+//6/12/19.
 import SwiftUI
 
 private struct Color_AsBackground : View {

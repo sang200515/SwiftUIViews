@@ -2,7 +2,7 @@
 //  Radial_CustomCenter.swift
 //  SwiftUI_Views
 //
-//  Created by Mark Moeykens on 11/20/19.
+//11/20/19.
 import SwiftUI
 
 private struct Radial_CustomCenter: View {

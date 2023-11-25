@@ -1,4 +1,4 @@
-//  Created by Mark Moeykens on 9/1/19.
+//9/1/19.
 import SwiftUI
 
 private struct Button_WithPhotos: View {

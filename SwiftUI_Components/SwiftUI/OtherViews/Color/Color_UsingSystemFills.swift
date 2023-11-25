@@ -1,4 +1,4 @@
-//  Created by Mark Moeykens on 9/10/19.
+//9/10/19.
 import SwiftUI
 
 private struct Color_UsingSystemFills: View {

@@ -2,7 +2,7 @@
 //  List_CustomRows.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 6/22/19.
+//6/22/19.
 import SwiftUI
 
 private struct List_CustomRows : View {

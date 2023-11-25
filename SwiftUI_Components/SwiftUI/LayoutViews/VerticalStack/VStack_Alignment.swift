@@ -2,7 +2,7 @@
 //  VStack_1_01_Alignment.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 6/6/19.
+//6/6/19.
 import SwiftUI
 
 private struct VStack_1_01_Alignment : View {

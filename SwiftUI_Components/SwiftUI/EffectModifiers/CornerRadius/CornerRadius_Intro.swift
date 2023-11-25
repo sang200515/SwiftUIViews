@@ -2,7 +2,7 @@
 //  CornerRadius_Intro.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 9/1/19.
+//9/1/19.
 import SwiftUI
 
 private struct CornerRadius_Intro: View {

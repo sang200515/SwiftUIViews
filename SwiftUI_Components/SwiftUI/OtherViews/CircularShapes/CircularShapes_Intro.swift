@@ -2,7 +2,7 @@
 //  Circles_1_00.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 6/8/19.
+//6/8/19.
 import SwiftUI
 
 private struct CircularShapes_Intro : View {

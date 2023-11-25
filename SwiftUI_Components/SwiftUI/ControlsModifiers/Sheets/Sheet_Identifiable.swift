@@ -2,7 +2,7 @@
 //  Sheet_Identifiable.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 8/18/19.
+//8/18/19.
 import SwiftUI
 
 // 1. Create an Identifiable struct to hold the data

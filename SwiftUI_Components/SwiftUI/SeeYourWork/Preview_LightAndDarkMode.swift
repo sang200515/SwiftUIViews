@@ -1,4 +1,4 @@
-//  Created by Mark Moeykens on 9/27/19.
+//9/27/19.
 import SwiftUI
 
 private struct Preview_LightAndDarkMode: View {

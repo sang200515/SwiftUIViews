@@ -1,4 +1,4 @@
-//  Created by Mark Moeykens on 8/12/19.
+//8/12/19.
 import SwiftUI
 
 private struct Rectangular_WithControls: View {

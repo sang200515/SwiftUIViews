@@ -2,7 +2,7 @@
 //  UnderstandingSomeKeyword.swift
 //  SwiftUI_Views
 //
-//  Created by Mark Moeykens on 10/15/19.
+//10/15/19.
 import SwiftUI
 
 private struct UnderstandingTheSomeKeyword: View {

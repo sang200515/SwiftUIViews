@@ -2,7 +2,7 @@
 //  Padding_HorizontalVertical.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 9/21/19.
+//9/21/19.
 import SwiftUI
 
 private struct Padding_HorizontalVertical: View {

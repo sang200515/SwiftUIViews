@@ -2,7 +2,7 @@
 //  Preview_DarkMode.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 9/27/19.
+//9/27/19.
 import SwiftUI
 
 private struct Preview_DarkMode: View {

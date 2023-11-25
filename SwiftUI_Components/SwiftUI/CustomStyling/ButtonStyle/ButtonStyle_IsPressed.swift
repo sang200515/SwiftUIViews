@@ -2,7 +2,7 @@
 //  ButtonStyle_IsPressed.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 9/13/19.
+//9/13/19.
 import SwiftUI
 
 private struct ButtonStyle_IsPressed: View {

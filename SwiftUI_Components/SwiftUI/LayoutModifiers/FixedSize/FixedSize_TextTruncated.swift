@@ -1,4 +1,4 @@
-//  Created by Mark Moeykens on 11/11/19.
+//11/11/19.
 import SwiftUI
 
 private struct FixedSize_TextTruncated: View {

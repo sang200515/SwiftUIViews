@@ -2,7 +2,7 @@
 //  Text_FontDesign.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 6/28/19.
+//6/28/19.
 import SwiftUI
 
 private struct Text_FontDesign : View {

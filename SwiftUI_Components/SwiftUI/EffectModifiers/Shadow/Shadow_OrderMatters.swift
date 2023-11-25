@@ -2,7 +2,7 @@
 //  Shadow_OrderMatters.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 9/5/19.
+//9/5/19.
 import SwiftUI
 
 private struct Shadow_OrderMatters: View {

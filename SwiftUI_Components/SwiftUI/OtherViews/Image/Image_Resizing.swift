@@ -2,7 +2,7 @@
 //  Image_1_01_Resizable.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 6/6/19.
+//6/6/19.
 import SwiftUI
 
 private struct Image_Resizing : View {

@@ -2,7 +2,7 @@
 //  Button-WithImage.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 6/17/19.
+//6/17/19.
 import SwiftUI
 
 private struct Button_WithImage : View {

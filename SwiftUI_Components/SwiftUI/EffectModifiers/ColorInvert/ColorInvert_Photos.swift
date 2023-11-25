@@ -1,8 +1,3 @@
-//
-//  ColorInvert_Photos.swift
-//  100Views
-//
-//  Created by Mark Moeykens on 9/2/19.
 import SwiftUI
 
 private struct ColorInvert_Photos: View {

@@ -24,6 +24,9 @@ private struct Form_WithDisclosureGroup: View {
                     .padding()
                 }
             }
+            
+            Text("some thing test")
+                .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .top)
         }
         .font(.title)
         .tint(.purple)

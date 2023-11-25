@@ -2,7 +2,7 @@
 //  Frame_PullInToPushOut.swift
 //  SwiftUI_Views
 //
-//  Created by Mark Moeykens on 11/23/19.
+//11/23/19.
 import SwiftUI
 
 private struct Frame_PullInToPushOut: View {

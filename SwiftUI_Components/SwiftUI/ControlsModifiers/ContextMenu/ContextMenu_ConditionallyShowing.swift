@@ -2,7 +2,7 @@
 //  ContextMenu_ConditionallyShowing.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 8/19/19.
+//8/19/19.
 import SwiftUI
 
 private struct ContextMenu_ConditionallyShowing: View {

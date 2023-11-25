@@ -1,4 +1,4 @@
-//  Created by Mark Moeykens on 9/5/19.
+//9/5/19.
 import SwiftUI
 
 private struct Image_Symbols_Weight: View {

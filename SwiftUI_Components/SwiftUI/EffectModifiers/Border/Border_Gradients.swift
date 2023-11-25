@@ -2,7 +2,7 @@
 //  Border_Gradients.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 9/22/19.
+//9/22/19.
 import SwiftUI
 
 private struct Border_Gradients: View {

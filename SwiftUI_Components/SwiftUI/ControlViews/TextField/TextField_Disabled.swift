@@ -2,7 +2,7 @@
 //  TextField_Disabled.swift
 //  SwiftUI_Views
 //
-//  Created by Mark Moeykens on 11/17/19.
+//11/17/19.
 import SwiftUI
 
 private struct TextField_Disabled: View {

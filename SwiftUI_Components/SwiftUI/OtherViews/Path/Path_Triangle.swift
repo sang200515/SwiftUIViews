@@ -2,7 +2,7 @@
 //  Path_Triangle.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 7/12/19.
+//7/12/19.
 import SwiftUI
 
 private struct Path_Triangle : View {

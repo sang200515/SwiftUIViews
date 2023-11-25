@@ -2,7 +2,7 @@
 //  Stepper_Customization.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 6/25/19.
+//6/25/19.
 import SwiftUI
 
 private struct Stepper_Range : View {

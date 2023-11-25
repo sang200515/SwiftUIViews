@@ -2,7 +2,7 @@
 //  Image_Symbols.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 7/6/19.
+//7/6/19.
 import SwiftUI
 
 private struct Image_SymbolSizing : View {

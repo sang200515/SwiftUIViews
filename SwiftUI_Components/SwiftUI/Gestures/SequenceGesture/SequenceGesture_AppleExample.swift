@@ -2,7 +2,7 @@
 //  SequenceGesture_AppleExample.swift
 //  SwiftUI_Views
 //
-//  Created by Mark Moeykens on 11/3/19.
+//11/3/19.
 import SwiftUI
 
 private struct SequenceGesture_AppleExample: View {

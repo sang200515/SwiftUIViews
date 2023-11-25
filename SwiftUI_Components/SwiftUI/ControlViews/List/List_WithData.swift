@@ -2,7 +2,7 @@
 //  List_1_00.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 6/17/19.
+//6/17/19.
 import SwiftUI
 
 private struct List_WithData : View {

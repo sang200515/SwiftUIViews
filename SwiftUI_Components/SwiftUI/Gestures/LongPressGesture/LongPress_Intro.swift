@@ -2,7 +2,7 @@
 //  LongPress_Intro.swift
 //  SwiftUI_Views
 //
-//  Created by Mark Moeykens on 11/2/19.
+//11/2/19.
 import SwiftUI
 
 private struct LongPress_Intro: View {

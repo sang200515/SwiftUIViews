@@ -2,7 +2,7 @@
 //  Opacity_Intro.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 8/25/19.
+//8/25/19.
 import SwiftUI
 
 private struct Opacity_Intro: View {

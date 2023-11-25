@@ -2,7 +2,7 @@
 //  ColorMultiply_CantDo.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 9/18/19.
+//9/18/19.
 import SwiftUI
 
 private struct ColorMultiply_CantDo: View {

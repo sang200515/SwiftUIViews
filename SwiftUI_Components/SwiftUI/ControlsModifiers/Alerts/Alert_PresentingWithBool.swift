@@ -1,6 +1,6 @@
 //  Alert_PresentingWithBool.swift
 //
-//  Created by Mark Moeykens on 8/18/19.
+//8/18/19.
 import SwiftUI
 
 private struct Alert_PresentingWithBool: View {

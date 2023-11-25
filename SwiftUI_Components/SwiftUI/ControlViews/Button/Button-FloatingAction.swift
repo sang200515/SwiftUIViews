@@ -2,7 +2,7 @@
 //  Button-FloatingAction.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 7/22/19.
+//7/22/19.
 import SwiftUI
 
 private struct Button_FloatingAction: View {

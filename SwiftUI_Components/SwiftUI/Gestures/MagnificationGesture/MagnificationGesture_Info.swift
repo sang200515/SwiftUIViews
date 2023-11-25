@@ -2,7 +2,7 @@
 //  MagnificationGesture_Info.swift
 //  SwiftUI_Views
 //
-//  Created by Mark Moeykens on 11/3/19.
+//11/3/19.
 import SwiftUI
 
 private struct MagnificationGesture_Info: View {

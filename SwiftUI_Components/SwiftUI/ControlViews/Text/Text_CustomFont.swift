@@ -2,7 +2,7 @@
 //  Text_CustomFont.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 8/22/19.
+//8/22/19.
 import SwiftUI
 
 private struct Text_CustomFont: View {

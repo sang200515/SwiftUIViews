@@ -2,7 +2,7 @@
 //  HStack_2_00-Basic.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 6/15/19.
+//6/15/19.
 import SwiftUI
 
 private struct HStack_Customizing : View {

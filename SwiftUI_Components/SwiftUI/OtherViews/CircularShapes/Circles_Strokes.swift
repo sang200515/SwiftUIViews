@@ -2,7 +2,7 @@
 //  Circles_2_00_Strokes.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 6/8/19.
+//6/8/19.
 import SwiftUI
 
 private struct Circles_2_00_Strokes : View {

@@ -2,7 +2,7 @@
 //  Inset_NegativeValues.swift
 //  SwiftUI_Views
 //
-//  Created by Mark Moeykens on 11/22/19.
+//11/22/19.
 import SwiftUI
 
 private struct Inset_NegativeValues: View {

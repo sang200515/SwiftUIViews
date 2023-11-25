@@ -2,7 +2,7 @@
 //  Background_Gradients.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 8/23/19.
+//8/23/19.
 import SwiftUI
 
 private struct Background_Gradients: View {

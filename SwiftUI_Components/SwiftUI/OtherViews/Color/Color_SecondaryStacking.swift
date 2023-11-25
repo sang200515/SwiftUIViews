@@ -1,4 +1,4 @@
-//  Created by Mark Moeykens on 7/10/19.
+//7/10/19.
 import SwiftUI
 
 private struct Color_SecondaryStacking : View {

@@ -2,7 +2,7 @@
 //  Interpolation_Intro.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 9/16/19.
+//9/16/19.
 import SwiftUI
 
 private struct Interpolation_Intro: View {

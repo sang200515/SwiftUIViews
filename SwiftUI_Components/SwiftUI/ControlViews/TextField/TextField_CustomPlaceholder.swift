@@ -2,7 +2,7 @@
 //  TextField_CustomPlaceholder.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 9/21/19.
+//9/21/19.
 import SwiftUI
 
 private struct TextField_CustomPlaceholder: View {

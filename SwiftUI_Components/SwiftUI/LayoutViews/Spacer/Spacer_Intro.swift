@@ -1,5 +1,5 @@
 
-//  Created by Mark Moeykens on 6/16/19.
+//6/16/19.
 import SwiftUI
 
 private struct Spacer_1_00 : View {

@@ -1,4 +1,4 @@
-//  Created by Mark Moeykens on 6/17/19.
+//6/17/19.
 import SwiftUI
 
 private struct List_Grouped : View {

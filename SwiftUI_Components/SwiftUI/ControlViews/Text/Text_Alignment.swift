@@ -2,7 +2,7 @@
 //  Text_1_02_Alignment.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 6/5/19.
+//6/5/19.
 import SwiftUI
 
 private struct Text_Alignment : View {

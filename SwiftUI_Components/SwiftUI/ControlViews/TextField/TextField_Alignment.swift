@@ -2,7 +2,7 @@
 //  TextField_Alignment.swift
 //  SwiftUI_Views
 //
-//  Created by Mark Moeykens on 10/16/19.
+//10/16/19.
 import SwiftUI
 
 private struct TextField_Alignment: View {

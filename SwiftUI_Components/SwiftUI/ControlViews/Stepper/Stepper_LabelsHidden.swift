@@ -2,7 +2,7 @@
 //  Stepper_LabelsHidden.swift
 //  SwiftUI_Views
 //
-//  Created by Mark Moeykens on 10/5/19.
+//10/5/19.
 import SwiftUI
 
 private struct Stepper_LabelsHidden: View {

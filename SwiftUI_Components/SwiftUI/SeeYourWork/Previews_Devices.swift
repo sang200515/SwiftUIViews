@@ -2,7 +2,7 @@
 //  Previews_Devices.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 9/27/19.
+//9/27/19.
 import SwiftUI
 
 private struct Previews_Devices: View {

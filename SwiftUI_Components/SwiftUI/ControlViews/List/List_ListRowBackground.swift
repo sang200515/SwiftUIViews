@@ -1,4 +1,4 @@
-//  Created by Mark Moeykens on 6/29/19.
+//6/29/19.
 import SwiftUI
 
  struct Todo: Identifiable {

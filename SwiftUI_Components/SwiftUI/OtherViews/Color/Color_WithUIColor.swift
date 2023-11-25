@@ -2,7 +2,7 @@
 //  Color_WithUIColor.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 9/9/19.
+//9/9/19.
 import SwiftUI
 
 private struct Color_WithUIColor: View {

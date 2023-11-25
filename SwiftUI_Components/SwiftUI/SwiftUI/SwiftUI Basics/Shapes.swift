@@ -2,7 +2,7 @@
 //  Shapes.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 9/4/19.
+//9/4/19.
 import SwiftUI
 
 private struct Shapes: View {

@@ -1,4 +1,4 @@
-//  Created by Mark Moeykens on 6/28/19.
+//6/28/19.
 import SwiftUI
 
 private struct Toggle_Intro : View {

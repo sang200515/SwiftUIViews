@@ -2,7 +2,7 @@
 //  SecureField_Customization.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 6/23/19.
+//6/23/19.
 import SwiftUI
 
 private struct SecureField_Customization : View {

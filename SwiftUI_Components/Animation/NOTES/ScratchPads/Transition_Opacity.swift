@@ -2,7 +2,7 @@
 //  Transition_MoveAndFade.swift
 //  SwiftUIAnimations
 //
-//  Created by Mark Moeykens on 10/3/19.
+//10/3/19.
 import SwiftUI
 
 struct Transition_Opacity: View {

@@ -2,7 +2,7 @@
 //  Scale_Intro.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 8/26/19.
+//8/26/19.
 import SwiftUI
 
 private struct Scale_Intro: View {

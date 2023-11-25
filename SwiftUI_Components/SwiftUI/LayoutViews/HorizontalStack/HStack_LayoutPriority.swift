@@ -2,7 +2,7 @@
 //  HStack_LayoutPriority.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 7/23/19.
+//7/23/19.
 import SwiftUI
 
 private struct HStack_LayoutPriority: View {

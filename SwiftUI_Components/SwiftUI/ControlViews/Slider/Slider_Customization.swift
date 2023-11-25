@@ -1,4 +1,4 @@
-//  Created by Mark Moeykens on 6/24/19.
+//6/24/19.
 import SwiftUI
 
 private struct Slider_Customization : View {

@@ -2,7 +2,7 @@
 //  CircularShapes_Size2.swift
 //  100Views
 //
-//  Created by Mark Moeykens on 7/2/19.
+//7/2/19.
 import SwiftUI
 
 private struct CircularShapes_Size2 : View {
