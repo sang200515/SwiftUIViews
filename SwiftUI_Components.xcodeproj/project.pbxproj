@@ -828,6 +828,8 @@
 		947D40E32B14ECDB0064669F /* WalletView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 947D40E22B14ECDB0064669F /* WalletView.swift */; };
 		947D40E52B14EE7B0064669F /* LoadingButtonLogin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 947D40E42B14EE7B0064669F /* LoadingButtonLogin.swift */; };
 		947D40E72B14EFD10064669F /* SwiftUICarousel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 947D40E62B14EFD00064669F /* SwiftUICarousel.swift */; };
+		947D40E92B14F30C0064669F /* LoadingView3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 947D40E82B14F30C0064669F /* LoadingView3.swift */; };
+		947D40EB2B14F4390064669F /* VideoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 947D40EA2B14F4390064669F /* VideoView.swift */; };
 		9486C2B82B0E4C27003E651D /* Interactive_Comparison.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C2112B0E4C25003E651D /* Interactive_Comparison.swift */; };
 		9486C2B92B0E4C27003E651D /* Interactive_Popup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C2122B0E4C25003E651D /* Interactive_Popup.swift */; };
 		9486C2BA2B0E4C27003E651D /* Interpolating_CompareStiffnessDamping.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C2142B0E4C25003E651D /* Interpolating_CompareStiffnessDamping.swift */; };
@@ -1928,6 +1930,8 @@
 		947D40E22B14ECDB0064669F /* WalletView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WalletView.swift; sourceTree = "<group>"; };
 		947D40E42B14EE7B0064669F /* LoadingButtonLogin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingButtonLogin.swift; sourceTree = "<group>"; };
 		947D40E62B14EFD00064669F /* SwiftUICarousel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUICarousel.swift; sourceTree = "<group>"; };
+		947D40E82B14F30C0064669F /* LoadingView3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingView3.swift; sourceTree = "<group>"; };
+		947D40EA2B14F4390064669F /* VideoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoView.swift; sourceTree = "<group>"; };
 		9486C2112B0E4C25003E651D /* Interactive_Comparison.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Interactive_Comparison.swift; sourceTree = "<group>"; };
 		9486C2122B0E4C25003E651D /* Interactive_Popup.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Interactive_Popup.swift; sourceTree = "<group>"; };
 		9486C2142B0E4C25003E651D /* Interpolating_CompareStiffnessDamping.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Interpolating_CompareStiffnessDamping.swift; sourceTree = "<group>"; };
@@ -4759,6 +4763,8 @@
 				947D40E22B14ECDB0064669F /* WalletView.swift */,
 				947D40E42B14EE7B0064669F /* LoadingButtonLogin.swift */,
 				947D40E62B14EFD00064669F /* SwiftUICarousel.swift */,
+				947D40E82B14F30C0064669F /* LoadingView3.swift */,
+				947D40EA2B14F4390064669F /* VideoView.swift */,
 				9495797D2B1230A2002DC2D3 /* CustomCarouselSlider.swift */,
 				9495797F2B139AD7002DC2D3 /* LoginIntroView.swift */,
 			);
@@ -6421,6 +6427,7 @@
 				940D5B8C2B0D04B90075AA28 /* SwiftUI_ComponentsApp.swift in Sources */,
 				9486C2DD2B0E4C27003E651D /* Popup_EndResult.swift in Sources */,
 				9486C4152B0E4D52003E651D /* MGE_List_Intro.swift in Sources */,
+				947D40E92B14F30C0064669F /* LoadingView3.swift in Sources */,
 				940D60292B0D05660075AA28 /* ViewThatFits_Intro.swift in Sources */,
 				9486C3FC2B0E4D51003E651D /* MGE_Images_Solution.swift in Sources */,
 				940D62A82B0D05880075AA28 /* LayoutConcepts.swift in Sources */,
@@ -6694,6 +6701,7 @@
 				9486C3D82B0E4D51003E651D /* AnimatableModifiers_Intro.swift in Sources */,
 				940D5FB92B0D05650075AA28 /* Description3.swift in Sources */,
 				940D61BB2B0D05680075AA28 /* DisclosureGroup_Intro.swift in Sources */,
+				947D40EB2B14F4390064669F /* VideoView.swift in Sources */,
 				9486C2E02B0E4C27003E651D /* Trigger_Gesture_LongPress.swift in Sources */,
 				940D611E2B0D05670075AA28 /* Color_NewInIos15.swift in Sources */,
 				940D61932B0D05680075AA28 /* NavLink_isPresented.swift in Sources */,
