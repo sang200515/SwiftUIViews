@@ -1,7 +1,7 @@
 //8/25/19.
 import SwiftUI
 
-private struct Color_Inverting: View {
+fileprivate struct Color_Inverting: View {
     var body: some View {
         VStack(spacing: 5) {
             HeaderView("Color",

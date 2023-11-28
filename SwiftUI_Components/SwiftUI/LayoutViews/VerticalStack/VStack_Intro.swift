@@ -1,7 +1,7 @@
 //6/6/19.
 import SwiftUI
 
-private struct VStack_Intro : View {
+fileprivate struct VStack_Intro : View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("VStack",

@@ -5,7 +5,7 @@
 //9/17/19.
 import SwiftUI
 
-private struct AccentColor_ForegroundColor: View {
+fileprivate struct AccentColor_ForegroundColor: View {
     @State private var slider = 0.5
     var body: some View {
         VStack(spacing: 30) {

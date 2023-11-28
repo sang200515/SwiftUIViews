@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MGE_WhatCouldGoWrong_ClipShapeSolution: View {
+fileprivate struct MGE_WhatCouldGoWrong_ClipShapeSolution: View {
     @State private var showView2 = false
     @Namespace var namespace
     

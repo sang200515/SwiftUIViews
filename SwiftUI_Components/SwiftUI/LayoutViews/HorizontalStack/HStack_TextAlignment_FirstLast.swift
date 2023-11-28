@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct HStack_TextAlignment_FirstLast: View {
+fileprivate struct HStack_TextAlignment_FirstLast: View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("HStack",

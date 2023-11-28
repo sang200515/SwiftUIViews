@@ -5,7 +5,7 @@
 //9/4/19.
 import SwiftUI
 
-private struct Spacer_Evenly: View {
+fileprivate struct Spacer_Evenly: View {
     var body: some View {
         VStack {
             Text("Spacer")

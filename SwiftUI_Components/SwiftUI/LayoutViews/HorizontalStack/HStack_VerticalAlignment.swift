@@ -5,7 +5,7 @@
 //6/6/19.
 import SwiftUI
 
-private struct HStack_VerticalAlignment : View {
+fileprivate struct HStack_VerticalAlignment : View {
     var body: some View {
         VStack(spacing: 20) {
             Text("HStack").font(.largeTitle)

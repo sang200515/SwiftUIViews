@@ -5,7 +5,7 @@
 //11/3/19.
 import SwiftUI
 
-private struct ExclusiveGesture_Intro: View {
+fileprivate struct ExclusiveGesture_Intro: View {
     // You can combine gesture values into your own object
     struct StateForGestures {
         var degrees = 0.0

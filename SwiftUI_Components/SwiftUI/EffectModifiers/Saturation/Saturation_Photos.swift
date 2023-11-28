@@ -5,7 +5,7 @@
 //9/4/19.
 import SwiftUI
 
-private struct Saturation_Photos: View {
+fileprivate struct Saturation_Photos: View {
     var body: some View {
         ScrollView {
             VStack(spacing: 10) {

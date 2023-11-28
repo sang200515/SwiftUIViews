@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MGE_MatchingGeometries: View {
+fileprivate struct MGE_MatchingGeometries: View {
     @Namespace var namespace
     
     var body: some View {

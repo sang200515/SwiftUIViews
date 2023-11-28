@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Preview_SizeCategory: View {
+fileprivate struct Preview_SizeCategory: View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("Previews",

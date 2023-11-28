@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Preview_InterfaceOrientation: View {
+fileprivate struct Preview_InterfaceOrientation: View {
     var body: some View {
         VStack(spacing: 20.0) {
             HeaderView("Previews",

@@ -5,7 +5,7 @@
 // 11/23/19.
 import SwiftUI
 
-private struct Exercise_SlidingSheets: View {
+fileprivate struct Exercise_SlidingSheets: View {
     @State private var expandMoreInfo = false
     @State private var showLogin = false
     

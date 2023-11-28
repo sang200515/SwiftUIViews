@@ -5,7 +5,7 @@
 //9/5/19.
 import SwiftUI
 
-private struct Text_ImportedFont: View {
+fileprivate struct Text_ImportedFont: View {
     var body: some View {
         VStack(spacing: 20) {
             Text("Text")

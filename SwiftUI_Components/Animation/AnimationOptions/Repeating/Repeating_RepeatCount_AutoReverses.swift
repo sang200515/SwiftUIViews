@@ -5,7 +5,7 @@
 // 11/20/19.
 import SwiftUI
 
-private struct Repeating_RepeatCount_AutoReverses: View {
+fileprivate struct Repeating_RepeatCount_AutoReverses: View {
     @State private var start = false
     
     var body: some View {

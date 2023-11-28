@@ -1,7 +1,7 @@
 // 12/23/19.
 import SwiftUI
 
-private struct Exercise_Transition_Step1Layout: View {
+fileprivate struct Exercise_Transition_Step1Layout: View {
     var body: some View {
         ZStack {
             Color("Background3")

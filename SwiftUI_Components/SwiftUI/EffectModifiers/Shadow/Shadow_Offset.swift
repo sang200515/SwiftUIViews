@@ -5,7 +5,7 @@
 //9/8/19.
 import SwiftUI
 
-private struct Shadow_Offset: View {
+fileprivate struct Shadow_Offset: View {
     var body: some View {
         VStack(spacing: 10) {
             Text("Shadow").font(.largeTitle)

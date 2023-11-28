@@ -5,7 +5,7 @@
 //9/16/19.
 import SwiftUI
 
-private struct Interpolation_Intro: View {
+fileprivate struct Interpolation_Intro: View {
     var body: some View {
         VStack(spacing: 10) {
             Text("Interpolation").font(.largeTitle)

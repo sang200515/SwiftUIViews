@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Navigation_NavigationTitle: View {
+fileprivate struct Navigation_NavigationTitle: View {
     var body: some View {
         NavigationStack {
             Text("😃")

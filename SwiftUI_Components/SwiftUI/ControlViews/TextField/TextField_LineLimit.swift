@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct TextField_LineLimit: View {
+fileprivate struct TextField_LineLimit: View {
     @State private var text = "This is some longer text that will cause the text fields to scroll text."
     
     var body: some View {

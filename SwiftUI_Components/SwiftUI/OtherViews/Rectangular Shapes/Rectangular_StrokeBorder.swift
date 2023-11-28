@@ -5,7 +5,7 @@
 //7/13/19.
 import SwiftUI
 
-private struct Rectangular_StrokeBorder : View {
+fileprivate struct Rectangular_StrokeBorder : View {
     var body: some View {
         VStack(spacing: 10) {
             Text("Rectangular Shapes").font(.largeTitle)

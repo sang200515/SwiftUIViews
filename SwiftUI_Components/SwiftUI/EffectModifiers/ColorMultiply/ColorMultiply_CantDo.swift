@@ -5,7 +5,7 @@
 //9/18/19.
 import SwiftUI
 
-private struct ColorMultiply_CantDo: View {
+fileprivate struct ColorMultiply_CantDo: View {
     var body: some View {
         VStack(spacing: 20) {
             Text("Color Multiply").font(.largeTitle)

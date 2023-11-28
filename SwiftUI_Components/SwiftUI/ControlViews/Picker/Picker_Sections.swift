@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Picker_Sections: View {
+fileprivate struct Picker_Sections: View {
     @State private var favoriteState = 1
     
     var body: some View {

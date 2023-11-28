@@ -1,7 +1,7 @@
 //6/23/19.
 import SwiftUI
 
-private struct Scrollview_Intro : View {
+fileprivate struct Scrollview_Intro : View {
     @State private var names = ["Scott", "Mark", "Chris", "Sean", "Rod", "Meng", "Natasha", "Chase", "Evans", "Paul", "Durtschi", "Max"]
     var body: some View {
         ScrollView {

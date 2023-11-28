@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Edges_Landscape_Before: View {
+fileprivate struct Edges_Landscape_Before: View {
     var body: some View {
         VStack(spacing: 20) {
             Text("Ignores Safe Area")

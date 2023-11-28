@@ -1,7 +1,7 @@
 // https://www.bigmountainstudio.com/community/public/posts/80023-previewing-swiftui-transition-animations
 import SwiftUI
 
-private struct PreviewingSwiftUITransitionAnimations_Blog: View {
+fileprivate struct PreviewingSwiftUITransitionAnimations_Blog: View {
     @State private var show = false
     
     var body: some View {

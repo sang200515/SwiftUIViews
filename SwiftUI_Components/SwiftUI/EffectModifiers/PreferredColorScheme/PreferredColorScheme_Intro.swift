@@ -5,7 +5,7 @@
 //9/20/19.
 import SwiftUI
 
-private struct PreferredColorScheme_Intro: View {
+fileprivate struct PreferredColorScheme_Intro: View {
     @State private var isOn = false
     
     var body: some View {

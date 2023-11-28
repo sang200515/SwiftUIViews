@@ -5,7 +5,7 @@
 //9/28/19.
 import SwiftUI
 
-private struct Relationships: View {
+fileprivate struct Relationships: View {
     var body: some View {
         VStack {
             Text("Parent")

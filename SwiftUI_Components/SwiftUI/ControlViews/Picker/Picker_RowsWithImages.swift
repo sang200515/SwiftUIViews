@@ -2,7 +2,7 @@
 //6/18/19.
 import SwiftUI
 
-private struct Picker_RowsWithImages : View {
+fileprivate struct Picker_RowsWithImages : View {
     @State private var youTuberName = "Mark"
     
     var body: some View {

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct NavLink_Intro: View {
+fileprivate struct NavLink_Intro: View {
     var body: some View {
         NavigationStack {
             VStack(spacing: 20) {

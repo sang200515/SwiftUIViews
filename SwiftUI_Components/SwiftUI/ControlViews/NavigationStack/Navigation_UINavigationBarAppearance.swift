@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Navigation_UINavigationBarAppearance: View {
+fileprivate struct Navigation_UINavigationBarAppearance: View {
     var body: some View {
         NavigationStack {
             VStack {

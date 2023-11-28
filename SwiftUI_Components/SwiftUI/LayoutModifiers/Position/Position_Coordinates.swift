@@ -5,7 +5,7 @@
 //9/21/19.
 import SwiftUI
 
-private struct Position_Coordinates: View {
+fileprivate struct Position_Coordinates: View {
     var body: some View {
         VStack(spacing: 10) {
             Text("Position").font(.largeTitle)

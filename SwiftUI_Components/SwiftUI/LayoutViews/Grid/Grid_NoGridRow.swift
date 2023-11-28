@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Grid_NoGridRow: View {
+fileprivate struct Grid_NoGridRow: View {
     var body: some View {
         Grid {
             GridRow {

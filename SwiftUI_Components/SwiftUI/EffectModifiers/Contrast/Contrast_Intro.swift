@@ -5,7 +5,7 @@
 //8/25/19.
 import SwiftUI
 
-private struct Contrast_Intro: View {
+fileprivate struct Contrast_Intro: View {
     var body: some View {
         ScrollView {
             VStack(spacing: 10) {

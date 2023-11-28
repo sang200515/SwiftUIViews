@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Text_TextCase: View {
+fileprivate struct Text_TextCase: View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("Text",

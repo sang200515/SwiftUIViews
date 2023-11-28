@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct ScrollView_Horizontal_SafeAreaInset: View {
+fileprivate struct ScrollView_Horizontal_SafeAreaInset: View {
     var items = [Color.green, Color.blue, Color.purple, Color.pink,
                  Color.yellow, Color.orange]
     

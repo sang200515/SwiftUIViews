@@ -5,7 +5,7 @@
 //6/8/19.
 import SwiftUI
 
-private struct CircularShapes_Intro : View {
+fileprivate struct CircularShapes_Intro : View {
     var body: some View {
         VStack(spacing: 5) {
             HeaderView("Circular Shapes",

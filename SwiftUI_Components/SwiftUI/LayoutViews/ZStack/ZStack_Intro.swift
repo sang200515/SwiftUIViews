@@ -5,7 +5,7 @@
 //6/15/19.
 import SwiftUI
 
-private struct ZStack_1_00 : View {
+fileprivate struct ZStack_1_00 : View {
     var body: some View {
         ZStack {
             // LAYER 1: Furthest back

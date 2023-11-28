@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct ActionSheet_OnIpad: View {
+fileprivate struct ActionSheet_OnIpad: View {
     @State private var presentingActionSheet = false
     
     var body: some View {

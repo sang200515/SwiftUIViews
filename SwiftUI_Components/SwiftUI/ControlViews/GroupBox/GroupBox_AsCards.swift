@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct GroupBox_AsCards: View {
+fileprivate struct GroupBox_AsCards: View {
     var body: some View {
         VStack(spacing: 10) {
             HeaderView("GroupBox",

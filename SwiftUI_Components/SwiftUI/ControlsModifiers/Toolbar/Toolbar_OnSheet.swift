@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Toolbar_OnSheet: View {
+fileprivate struct Toolbar_OnSheet: View {
     @State private var presentingSheet = false
     
     var body: some View {

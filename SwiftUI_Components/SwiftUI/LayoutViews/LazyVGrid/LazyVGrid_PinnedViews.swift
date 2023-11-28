@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct LazyVGrid_PinnedViews: View {
+fileprivate struct LazyVGrid_PinnedViews: View {
     @State private var teams = MockData.getTeams()
     
     var body: some View {

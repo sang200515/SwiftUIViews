@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Sheet_HideDragIndicator: View {
+fileprivate struct Sheet_HideDragIndicator: View {
     @State private var showSheet = false
     
     var body: some View {

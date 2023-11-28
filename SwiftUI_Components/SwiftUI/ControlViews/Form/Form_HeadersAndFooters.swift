@@ -1,7 +1,7 @@
 //6/22/19.
 import SwiftUI
 
-private struct Form_HeadersAndFooters : View {
+fileprivate struct Form_HeadersAndFooters : View {
     var body: some View {
         Form {
             Section {

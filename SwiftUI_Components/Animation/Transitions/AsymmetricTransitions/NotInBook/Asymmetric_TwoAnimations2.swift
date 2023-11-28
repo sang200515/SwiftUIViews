@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Asymmetric_TwoAnimations2: View {
+fileprivate struct Asymmetric_TwoAnimations2: View {
     @State private var showHelp = false
     
     var body: some View {

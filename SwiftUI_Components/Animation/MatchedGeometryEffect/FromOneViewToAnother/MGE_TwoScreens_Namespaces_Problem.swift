@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MGE_TwoScreens_Namespaces_Problem: View {
+fileprivate struct MGE_TwoScreens_Namespaces_Problem: View {
     @State private var showGreenScreen = false
     @Namespace var namespace
     

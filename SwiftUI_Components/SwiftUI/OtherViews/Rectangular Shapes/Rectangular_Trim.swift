@@ -5,7 +5,7 @@
 //7/13/19.
 import SwiftUI
 
-private struct Rectangular_Trim : View {
+fileprivate struct Rectangular_Trim : View {
     @State private var circleProgress: CGFloat = 1.0
     private var circlePercentage: Int { Int(circleProgress * 100.0) }
     

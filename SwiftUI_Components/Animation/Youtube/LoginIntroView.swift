@@ -8,7 +8,7 @@
 import Foundation
 import SwiftUI
 
-private struct LoginPageView: View { //https://www.youtube.com/watch?v=hkdku2_9hN8
+fileprivate struct LoginPageView: View { //https://www.youtube.com/watch?v=hkdku2_9hN8
     /// sample Itros
     @State private var intros: [Intro]  = [
         .init(text: "Let's Create", textColor: Color("LoginColor 4"), circleColor: Color("LoginColor 4"), bgColor: Color("LoginColor 1")),

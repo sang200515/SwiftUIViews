@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct TabView_PageTabViewStyle_FullScreen: View {
+fileprivate struct TabView_PageTabViewStyle_FullScreen: View {
     var body: some View {
         TabView{
             Color.red

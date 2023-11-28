@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct TextField_OnEditingChanged: View {
+fileprivate struct TextField_OnEditingChanged: View {
     @State private var text = ""
     @State private var isEditing = false
     

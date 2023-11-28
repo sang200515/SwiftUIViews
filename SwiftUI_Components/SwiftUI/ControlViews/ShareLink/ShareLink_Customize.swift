@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct ShareLink_Customize: View {
+fileprivate struct ShareLink_Customize: View {
     @State private var photo = Image("profile")
     
     var body: some View {

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct LazyVGrid_Columns: View {
+fileprivate struct LazyVGrid_Columns: View {
     var body: some View {
         VStack(spacing: 20.0) {
             HeaderView("LazyVGrid",

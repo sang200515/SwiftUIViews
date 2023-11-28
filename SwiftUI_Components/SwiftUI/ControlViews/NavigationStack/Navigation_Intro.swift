@@ -1,7 +1,7 @@
 //6/19/19.
 import SwiftUI
 
-private struct Navigation_Intro : View {
+fileprivate struct Navigation_Intro : View {
     var body: some View {
         NavigationStack {
             Image(systemName: "hand.wave.fill")

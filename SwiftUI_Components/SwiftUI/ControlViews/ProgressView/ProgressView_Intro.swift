@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct ProgressView_Intro: View {
+fileprivate struct ProgressView_Intro: View {
     var body: some View {
         VStack(spacing: 20.0) {
             HeaderView("ProgressView",

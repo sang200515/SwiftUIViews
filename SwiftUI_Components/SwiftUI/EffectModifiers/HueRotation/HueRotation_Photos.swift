@@ -5,7 +5,7 @@
 //9/2/19.
 import SwiftUI
 
-private struct HueRotation_Photos: View {
+fileprivate struct HueRotation_Photos: View {
     var body: some View {
         ScrollView {
             VStack(spacing: 5) {

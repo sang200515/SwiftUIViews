@@ -5,7 +5,7 @@
 //8/25/19.
 import SwiftUI
 
-private struct Frame_IdealHeightWidth: View {
+fileprivate struct Frame_IdealHeightWidth: View {
     var body: some View {
         VStack(spacing: 20) {
             Text("Frame")

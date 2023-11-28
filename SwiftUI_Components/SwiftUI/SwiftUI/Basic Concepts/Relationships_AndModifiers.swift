@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Relationships_AndModifiers: View {
+fileprivate struct Relationships_AndModifiers: View {
     var body: some View {
         VStack {
             Text("Parent")

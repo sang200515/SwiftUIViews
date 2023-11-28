@@ -5,7 +5,7 @@
 //11/3/19.
 import SwiftUI
 
-private struct SequenceGesture_AppleExample: View {
+fileprivate struct SequenceGesture_AppleExample: View {
     // An enum is used to manage and combine the states of both gestures.
     enum DragState {
         case inactive

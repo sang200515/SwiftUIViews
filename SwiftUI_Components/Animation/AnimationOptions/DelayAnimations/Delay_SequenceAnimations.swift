@@ -5,7 +5,7 @@
 // 11/18/19.
 import SwiftUI
 
-private struct Delay_SequenceAnimations: View {
+fileprivate struct Delay_SequenceAnimations: View {
     @State private var show = false
     
     var body: some View {

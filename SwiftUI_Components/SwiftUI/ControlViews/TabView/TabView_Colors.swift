@@ -1,7 +1,7 @@
 //6/26/19.
 import SwiftUI
 
-private struct TabView_Colors : View {
+fileprivate struct TabView_Colors : View {
     var body: some View {
         TabView {
             // Tab 1

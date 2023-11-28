@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Picker_InForm: View {
+fileprivate struct Picker_InForm: View {
     @State private var selectedDaysOption = "2"
     var numberOfDaysOptions = ["1", "2", "3", "4", "5"]
     

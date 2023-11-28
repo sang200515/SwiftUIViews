@@ -5,7 +5,7 @@
 // 10/27/19.
 import SwiftUI
 
-private struct BasicAnimations_Challenge2: View {
+fileprivate struct BasicAnimations_Challenge2: View {
     @State private var openMenu = false
     
     var body: some View {

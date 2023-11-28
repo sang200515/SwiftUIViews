@@ -5,7 +5,7 @@
 //8/25/19.
 import SwiftUI
 
-private struct Frame_Min_Max: View {
+fileprivate struct Frame_Min_Max: View {
     var body: some View {
         VStack(spacing: 10) {
             Text("Frame").font(.largeTitle).foregroundColor(.primary)

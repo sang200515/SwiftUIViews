@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Background_HierarchicalColor: View {
+fileprivate struct Background_HierarchicalColor: View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("Background",

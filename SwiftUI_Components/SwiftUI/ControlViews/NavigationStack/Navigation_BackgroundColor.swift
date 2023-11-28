@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Navigation_BackgroundColor: View {
+fileprivate struct Navigation_BackgroundColor: View {
     var body: some View {
         NavigationStack {
             ZStack {

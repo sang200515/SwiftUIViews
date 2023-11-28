@@ -5,7 +5,7 @@
 //9/14/19.
 import SwiftUI
 
-private struct CustomStyling_ManyControls: View {
+fileprivate struct CustomStyling_ManyControls: View {
     @State private var toggleState = true
     @State private var text = ""
     

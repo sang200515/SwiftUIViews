@@ -1,7 +1,7 @@
 
 import SwiftUI
 
-private struct GettingStarted_CheckUnderstanding: View {
+fileprivate struct GettingStarted_CheckUnderstanding: View {
     @State private var change = false
     
     var body: some View {

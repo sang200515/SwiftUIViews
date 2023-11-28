@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct HStack_Spacing: View {
+fileprivate struct HStack_Spacing: View {
     var body: some View {
         VStack(spacing: 40) {
             HeaderView("HStack", subtitle: "Spacing",

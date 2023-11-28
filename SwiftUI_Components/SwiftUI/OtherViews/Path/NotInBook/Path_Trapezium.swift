@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Path_Trapezium: View {
+fileprivate struct Path_Trapezium: View {
     @State private var offset: CGFloat = 90.0
     
     var body: some View {

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct TextField_OnChange: View {
+fileprivate struct TextField_OnChange: View {
     @State private var text = ""
 
     var body: some View {

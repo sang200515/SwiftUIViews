@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct GridItem_Spacing_LazyVGrid: View {
+fileprivate struct GridItem_Spacing_LazyVGrid: View {
     @State private var minSpacing: CGFloat = 10
     @State private var maxSpacing: CGFloat = 20
     

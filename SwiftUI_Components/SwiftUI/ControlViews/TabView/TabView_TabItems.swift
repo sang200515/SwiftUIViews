@@ -1,7 +1,7 @@
 //7/4/19.
 import SwiftUI
 
-private struct TabView_TabItems : View {
+fileprivate struct TabView_TabItems : View {
     var body: some View {
         TabView {
             TabOne()

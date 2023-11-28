@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MultiDatePicker_PresentingInSheet: View {
+fileprivate struct MultiDatePicker_PresentingInSheet: View {
     @State private var showDates = false
     @State private var dates: Set<DateComponents> = []
     

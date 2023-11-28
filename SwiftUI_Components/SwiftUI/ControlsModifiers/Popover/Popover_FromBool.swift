@@ -1,7 +1,7 @@
 //8/18/19.
 import SwiftUI
 
-private struct Popover_FromBool: View {
+fileprivate struct Popover_FromBool: View {
     @State private var showPopover = false
     
     var body: some View {

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct OnPreferenceChange_Intro: View {
+fileprivate struct OnPreferenceChange_Intro: View {
     @State private var total = 0.0
     
     var body: some View {

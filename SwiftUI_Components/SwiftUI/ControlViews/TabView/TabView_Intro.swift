@@ -1,7 +1,7 @@
 //6/26/19.
 import SwiftUI
 
-private struct TabView_Intro : View {
+fileprivate struct TabView_Intro : View {
     var body: some View {
         TabView {
             // First Screen

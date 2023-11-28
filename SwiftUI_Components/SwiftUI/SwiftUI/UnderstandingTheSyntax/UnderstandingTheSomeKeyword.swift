@@ -5,7 +5,7 @@
 //10/15/19.
 import SwiftUI
 
-private struct UnderstandingTheSomeKeyword: View {
+fileprivate struct UnderstandingTheSomeKeyword: View {
     var isYellow = true
     
     // The keyword "some" tells us that whatever we return, it has to:

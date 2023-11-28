@@ -5,7 +5,7 @@
 // 9/30/19.
 import SwiftUI
 
-private struct Animate_Trim: View {
+fileprivate struct Animate_Trim: View {
     @State private var change = false
     @State private var circleProgress: CGFloat = 1.0
     

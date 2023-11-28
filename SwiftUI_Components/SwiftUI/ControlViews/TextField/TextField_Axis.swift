@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct TextField_Axis: View {
+fileprivate struct TextField_Axis: View {
     @State private var text = "This is some longer text that will cause the text fields to scroll text."
     
     var body: some View {

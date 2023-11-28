@@ -5,7 +5,7 @@
 //6/27/19.
 import SwiftUI
 
-private struct Text_AllowsTightening : View {
+fileprivate struct Text_AllowsTightening : View {
     var body: some View {
         VStack(spacing: 20) {
             Text("Text")

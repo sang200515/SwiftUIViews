@@ -1,7 +1,7 @@
 //6/12/19.
 import SwiftUI
 
-private struct Color_AsBackground : View {
+fileprivate struct Color_AsBackground : View {
     var body: some View {
         ZStack {
             Color("ColorBackground")

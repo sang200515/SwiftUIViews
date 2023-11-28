@@ -1,7 +1,7 @@
 // Copyright © 2021 Big Mountain Studio. All rights reserved. Twitter: @BigMtnStudi
 import SwiftUI
 
-private struct MGE_List_SeparateDetailView: View {
+fileprivate struct MGE_List_SeparateDetailView: View {
     @Namespace var namespace
     @State private var selectedFruit: Item?
     private var items = Data.getFruits()

@@ -5,7 +5,7 @@
 //7/13/19.
 import SwiftUI
 
-private struct ImagePaint_Strokes : View {
+fileprivate struct ImagePaint_Strokes : View {
     var body: some View {
         let imgPaint = ImagePaint(image: Image("repeatableImage"))
         let imgPaintInverse = ImagePaint(image: Image("repeatableImageInverse"), scale: 0.5)

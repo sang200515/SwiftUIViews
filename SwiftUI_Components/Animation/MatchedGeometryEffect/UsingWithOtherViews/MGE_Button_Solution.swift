@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MGE_Button_Solution: View {
+fileprivate struct MGE_Button_Solution: View {
     @State private var showDetail = false
     @Namespace var namespace
     

@@ -5,7 +5,7 @@
 // 11/24/19.
 import SwiftUI
 
-private struct Scope_WithAnimation_MultipleViews: View {
+fileprivate struct Scope_WithAnimation_MultipleViews: View {
     @State private var unlock = false
     @State private var open = false
     

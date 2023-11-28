@@ -1,7 +1,7 @@
 //6/26/19.
 import SwiftUI
 
-private struct Text_LineLimit : View {
+fileprivate struct Text_LineLimit : View {
     var body: some View {
         VStack(spacing: 20) {
             Text("Text")

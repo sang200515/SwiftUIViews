@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct List_ScrollContentBackground: View {
+fileprivate struct List_ScrollContentBackground: View {
     private var stringArray = ["Evans", "Lemuel", "Mark", "Durtschi", "Chase", "Adam", "Rodrigo"]
     @State private var show = false
     @State private var showSystemBackground: Visibility = .visible

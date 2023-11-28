@@ -5,7 +5,7 @@
 // 12/19/19.
 import SwiftUI
 
-private struct ZStack_Solution: View {
+fileprivate struct ZStack_Solution: View {
     @State private var show = false
     
     var body: some View {

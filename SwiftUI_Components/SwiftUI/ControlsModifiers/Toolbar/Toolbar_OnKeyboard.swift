@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Toolbar_OnKeyboard: View {
+fileprivate struct Toolbar_OnKeyboard: View {
     @State private var text = ""
     
     var body: some View {

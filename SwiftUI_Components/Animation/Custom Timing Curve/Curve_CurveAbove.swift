@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Curve_CurveAbove: View {
+fileprivate struct Curve_CurveAbove: View {
     @State private var show = false
     
     var body: some View {

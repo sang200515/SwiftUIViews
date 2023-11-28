@@ -5,7 +5,7 @@
 //8/19/19.
 import SwiftUI
 
-private struct ContextMenu_ConditionallyShowing: View {
+fileprivate struct ContextMenu_ConditionallyShowing: View {
     @State private var image: Image? = nil
     
     private var imageOptions = ContextMenu {

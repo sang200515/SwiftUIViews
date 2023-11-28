@@ -5,7 +5,7 @@
 //8/27/19.
 import SwiftUI
 
-private struct Blur_UnderneathView: View {
+fileprivate struct Blur_UnderneathView: View {
     @State private var showingModal = false
     
     var body: some View {

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct DisclosureGroup_WithCustomLabel: View {
+fileprivate struct DisclosureGroup_WithCustomLabel: View {
     @State private var sunExpanded = false
     
     var body: some View {

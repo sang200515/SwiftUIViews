@@ -5,7 +5,7 @@
 //6/9/19.
 import SwiftUI
 
-private struct Text_MinimumScaleFactor : View {
+fileprivate struct Text_MinimumScaleFactor : View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("Text",

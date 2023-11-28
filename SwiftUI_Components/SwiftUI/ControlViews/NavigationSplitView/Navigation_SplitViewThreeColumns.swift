@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Navigation_SplitViewThreeColumns: View {
+fileprivate struct Navigation_SplitViewThreeColumns: View {
     var body: some View {
         NavigationSplitView(columnVisibility: .constant(.all)) {
             Text("Sidebar")

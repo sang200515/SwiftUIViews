@@ -5,7 +5,7 @@
 //8/28/19.
 import SwiftUI
 
-private struct Border_RoundedCorners: View {
+fileprivate struct Border_RoundedCorners: View {
     var body: some View {
         VStack(spacing: 20) {
             Text("Border")

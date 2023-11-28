@@ -5,7 +5,7 @@
 // 10/26/19.
 import SwiftUI
 
-private struct Exercise1_FadeInWithOpacity: View {
+fileprivate struct Exercise1_FadeInWithOpacity: View {
     @State private var change = false
     
     var body: some View {

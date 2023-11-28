@@ -1,7 +1,7 @@
 // 1/26/20.
 import SwiftUI
 
-private struct Curve_OffsetTheViews: View {
+fileprivate struct Curve_OffsetTheViews: View {
     @State private var showMenus = false
     private var backgroundGradient = LinearGradient(
         gradient: Gradient(colors: [Color("Background4"), Color("Secondary4")]),

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Gauge_Customizations: View {
+fileprivate struct Gauge_Customizations: View {
     @State private var value = 75.0
     private let minValue = 0.0
     private let maxValue = 100.0

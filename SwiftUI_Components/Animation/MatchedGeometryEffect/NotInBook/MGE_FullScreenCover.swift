@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MGE_FullScreenCover: View {
+fileprivate struct MGE_FullScreenCover: View {
     @State private var showDetailView = false
     @Namespace var namespace
     

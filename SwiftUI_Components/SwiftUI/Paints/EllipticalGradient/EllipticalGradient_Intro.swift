@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct EllipticalGradient_Intro: View {
+fileprivate struct EllipticalGradient_Intro: View {
     let gradient = Gradient(colors: [.green, .blue])
     
     var body: some View {

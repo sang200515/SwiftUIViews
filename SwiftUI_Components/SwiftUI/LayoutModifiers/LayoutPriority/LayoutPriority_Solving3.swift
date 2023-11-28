@@ -5,7 +5,7 @@
 //9/22/19.
 import SwiftUI
 
-private struct LayoutPriority_Solving3: View {
+fileprivate struct LayoutPriority_Solving3: View {
     var body: some View {
         VStack(spacing: 10) {
             Text("Layout Priority").font(.largeTitle)

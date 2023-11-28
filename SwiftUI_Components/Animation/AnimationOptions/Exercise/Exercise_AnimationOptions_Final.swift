@@ -5,7 +5,7 @@
 // 11/24/19.
 import SwiftUI
 
-private struct Exercise_AnimationOptions_Final: View {
+fileprivate struct Exercise_AnimationOptions_Final: View {
     @State private var showLogin = false
     @State private var userName = ""
     @State private var password = ""

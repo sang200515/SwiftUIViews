@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MGE_SetupTheLazyVStack: View {
+fileprivate struct MGE_SetupTheLazyVStack: View {
     @Namespace var namespace
     @State var selectedPark: Item?
     @State var parks = Data.getUtahNationalParks()

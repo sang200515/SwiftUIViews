@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MGE_Images_Solution: View {
+fileprivate struct MGE_Images_Solution: View {
     @State private var zoom = false
     @Namespace var namespace
     

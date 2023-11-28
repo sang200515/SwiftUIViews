@@ -5,7 +5,7 @@
 //8/25/19.
 import SwiftUI
 
-private struct Clipped_Intro: View {
+fileprivate struct Clipped_Intro: View {
     var body: some View {
         VStack(spacing: 10) {
             Text("Clipped").font(.largeTitle)

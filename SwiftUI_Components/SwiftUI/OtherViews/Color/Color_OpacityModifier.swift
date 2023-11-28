@@ -5,7 +5,7 @@
 //8/23/19.
 import SwiftUI
 
-private struct Color_OpacityModifier: View {
+fileprivate struct Color_OpacityModifier: View {
     var body: some View {
         ZStack {
             // Book Note: I like to apply opacity to background colors/images so the default light/dark comes through.

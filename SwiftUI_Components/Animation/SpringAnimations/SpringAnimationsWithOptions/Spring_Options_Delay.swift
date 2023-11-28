@@ -1,7 +1,7 @@
 // 12/8/19.
 import SwiftUI
 
-private struct Spring_Options_Delay: View {
+fileprivate struct Spring_Options_Delay: View {
     @State private var show = false
     @State private var largeScale: CGFloat = 5
     

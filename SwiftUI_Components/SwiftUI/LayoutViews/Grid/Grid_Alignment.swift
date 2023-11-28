@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Grid_Alignment: View {
+fileprivate struct Grid_Alignment: View {
     var body: some View {
         Grid(alignment: .top) {
             GridRow {

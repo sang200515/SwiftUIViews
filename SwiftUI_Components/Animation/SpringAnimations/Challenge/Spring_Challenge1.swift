@@ -5,7 +5,7 @@
 // 12/8/19.
 import SwiftUI
 
-private struct Spring_Challenge1: View {//flag
+fileprivate struct Spring_Challenge1: View {//flag
     @State private var step = 1
     
     var body: some View {

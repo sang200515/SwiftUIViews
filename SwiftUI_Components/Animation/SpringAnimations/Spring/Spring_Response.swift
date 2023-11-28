@@ -1,7 +1,7 @@
 // 12/1/19.
 import SwiftUI
 
-private struct Spring_Response: View {//flag
+fileprivate struct Spring_Response: View {//flag
     @State private var show = false
     @State private var response = 0.55 // This is the default response value
     

@@ -5,7 +5,7 @@
 // 10/1/19.
 import SwiftUI
 
-private struct Animate_ExcludeModifiers: View {
+fileprivate struct Animate_ExcludeModifiers: View {
     @State private var change = false
     
     var body: some View {

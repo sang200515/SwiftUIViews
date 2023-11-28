@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Accessibility_ReadingValues: View {
+fileprivate struct Accessibility_ReadingValues: View {
     @State private var sliderValue = 1.0
 
     var body: some View {

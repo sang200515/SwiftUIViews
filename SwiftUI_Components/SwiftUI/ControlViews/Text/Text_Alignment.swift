@@ -5,7 +5,7 @@
 //6/5/19.
 import SwiftUI
 
-private struct Text_Alignment : View {
+fileprivate struct Text_Alignment : View {
     var body: some View {
         VStack(spacing: 5) {
             Text("Text")

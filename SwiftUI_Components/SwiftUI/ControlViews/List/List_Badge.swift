@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct List_Badge: View {
+fileprivate struct List_Badge: View {
     var body: some View {
         VStack(spacing: 20.0) {
             HeaderView("List",

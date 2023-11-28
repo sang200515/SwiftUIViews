@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Toolbar_ToolbarItemGroup: View {
+fileprivate struct Toolbar_ToolbarItemGroup: View {
     var body: some View {
         NavigationStack {
             VStack {

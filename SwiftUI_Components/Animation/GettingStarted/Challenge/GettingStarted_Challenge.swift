@@ -1,7 +1,7 @@
 
 import SwiftUI
 
-private struct GettingStarted_Challenge: View {
+fileprivate struct GettingStarted_Challenge: View {
     @State private var change = false
     
     var body: some View {

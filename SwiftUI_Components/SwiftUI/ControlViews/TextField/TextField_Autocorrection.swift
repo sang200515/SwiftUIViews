@@ -5,7 +5,7 @@
 //11/17/19.
 import SwiftUI
 
-private struct TextField_Autocorrection: View {
+fileprivate struct TextField_Autocorrection: View {
     @State private var textFieldData = ""
     
     var body: some View {

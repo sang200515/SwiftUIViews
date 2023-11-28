@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct List_Refreshable: View {
+fileprivate struct List_Refreshable: View {
     @State private var stringArray = ["Evans", "Lemuel", "Mark", "Durtschi",
                                       "Chase", "Adam", "Rodrigo",]
     

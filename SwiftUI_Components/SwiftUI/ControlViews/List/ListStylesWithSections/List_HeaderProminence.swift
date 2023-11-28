@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct List_HeaderProminence: View {
+fileprivate struct List_HeaderProminence: View {
     var body: some View {
         List {
             Section {

@@ -5,7 +5,7 @@
 // 11/1/19.
 import SwiftUI
 
-private struct Trigger_Button: View {
+fileprivate struct Trigger_Button: View {
     @State private var showButtons = false
     
     var body: some View {

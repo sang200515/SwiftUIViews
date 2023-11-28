@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct LazyHStack_Alignment: View {
+fileprivate struct LazyHStack_Alignment: View {
     var body: some View {
         VStack(spacing: 20.0) {
             HeaderView("LazyHStack",

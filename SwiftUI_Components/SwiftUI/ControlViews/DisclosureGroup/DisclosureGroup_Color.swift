@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct DisclosureGroup_Color: View {
+fileprivate struct DisclosureGroup_Color: View {
     @State private var disclosureExpanded = true
     
     var body: some View {

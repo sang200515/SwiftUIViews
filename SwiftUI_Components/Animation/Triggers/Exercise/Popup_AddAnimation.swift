@@ -5,7 +5,7 @@
 // 11/10/19.
 import SwiftUI
 
-private struct Popup_AddAnimation: View {
+fileprivate struct Popup_AddAnimation: View {
     @State private var showPopup = true
     @GestureState private var popupOffset = CGSize.zero
     

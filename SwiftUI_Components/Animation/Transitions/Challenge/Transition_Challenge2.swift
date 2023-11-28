@@ -1,7 +1,7 @@
 // 12/25/19.
 import SwiftUI
 
-private struct Transition_Challenge2: View {
+fileprivate struct Transition_Challenge2: View {
     @State private var login = false
     @State private var userName = ""
     @State private var password = ""

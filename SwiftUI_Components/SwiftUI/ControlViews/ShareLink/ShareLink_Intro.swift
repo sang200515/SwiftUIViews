@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct ShareLink_Intro: View {
+fileprivate struct ShareLink_Intro: View {
     var body: some View {
         Form {
             Section("Text") {

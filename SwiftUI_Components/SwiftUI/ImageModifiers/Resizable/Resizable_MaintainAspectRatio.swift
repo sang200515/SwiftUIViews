@@ -5,7 +5,7 @@
 //9/17/19.
 import SwiftUI
 
-private struct Resizable_MaintainAspectRatio: View {
+fileprivate struct Resizable_MaintainAspectRatio: View {
     var body: some View {
         ScrollView {
             VStack(spacing: 20) {

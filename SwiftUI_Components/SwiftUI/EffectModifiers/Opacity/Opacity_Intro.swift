@@ -5,7 +5,7 @@
 //8/25/19.
 import SwiftUI
 
-private struct Opacity_Intro: View {
+fileprivate struct Opacity_Intro: View {
     var body: some View {
         ScrollView {
             VStack(spacing: 20) {

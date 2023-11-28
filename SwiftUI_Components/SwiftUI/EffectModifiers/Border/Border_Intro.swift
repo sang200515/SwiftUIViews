@@ -5,7 +5,7 @@
 //8/25/19.
 import SwiftUI
 
-private struct Border_Intro: View {
+fileprivate struct Border_Intro: View {
     var body: some View {
         VStack(spacing: 10) {
             Text("Border")

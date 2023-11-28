@@ -1,7 +1,7 @@
 //9/21/19.
 import SwiftUI
 
-private struct StatusBarHidden_Intro: View {
+fileprivate struct StatusBarHidden_Intro: View {
     @State private var isOn = true
     
     var body: some View {

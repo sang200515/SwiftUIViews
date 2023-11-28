@@ -5,7 +5,7 @@
 //7/12/19.
 import SwiftUI
 
-private struct GeometryReader_SafeAreaInsets : View {
+fileprivate struct GeometryReader_SafeAreaInsets : View {
     var body: some View {
         VStack(spacing: 10) {
 HeaderView("GeometryReader", subtitle: "SafeAreaInsets", desc: "GeometryReader can also tell you the safe area insets it has.", back: .clear)

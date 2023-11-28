@@ -1,7 +1,7 @@
 // 9/30/19.
 import SwiftUI
 
-private struct Spring_Dampen: View {
+fileprivate struct Spring_Dampen: View {
     @State private var show = false
     @State private var dampingFraction = 0.825 // This is the default damping fraction
     

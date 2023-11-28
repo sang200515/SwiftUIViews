@@ -1,7 +1,7 @@
 //8/12/19.
 import SwiftUI
 
-private struct Rectangular_WithControls: View {
+fileprivate struct Rectangular_WithControls: View {
     @State private var textField = "Rounded Rectangle with TextField"
     
     var body: some View {

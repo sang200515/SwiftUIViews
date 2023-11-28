@@ -5,7 +5,7 @@
 //8/21/19.
 import SwiftUI
 
-private struct Group_SharedAttributes: View {
+fileprivate struct Group_SharedAttributes: View {
     var body: some View {
         VStack(spacing: 10) {
             Text("Group")

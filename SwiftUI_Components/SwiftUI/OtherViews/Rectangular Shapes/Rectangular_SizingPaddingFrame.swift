@@ -5,7 +5,7 @@
 //7/13/19.
 import SwiftUI
 
-private struct Rectangular_SizingPaddingFrame : View {
+fileprivate struct Rectangular_SizingPaddingFrame : View {
     var body: some View {
         VStack(spacing: 5) {
             Text("Rectangular Shapes").font(.largeTitle)

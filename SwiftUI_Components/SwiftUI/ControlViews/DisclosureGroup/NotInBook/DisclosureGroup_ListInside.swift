@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct DisclosureGroup_ListInside: View {
+fileprivate struct DisclosureGroup_ListInside: View {
     @State var stories = ["Origin Story", "New York 1979", "Girl in the Woods", "Life at the end of the World", "It's Not What You Know", "Specifically Not That", "Mister with a Sister", "Origin Story", "New York 1979", "Girl in the Woods", "Life at the end of the World", "It's Not What You Know", "Specifically Not That", "Mister with a Sister","Origin Story", "New York 1979", "Girl in the Woods", "Life at the end of the World", "It's Not What You Know", "Specifically Not That", "Mister with a Sister"]
     
     var body: some View {

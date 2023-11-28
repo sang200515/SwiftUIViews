@@ -1,7 +1,7 @@
 //7/5/19.
 import SwiftUI
 
-private struct Color_Intro : View {
+fileprivate struct Color_Intro : View {
     var body: some View {
         VStack(spacing: 40) {
             HeaderView("Color",

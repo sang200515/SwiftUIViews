@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Image_UsingMaterials: View {
+fileprivate struct Image_UsingMaterials: View {
     var body: some View {
         ZStack {
             Image("canyonlands")

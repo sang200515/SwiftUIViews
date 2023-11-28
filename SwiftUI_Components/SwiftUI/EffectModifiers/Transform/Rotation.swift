@@ -5,7 +5,7 @@
 //9/6/19.
 import SwiftUI
 
-private struct Rotation: View {
+fileprivate struct Rotation: View {
     @State private var applyEffect = false
     
     var body: some View {

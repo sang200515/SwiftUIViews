@@ -5,7 +5,7 @@
 // 11/24/19.
 import SwiftUI
 
-private struct Speed_Intro: View {
+fileprivate struct Speed_Intro: View {
     @State private var change = false
     let duration = 1.0
     

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MGE_WhatCouldGoWrong_FrameProblem: View {
+fileprivate struct MGE_WhatCouldGoWrong_FrameProblem: View {
     @State private var showView2 = false
     @Namespace var namespace
     

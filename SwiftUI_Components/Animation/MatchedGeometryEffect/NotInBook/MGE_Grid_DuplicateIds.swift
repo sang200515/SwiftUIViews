@@ -1,7 +1,7 @@
 
 import SwiftUI
 
-private struct TestData: Identifiable {
+fileprivate struct TestData: Identifiable {
     let id = UUID()
     var data = ""
 }

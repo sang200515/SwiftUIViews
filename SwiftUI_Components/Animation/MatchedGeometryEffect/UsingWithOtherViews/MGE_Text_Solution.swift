@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MGE_Text_Solution: View {
+fileprivate struct MGE_Text_Solution: View {
     @State private var showDetail = false
     @Namespace var namespace
     

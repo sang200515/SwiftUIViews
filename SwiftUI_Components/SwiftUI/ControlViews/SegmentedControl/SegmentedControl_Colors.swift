@@ -1,7 +1,7 @@
 //7/18/19.
 import SwiftUI
 
-private struct SegmentedControl_Colors: View {
+fileprivate struct SegmentedControl_Colors: View {
     @State private var selection = 2
     
     var body: some View {

@@ -6,7 +6,7 @@
 //  Copyright © 2020 Mark Moeykens. All rights reserved
 import SwiftUI
 
-private struct AllGradients: View {
+fileprivate struct AllGradients: View {
     // 1. Define your gradient colors
     let gradientColors = Gradient(colors: [Color.pink, Color.purple])
     

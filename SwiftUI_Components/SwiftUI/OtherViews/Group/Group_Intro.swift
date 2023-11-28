@@ -5,7 +5,7 @@
 //8/21/19.
 import SwiftUI
 
-private struct Group_Intro: View {
+fileprivate struct Group_Intro: View {
     var body: some View {
         VStack(spacing: 20) {
             Text("Group")

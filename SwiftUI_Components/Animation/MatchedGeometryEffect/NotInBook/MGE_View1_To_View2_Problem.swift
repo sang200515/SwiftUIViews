@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MGE_View1_To_View2_Problem: View {
+fileprivate struct MGE_View1_To_View2_Problem: View {
     @State private var showView2 = false
     @Namespace var namespace
     

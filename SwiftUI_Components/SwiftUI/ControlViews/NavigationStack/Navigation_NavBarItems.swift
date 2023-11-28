@@ -1,7 +1,7 @@
 //6/19/19.
 import SwiftUI
 
-private struct Navigation_NavBarItems : View {
+fileprivate struct Navigation_NavBarItems : View {
     var body: some View {
         NavigationStack {
             VStack {

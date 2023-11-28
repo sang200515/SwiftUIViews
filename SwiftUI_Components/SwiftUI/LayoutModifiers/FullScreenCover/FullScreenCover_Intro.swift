@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct FullScreenCover_Intro: View {
+fileprivate struct FullScreenCover_Intro: View {
     @State private var showDetailView = false
     
     var body: some View {

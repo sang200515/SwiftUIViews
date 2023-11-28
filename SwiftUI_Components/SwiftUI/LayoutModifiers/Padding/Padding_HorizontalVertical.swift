@@ -5,7 +5,7 @@
 //9/21/19.
 import SwiftUI
 
-private struct Padding_HorizontalVertical: View {
+fileprivate struct Padding_HorizontalVertical: View {
     var body: some View {
         VStack(spacing: 20) {
             Text("Padding").font(.largeTitle)

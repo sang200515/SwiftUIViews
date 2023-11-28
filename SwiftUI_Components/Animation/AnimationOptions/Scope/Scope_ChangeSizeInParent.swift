@@ -5,7 +5,7 @@
 // 12/10/19.
 import SwiftUI
 
-private struct Scope_ChangeSizeInParent: View {
+fileprivate struct Scope_ChangeSizeInParent: View {
     @State private var change = false
     
     var body: some View {

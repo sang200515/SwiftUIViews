@@ -5,7 +5,7 @@
 //7/13/19.
 import SwiftUI
 
-private struct Rectangular_Colors : View {
+fileprivate struct Rectangular_Colors : View {
     var body: some View {
         VStack(spacing: 10) {
             Text("Rectangular Shapes")

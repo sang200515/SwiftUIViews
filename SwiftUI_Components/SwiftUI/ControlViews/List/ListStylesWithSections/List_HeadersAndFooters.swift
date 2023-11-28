@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct List_HeadersAndFooters : View {
+fileprivate struct List_HeadersAndFooters : View {
     var data = ["Evans", "Lemuel James Guerrero", "Mark", "Durtschi", "Chase", "Rodrigo"]
     var body: some View {
         List {

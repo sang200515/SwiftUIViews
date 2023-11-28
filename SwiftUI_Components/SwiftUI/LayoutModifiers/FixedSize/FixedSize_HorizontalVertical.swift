@@ -5,7 +5,7 @@
 //8/25/19.
 import SwiftUI
 
-private struct FixedSize_HorizontalVertical: View {
+fileprivate struct FixedSize_HorizontalVertical: View {
     var body: some View {
         VStack(spacing: 10) {
             Text("Fixed Size")

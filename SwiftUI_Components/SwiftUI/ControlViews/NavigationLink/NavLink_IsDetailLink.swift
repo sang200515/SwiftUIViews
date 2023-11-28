@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct NavLink_IsDetailLink: View {
+fileprivate struct NavLink_IsDetailLink: View {
     var body: some View {
         NavigationSplitView {
             VStack(spacing: 20) {

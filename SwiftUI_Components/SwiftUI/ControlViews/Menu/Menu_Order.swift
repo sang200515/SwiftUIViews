@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Menu_Order: View {
+fileprivate struct Menu_Order: View {
     var body: some View {
         VStack(spacing: 20) {
             Spacer()

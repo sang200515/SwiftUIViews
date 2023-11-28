@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Grid_CellColumns: View {
+fileprivate struct Grid_CellColumns: View {
     var body: some View {
         Grid {
             GridRow {

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Edges_SafeAreas: View {
+fileprivate struct Edges_SafeAreas: View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("Safe Area",

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct List_ListItemTint: View {
+fileprivate struct List_ListItemTint: View {
     var body: some View {
         VStack(spacing: 10) {
             HeaderView("List",

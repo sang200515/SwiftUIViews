@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct HorizontalScrolling_YAxis2: View {
+fileprivate struct HorizontalScrolling_YAxis2: View {
     var body: some View {
         VStack(spacing: 20) {
             TitleText("Vertical Scrolling")

@@ -5,7 +5,7 @@
 //8/23/19.
 import SwiftUI
 
-private struct Background_Gradients: View {
+fileprivate struct Background_Gradients: View {
     private var gradientColors = Gradient(colors: [Color("Theme1Accent"), Color.purple])
     
     var body: some View {

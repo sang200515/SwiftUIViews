@@ -5,7 +5,7 @@
 //9/13/19.
 import SwiftUI
 
-private struct ButtonStyle_Default: View {
+fileprivate struct ButtonStyle_Default: View {
     var body: some View {
         ScrollView {
             VStack(spacing: 20) {

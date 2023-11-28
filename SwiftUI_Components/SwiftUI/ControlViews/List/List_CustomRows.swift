@@ -5,7 +5,7 @@
 //6/22/19.
 import SwiftUI
 
-private struct List_CustomRows : View {
+fileprivate struct List_CustomRows : View {
     var data = ["Custom Rows!", "Evans", "Lemuel James Guerrero", "Mark", "Durtschi", "Chase", "Adam", "Rodrigo"]
     
     var body: some View {

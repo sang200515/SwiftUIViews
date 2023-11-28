@@ -5,7 +5,7 @@
 //7/6/19.
 import SwiftUI
 
-private struct Image_SymbolSizing : View {
+fileprivate struct Image_SymbolSizing : View {
     var body: some View {
         VStack(spacing: 20) {
             Text("Image - Symbols")

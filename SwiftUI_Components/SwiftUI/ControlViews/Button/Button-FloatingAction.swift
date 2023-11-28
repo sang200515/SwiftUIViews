@@ -5,7 +5,7 @@
 //7/22/19.
 import SwiftUI
 
-private struct Button_FloatingAction: View {
+fileprivate struct Button_FloatingAction: View {
     var body: some View {
         ZStack {
             VStack(spacing: 40) {

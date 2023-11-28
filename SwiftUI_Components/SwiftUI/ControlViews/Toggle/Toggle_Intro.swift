@@ -1,7 +1,7 @@
 //6/28/19.
 import SwiftUI
 
-private struct Toggle_Intro : View {
+fileprivate struct Toggle_Intro : View {
     @State private var isToggleOn = true
     
     var body: some View {

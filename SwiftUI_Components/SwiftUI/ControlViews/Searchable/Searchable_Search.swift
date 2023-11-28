@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Searchable_Search: View {
+fileprivate struct Searchable_Search: View {
     private let locations = ["Milton", "Milltown", "Millerville", "Milwaukee", "Millcreek", "Milagro", "Milano"]
     @State private var searchResults: [String] = []
     @State private var locationSearch = ""

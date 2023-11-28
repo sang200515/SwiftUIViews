@@ -5,7 +5,7 @@
 // 11/1/19.
 import SwiftUI
 
-private struct Trigger_OnAppear: View {
+fileprivate struct Trigger_OnAppear: View {
     @State private var expand = false
     
     var body: some View {

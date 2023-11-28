@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Link_Intro: View {
+fileprivate struct Link_Intro: View {
     var body: some View {
         VStack(spacing: 40) {
             HeaderView("Link",

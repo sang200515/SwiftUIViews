@@ -1,7 +1,7 @@
 //6/18/19.
 import SwiftUI
 
-private struct Color_ColorMultiply : View {
+fileprivate struct Color_ColorMultiply : View {
     var body: some View {
         VStack(spacing: 30) {
             HeaderView("Color", subtitle: "Color Multiply",

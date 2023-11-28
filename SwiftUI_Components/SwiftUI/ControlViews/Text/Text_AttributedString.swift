@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Text_AttributedString: View {
+fileprivate struct Text_AttributedString: View {
     @State private var name = "Big Mountain Studio"
     
     var myAttributedString: AttributedString {

@@ -5,7 +5,7 @@
 //9/20/19.
 import SwiftUI
 
-private struct Mask_Positioning: View {
+fileprivate struct Mask_Positioning: View {
     var body: some View {
         ScrollView {
             VStack(spacing: 12) {

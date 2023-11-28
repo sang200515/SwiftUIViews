@@ -5,7 +5,7 @@
 //9/14/19.
 import SwiftUI
 
-private struct Capsule_RoundedCornerStyle: View {
+fileprivate struct Capsule_RoundedCornerStyle: View {
     var body: some View {
         VStack(spacing: 20) {
             Text("Capsule")

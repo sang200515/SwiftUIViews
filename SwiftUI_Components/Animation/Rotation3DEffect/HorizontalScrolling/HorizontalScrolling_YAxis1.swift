@@ -5,7 +5,7 @@
 // 9/26/19.
 import SwiftUI
 
-private struct HorizontalScrolling_YAxis1: View {
+fileprivate struct HorizontalScrolling_YAxis1: View {
     var data: [Color] = [.green, .blue, .red, .purple, .pink, .orange, .yellow]
     
     /*

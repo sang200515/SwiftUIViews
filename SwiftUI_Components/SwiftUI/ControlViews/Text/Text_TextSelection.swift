@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Text_TextSelection: View {
+fileprivate struct Text_TextSelection: View {
     var body: some View {
         VStack(spacing: 60.0) {
             HeaderView("Text",

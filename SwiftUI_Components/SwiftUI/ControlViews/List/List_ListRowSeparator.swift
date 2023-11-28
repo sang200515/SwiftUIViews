@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct List_ListRowSeparator: View {
+fileprivate struct List_ListRowSeparator: View {
     var body: some View {
         VStack(spacing: 0) {
             HeaderView("List",

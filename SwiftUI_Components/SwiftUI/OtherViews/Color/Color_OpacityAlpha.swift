@@ -5,7 +5,7 @@
 //8/23/19.
 import SwiftUI
 
-private struct Color_OpacityAlpha: View {
+fileprivate struct Color_OpacityAlpha: View {
     var body: some View {
         ZStack {
             Color.purple

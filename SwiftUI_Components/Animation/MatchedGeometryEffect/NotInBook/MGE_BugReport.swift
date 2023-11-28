@@ -1,7 +1,7 @@
 
 import SwiftUI
 
-private struct MGE_BugReport: View {
+fileprivate struct MGE_BugReport: View {
     @State private var showDetail = false
     @Namespace var namespace
     

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Color_Gradient: View {
+fileprivate struct Color_Gradient: View {
     var body: some View {
         VStack {
             RoundedRectangle(cornerRadius: 16)

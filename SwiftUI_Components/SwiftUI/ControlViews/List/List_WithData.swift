@@ -5,7 +5,7 @@
 //6/17/19.
 import SwiftUI
 
-private struct List_WithData : View {
+fileprivate struct List_WithData : View {
     var stringArray = ["This is the simplest List", "Evans", "Lemuel James Guerrero", "Mark", "Durtschi", "Chase", "Adam", "Rodrigo", "Notice the automatic wrapping when the text is longer"]
     
     var body: some View {

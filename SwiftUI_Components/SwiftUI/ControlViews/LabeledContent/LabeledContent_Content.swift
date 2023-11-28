@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct LabeledContent_Content: View {
+fileprivate struct LabeledContent_Content: View {
     var body: some View {
         Form {
             LabeledContent("Opt in to") {

@@ -5,7 +5,7 @@
 //9/28/19.
 import SwiftUI
 
-private struct Description2: View {
+fileprivate struct Description2: View {
     var body: some View {
         VStack(spacing: 20) {
             Text("Title")

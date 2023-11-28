@@ -5,7 +5,7 @@
 //9/4/19.
 import SwiftUI
 
-private struct ViewSizes_Push_Out: View {
+fileprivate struct ViewSizes_Push_Out: View {
     var body: some View {
         VStack(spacing: 20) {
             Text("Layout Behavior")

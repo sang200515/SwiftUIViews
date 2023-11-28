@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct TextField_KeyboardSafeArea: View {
+fileprivate struct TextField_KeyboardSafeArea: View {
     @State private var userName = ""
     @State private var password = ""
     

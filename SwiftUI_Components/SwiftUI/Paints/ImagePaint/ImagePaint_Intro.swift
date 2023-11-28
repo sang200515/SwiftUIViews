@@ -5,7 +5,7 @@
 //7/13/19.
 import SwiftUI
 
-private struct ImagePaint_Intro : View {
+fileprivate struct ImagePaint_Intro : View {
     var body: some View {
         let imgPaint = ImagePaint(image: Image("repeatableImage"))
         

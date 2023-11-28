@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct ScrollViewReader_Automatic: View {
+fileprivate struct ScrollViewReader_Automatic: View {
     @State private var people = MockData.getProfiles()
     @State private var index = 0
     

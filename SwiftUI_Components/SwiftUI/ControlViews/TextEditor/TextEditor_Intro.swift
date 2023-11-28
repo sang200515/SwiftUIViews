@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct TextEditor_Intro: View {
+fileprivate struct TextEditor_Intro: View {
     @State private var text = ""
     
     var body: some View {

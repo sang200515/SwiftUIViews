@@ -4,7 +4,7 @@
  This problem was solved using Preferences in OtherModifiers > Preference > Preference_WidestTextView.swift
  */import SwiftUI
 
-private struct AlignNumbers: View {
+fileprivate struct AlignNumbers: View {
     var body: some View {
         VStack(alignment: .column2, spacing: 0) {
             VStack(alignment: .column1, spacing: 20) {

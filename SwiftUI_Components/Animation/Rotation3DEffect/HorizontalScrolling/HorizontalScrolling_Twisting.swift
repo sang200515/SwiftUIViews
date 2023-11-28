@@ -5,7 +5,7 @@
 // 9/25/19.
 import SwiftUI
 
-private struct HorizontalScrolling_Twisting: View {
+fileprivate struct HorizontalScrolling_Twisting: View {
     var data: [Color] = [.clear, .green, .blue, .red, .purple, .pink, .orange, .yellow]
     
     var body: some View {

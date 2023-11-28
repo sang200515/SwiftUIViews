@@ -1,7 +1,7 @@
 //7/10/19.
 import SwiftUI
 
-private struct Color_SecondaryStacking : View {
+fileprivate struct Color_SecondaryStacking : View {
     var body: some View {
         VStack(spacing: 40) {
             HeaderView("Color",

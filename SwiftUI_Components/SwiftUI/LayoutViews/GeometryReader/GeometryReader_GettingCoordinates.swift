@@ -5,7 +5,7 @@
 //7/12/19.
 import SwiftUI
 
-private struct GeometryReader_GettingCoordinates : View {
+fileprivate struct GeometryReader_GettingCoordinates : View {
     var body: some View {
         VStack(spacing: 10) {
             HeaderView("GeometryReader", subtitle: "Getting Coordinates", desc: "Getting the coordinates (x, y) of a geometry view is little different. Take a look at this example:", back: .clear)

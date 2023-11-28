@@ -5,7 +5,7 @@
 //11/3/19.
 import SwiftUI
 
-private struct MagnificationGesture_Info: View {
+fileprivate struct MagnificationGesture_Info: View {
     @GestureState var scale: CGFloat = 1.0
     
     var body: some View {

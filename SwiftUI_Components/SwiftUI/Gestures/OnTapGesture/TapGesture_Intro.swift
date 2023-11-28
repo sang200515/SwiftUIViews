@@ -5,7 +5,7 @@
 //11/2/19.
 import SwiftUI
 
-private struct TapGesture_Intro: View {
+fileprivate struct TapGesture_Intro: View {
     @State private var hasDoubleTapped = false
     @State private var hasTripleTapped = false
     var body: some View {

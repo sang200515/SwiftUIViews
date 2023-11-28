@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Text_Format: View {
+fileprivate struct Text_Format: View {
     @State private var value = 12.34
 
     var body: some View {

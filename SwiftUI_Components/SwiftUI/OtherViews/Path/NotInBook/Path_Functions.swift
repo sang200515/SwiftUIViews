@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct PathInfo: Identifiable {
+fileprivate struct PathInfo: Identifiable {
     let id = UUID()
     var name = ""
     var detail = ""

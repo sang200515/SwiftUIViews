@@ -5,7 +5,7 @@
 //6/25/19.
 import SwiftUI
 
-private struct Stepper_Customization : View {
+fileprivate struct Stepper_Customization : View {
     @State private var contrast = 50
     
     var body: some View {

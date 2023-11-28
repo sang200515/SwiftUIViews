@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Nav_WithPath: View {
+fileprivate struct Nav_WithPath: View {
     @State private var navPath: [String] = []
     
     var body: some View {

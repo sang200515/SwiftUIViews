@@ -5,7 +5,7 @@
 // 12/7/19.
 import SwiftUI
 
-private struct Interpolating_CompareStiffnessDamping: View {
+fileprivate struct Interpolating_CompareStiffnessDamping: View {
     @State private var change = false
     
     var body: some View {

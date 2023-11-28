@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Background_TabViewBackground: View {
+fileprivate struct Background_TabViewBackground: View {
     var body: some View {
         TabView {
             VStack(spacing: 20.0) {

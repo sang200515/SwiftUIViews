@@ -5,7 +5,7 @@
 //9/13/19.
 import SwiftUI
 
-private struct ButtonStyle_IsPressed: View {
+fileprivate struct ButtonStyle_IsPressed: View {
     var body: some View {
         VStack(spacing: 20) {
             Text("ButtonStyle").font(.largeTitle)

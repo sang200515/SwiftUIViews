@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct List_Selection_Single: View {
+fileprivate struct List_Selection_Single: View {
     @State private var data = ["Practice Coding", "Grocery shopping", "Get tickets", "Clean house", "Do laundry", "Cook dinner", "Paint room"]
     @State private var selection: String?
     

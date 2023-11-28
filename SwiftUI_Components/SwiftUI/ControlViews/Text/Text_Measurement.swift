@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Text_Measurement: View {
+fileprivate struct Text_Measurement: View {
     @State private var marathon = Measurement(value: 26.2, unit: UnitLength.miles)
     @State private var height = Measurement(value: 2, unit: UnitLength.meters)
     @State private var temperature = Measurement(value: 30, unit: UnitTemperature.celsius)

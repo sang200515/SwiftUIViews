@@ -1,7 +1,7 @@
 //6/30/19.
 import SwiftUI
 
-private struct Form_ListRowInset : View {
+fileprivate struct Form_ListRowInset : View {
     var body: some View {
         Form {
             Section {

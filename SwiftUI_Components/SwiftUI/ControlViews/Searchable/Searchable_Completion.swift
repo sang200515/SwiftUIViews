@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Searchable_Completion: View {
+fileprivate struct Searchable_Completion: View {
     @State private var locationSearch = ""
     
     var body: some View {

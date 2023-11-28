@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct FB9803194: View {
+fileprivate struct FB9803194: View {
     @State private var selectedDate = Date()
     
     var body: some View {

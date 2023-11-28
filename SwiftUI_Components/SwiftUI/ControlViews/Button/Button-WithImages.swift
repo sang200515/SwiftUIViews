@@ -1,7 +1,7 @@
 //9/1/19.
 import SwiftUI
 
-private struct Button_WithPhotos: View {
+fileprivate struct Button_WithPhotos: View {
     var body: some View {
         VStack(spacing: 10) {
             Text("Button")

@@ -1,7 +1,7 @@
 //12/21/19.
 import SwiftUI
 
-private struct Slider_RangeOfValues: View {
+fileprivate struct Slider_RangeOfValues: View {
     @State private var age = 18.0
     
     let ageFormatter: NumberFormatter = {

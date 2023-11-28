@@ -5,7 +5,7 @@
 //9/9/19.
 import SwiftUI
 
-private struct CustomStyling_WithViewModifier: View {
+fileprivate struct CustomStyling_WithViewModifier: View {
     var body: some View {
         VStack(spacing: 20) {
             Text("ViewModifier").font(.largeTitle)

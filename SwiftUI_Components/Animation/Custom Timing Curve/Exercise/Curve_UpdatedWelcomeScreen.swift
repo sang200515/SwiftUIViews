@@ -1,7 +1,7 @@
 // 1/26/20.
 import SwiftUI
 
-private struct Curve_UpdatedWelcomeScreen: View {
+fileprivate struct Curve_UpdatedWelcomeScreen: View {
         private var backgroundGradient = LinearGradient(gradient: Gradient(colors: [Color("Background4"), Color("Secondary4")]), startPoint: .top, endPoint: .bottom)
     
     var body: some View {

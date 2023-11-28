@@ -5,7 +5,7 @@
 //8/13/19.
 import SwiftUI
 
-private struct ActionSheets_PresentWithBool: View {
+fileprivate struct ActionSheets_PresentWithBool: View {
     // 1. Create a State variable to control presenting the action sheet
     @State private var presentingActionSheet = false
     

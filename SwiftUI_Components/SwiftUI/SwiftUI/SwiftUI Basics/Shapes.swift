@@ -5,7 +5,7 @@
 //9/4/19.
 import SwiftUI
 
-private struct Shapes: View {
+fileprivate struct Shapes: View {
     var body: some View {
         VStack(spacing: 15) {
             Text("Shapes")

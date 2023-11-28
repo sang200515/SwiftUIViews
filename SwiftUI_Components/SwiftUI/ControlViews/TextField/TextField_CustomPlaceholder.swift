@@ -5,7 +5,7 @@
 //9/21/19.
 import SwiftUI
 
-private struct TextField_CustomPlaceholder: View {
+fileprivate struct TextField_CustomPlaceholder: View {
     @State private var textFieldData = ""
     
     var body: some View {

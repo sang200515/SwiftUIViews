@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MGE_VStack_Intro: View {
+fileprivate struct MGE_VStack_Intro: View {
     @Namespace var namespace
     @State private var selectedFruit: Item?
     let fruits = Data.getFruits()

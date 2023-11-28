@@ -5,7 +5,7 @@
 //8/22/19.
 import SwiftUI
 
-private struct Text_CustomFont: View {
+fileprivate struct Text_CustomFont: View {
     var body: some View {
         VStack(spacing: 10) {
             HeaderView("Text",

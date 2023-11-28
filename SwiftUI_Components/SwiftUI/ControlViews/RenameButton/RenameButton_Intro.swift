@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct RenameButton_Intro: View {
+fileprivate struct RenameButton_Intro: View {
     @State private var names = ["Rod", "Mark", "Chase"]
     var body: some View {
         List($names, id: \.self) { $name in

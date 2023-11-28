@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Vstack_Spacing: View {
+fileprivate struct Vstack_Spacing: View {
     var body: some View {
         VStack(spacing: 60) {
             Text("VStack")

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct NavLink_isPresented: View {
+fileprivate struct NavLink_isPresented: View {
     @State private var showSheet = false
     @State private var navigate = false
     

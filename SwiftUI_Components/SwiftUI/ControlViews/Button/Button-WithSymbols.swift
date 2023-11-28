@@ -5,7 +5,7 @@
 //6/17/19.
 import SwiftUI
 
-private struct Button_WithImage : View {
+fileprivate struct Button_WithImage : View {
     var body: some View {
         VStack(spacing: 40) {
             Text("Button").font(.largeTitle)

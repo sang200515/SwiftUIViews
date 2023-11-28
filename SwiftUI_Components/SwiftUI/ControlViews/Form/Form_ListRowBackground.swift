@@ -1,7 +1,7 @@
 //6/29/19.
 import SwiftUI
 
-private struct Form_ListRowBackground : View {
+fileprivate struct Form_ListRowBackground : View {
     var body: some View {
         Form {
             Section {

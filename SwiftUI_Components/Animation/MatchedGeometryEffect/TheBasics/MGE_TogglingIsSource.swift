@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MGE_TogglingIsSource: View {
+fileprivate struct MGE_TogglingIsSource: View {
     @Namespace var namespace
     @State var isSource = false
     

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct TextField_CustomComposition: View {
+fileprivate struct TextField_CustomComposition: View {
     @State private var textFieldData = ""
     
     var body: some View {

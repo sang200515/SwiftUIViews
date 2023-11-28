@@ -5,7 +5,7 @@
 //11/20/19.
 import SwiftUI
 
-private struct Radial_AsBackground: View {
+fileprivate struct Radial_AsBackground: View {
     var body: some View {
         ZStack {
             // Use radial gradient as background view

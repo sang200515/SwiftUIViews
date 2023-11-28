@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Padding_NegativeSpacing: View {
+fileprivate struct Padding_NegativeSpacing: View {
     var body: some View {
         VStack(spacing: 8) {
             HeaderView("Padding",

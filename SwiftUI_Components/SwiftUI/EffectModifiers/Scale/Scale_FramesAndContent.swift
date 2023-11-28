@@ -5,7 +5,7 @@
 //9/4/19.
 import SwiftUI
 
-private struct Scale_FramesAndContent: View {
+fileprivate struct Scale_FramesAndContent: View {
     var body: some View {
         ScrollView {
             VStack(spacing: 20) {

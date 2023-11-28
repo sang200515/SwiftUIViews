@@ -3,7 +3,7 @@
 //  Copyright © 2020 Mark Moeykens. All rights reserved
 import SwiftUI
 
-private struct ClipShape_WithLayers: View {
+fileprivate struct ClipShape_WithLayers: View {
     @State private var show = false
     
     var body: some View {

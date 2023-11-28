@@ -5,7 +5,7 @@
 //9/2/19.
 import SwiftUI
 
-private struct Opacity_Layers: View {
+fileprivate struct Opacity_Layers: View {
     var body: some View {
         VStack(spacing: 15) {
             Text("Opacity").font(.largeTitle)

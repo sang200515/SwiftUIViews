@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Redacted_OtherViews: View {
+fileprivate struct Redacted_OtherViews: View {
     @State private var text = "Redact this text!"
     
     var body: some View {

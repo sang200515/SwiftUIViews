@@ -5,7 +5,7 @@
 // 11/9/19.
 import SwiftUI
 
-private struct Popup_AddThePopup: View {
+fileprivate struct Popup_AddThePopup: View {
     var body: some View {
         ZStack {
             VStack(spacing: 20) {

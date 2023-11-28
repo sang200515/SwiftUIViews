@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct TextField_FocusState: View {
+fileprivate struct TextField_FocusState: View {
     @State private var name = ""
     @FocusState private var nameIsFocused: Bool
 

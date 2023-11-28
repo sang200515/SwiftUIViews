@@ -1,7 +1,7 @@
 // 12/3/19.
 import SwiftUI
 
-private struct Spring_BlendDuration_SideBySide: View {
+fileprivate struct Spring_BlendDuration_SideBySide: View {
     @State private var change = false
     
     var body: some View {

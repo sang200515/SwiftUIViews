@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Alerts_Message: View {
+fileprivate struct Alerts_Message: View {
     @State private var showAlert = false
     
     var body: some View {

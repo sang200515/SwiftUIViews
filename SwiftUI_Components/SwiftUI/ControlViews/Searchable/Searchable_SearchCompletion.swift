@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Searchable_SearchCompletion: View {
+fileprivate struct Searchable_SearchCompletion: View {
     let names = ["Holly", "Josh", "Rhonda", "Ted", "Holland"]
     @State private var searchText = ""
 

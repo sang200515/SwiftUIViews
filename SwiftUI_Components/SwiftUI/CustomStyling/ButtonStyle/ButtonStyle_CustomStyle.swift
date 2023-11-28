@@ -5,7 +5,7 @@
 //9/12/19.
 import SwiftUI
 
-private struct ButtonStyle_CustomStyle: View {
+fileprivate struct ButtonStyle_CustomStyle: View {
     var body: some View {
         VStack(spacing: 20) {
             Text("ButtonStyle").font(.largeTitle)

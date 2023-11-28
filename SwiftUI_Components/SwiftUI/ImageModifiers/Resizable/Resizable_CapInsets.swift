@@ -5,7 +5,7 @@
 //9/16/19.
 import SwiftUI
 
-private struct Resizable_CapInsets: View {
+fileprivate struct Resizable_CapInsets: View {
     var body: some View {
         ScrollView {
             VStack(spacing: 20) {

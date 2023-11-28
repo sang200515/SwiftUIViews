@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Frame_NilValues: View {
+fileprivate struct Frame_NilValues: View {
     var body: some View {
         VStack {
             Color.red

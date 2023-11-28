@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Menu_MaxItems: View {
+fileprivate struct Menu_MaxItems: View {
     var body: some View {
         VStack(spacing: 20) {
             HStack {

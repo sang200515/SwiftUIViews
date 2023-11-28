@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Text_ListFormatting: View {
+fileprivate struct Text_ListFormatting: View {
     @State private var people = ["Mark", "Chase", "Rod", "Chris"]
     @State private var names = [PersonNameComponents(givenName: "Mark",
                                                      familyName: "Smith"),

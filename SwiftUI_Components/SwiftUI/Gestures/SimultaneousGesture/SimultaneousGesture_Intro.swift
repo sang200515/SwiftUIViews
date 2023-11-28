@@ -5,7 +5,7 @@
 //11/3/19.
 import SwiftUI
 
-private struct SimultaneousGesture_Intro: View {
+fileprivate struct SimultaneousGesture_Intro: View {
     @State private var degrees = 0.0
     @State var scale: CGFloat = 1.0
     

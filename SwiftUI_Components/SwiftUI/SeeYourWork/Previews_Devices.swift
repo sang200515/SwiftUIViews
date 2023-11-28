@@ -5,7 +5,7 @@
 //9/27/19.
 import SwiftUI
 
-private struct Previews_Devices: View {
+fileprivate struct Previews_Devices: View {
     var body: some View {
         VStack(spacing: 20) {
             Text("Previews").font(.largeTitle)

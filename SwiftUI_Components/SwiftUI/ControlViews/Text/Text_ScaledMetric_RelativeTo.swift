@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Text_ScaledMetric_RelativeTo: View {
+fileprivate struct Text_ScaledMetric_RelativeTo: View {
     @ScaledMetric(wrappedValue: 24, relativeTo: .largeTitle) private var scaleSmall: CGFloat
     @ScaledMetric(wrappedValue: 24, relativeTo: .caption2) private var scaleLarge: CGFloat
 

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Form_WithDisclosureGroup: View {
+fileprivate struct Form_WithDisclosureGroup: View {
     @State private var settingsExpanded = true
     @State private var trebleOn = true
     @State private var bassOn = false

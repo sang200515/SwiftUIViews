@@ -5,7 +5,7 @@
 //11/2/19.
 import SwiftUI
 
-private struct DragGesture_MinimumDistance: View {
+fileprivate struct DragGesture_MinimumDistance: View {
     @GestureState private var circleOffset = CGSize.zero // Reset back to original position
     
     var body: some View {

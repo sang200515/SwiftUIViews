@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct GeometryReader_Alignment: View {
+fileprivate struct GeometryReader_Alignment: View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("GeometryReader", subtitle: "Alignment", desc: "Child views within the GeometryReader are aligned in the upper left corner by default.", back: .clear)

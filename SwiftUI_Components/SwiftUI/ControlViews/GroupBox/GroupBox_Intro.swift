@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct GroupBox_Intro: View {
+fileprivate struct GroupBox_Intro: View {
     @State private var username = ""
     @State private var password = ""
     

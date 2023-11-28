@@ -1,7 +1,7 @@
 //11/11/19.
 import SwiftUI
 
-private struct FixedSize_TextTruncated: View {
+fileprivate struct FixedSize_TextTruncated: View {
 	var body: some View {
 		VStack(spacing: 10) {
             HeaderView("Fixed Size", subtitle: "Prevent Text Truncating",

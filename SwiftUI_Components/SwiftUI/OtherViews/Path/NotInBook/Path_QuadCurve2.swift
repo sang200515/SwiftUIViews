@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Path_QuadCurve2: View {
+fileprivate struct Path_QuadCurve2: View {
     @State private var flow = false
     
     var body: some View {

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Toolbar_ContextMenu: View {
+fileprivate struct Toolbar_ContextMenu: View {
     var body: some View {
         NavigationView {
             VStack(spacing: 20) {

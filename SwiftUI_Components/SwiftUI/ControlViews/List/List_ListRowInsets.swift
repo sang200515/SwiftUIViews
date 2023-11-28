@@ -1,7 +1,7 @@
 //6/29/19.
 import SwiftUI
 
-private struct List_ListRowInsets : View {
+fileprivate struct List_ListRowInsets : View {
     @State private var newToDo = ""
     
     @State var data = [

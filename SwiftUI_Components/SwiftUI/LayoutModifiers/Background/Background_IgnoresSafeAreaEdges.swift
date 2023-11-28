@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Background_IgnoresSafeAreaEdges: View {
+fileprivate struct Background_IgnoresSafeAreaEdges: View {
     var body: some View {
         TabView {
             NavigationStack {

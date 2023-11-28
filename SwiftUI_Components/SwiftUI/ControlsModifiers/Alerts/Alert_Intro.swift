@@ -5,7 +5,7 @@
 //8/17/19.
 import SwiftUI
 
-private struct Alert_Intro: View {
+fileprivate struct Alert_Intro: View {
     // 1. Create a State variable to control presenting the alert
     @State private var presentingAlert = false
     

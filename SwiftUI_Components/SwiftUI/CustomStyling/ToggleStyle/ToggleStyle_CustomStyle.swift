@@ -5,7 +5,7 @@
 //9/13/19.
 import SwiftUI
 
-private struct ToggleStyle_CustomStyle: View {
+fileprivate struct ToggleStyle_CustomStyle: View {
     @State private var toggleState = true
     var body: some View {
         VStack(spacing: 20) {

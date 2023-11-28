@@ -5,7 +5,7 @@
 // 11/24/19.
 import SwiftUI
 
-private struct SequenceAnimation_SOQuestion: View {
+fileprivate struct SequenceAnimation_SOQuestion: View {
     @State private var showMenu = false
     @State private var showButtons = false
 

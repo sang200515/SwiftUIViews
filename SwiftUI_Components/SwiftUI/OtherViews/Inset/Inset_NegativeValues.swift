@@ -5,7 +5,7 @@
 //11/22/19.
 import SwiftUI
 
-private struct Inset_NegativeValues: View {
+fileprivate struct Inset_NegativeValues: View {
     @State private var insetAmout: CGFloat = 10
     
     var body: some View {

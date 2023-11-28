@@ -4,7 +4,7 @@
 //6/26/19.
 import SwiftUI
 
-private struct Text_Weights : View {
+fileprivate struct Text_Weights : View {
     var body: some View {
         return VStack(spacing: 10) {
             Text("Text")

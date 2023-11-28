@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MGE_OneSource: View {
+fileprivate struct MGE_OneSource: View {
     @Namespace var namespace
     @State private var change = false
     

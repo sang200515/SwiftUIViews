@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MGE_SettingSourceViews: View {
+fileprivate struct MGE_SettingSourceViews: View {
     @Namespace var namespace
     @State private var isSource = true
     @State private var change = false

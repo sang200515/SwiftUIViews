@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Form_AlignmentOfLabels: View {
+fileprivate struct Form_AlignmentOfLabels: View {
     @State private var firstName = ""
     @State private var middleName = ""
     @State private var lastName = ""

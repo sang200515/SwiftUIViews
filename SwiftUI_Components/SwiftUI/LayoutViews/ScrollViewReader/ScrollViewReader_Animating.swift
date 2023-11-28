@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct ScrollViewReader_Animating: View {
+fileprivate struct ScrollViewReader_Animating: View {
     var body: some View {
         VStack(spacing: 20.0) {
             HeaderView("ScrollViewReader",

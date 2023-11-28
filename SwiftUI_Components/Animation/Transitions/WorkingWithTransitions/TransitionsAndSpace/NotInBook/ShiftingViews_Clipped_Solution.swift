@@ -1,7 +1,7 @@
 // 1/10/20.
 import SwiftUI
 
-private struct ShiftingViews_Clipped_Solution: View {
+fileprivate struct ShiftingViews_Clipped_Solution: View {
     @State private var change = false
     
     var body: some View {

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct List_ListStyle_Automatic: View {
+fileprivate struct List_ListStyle_Automatic: View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("List",

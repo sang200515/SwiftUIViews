@@ -5,7 +5,7 @@
 //9/1/19.
 import SwiftUI
 
-private struct GeometryReader_Positioning: View {
+fileprivate struct GeometryReader_Positioning: View {
     var body: some View {
         VStack(spacing: 20) {
             Text("GeometryReader").font(.largeTitle)

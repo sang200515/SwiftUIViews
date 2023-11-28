@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Scrollview_Disabled: View {
+fileprivate struct Scrollview_Disabled: View {
     @State private var disableScroll = false
     
     var items = [Color.green, Color.blue, Color.purple, Color.pink,

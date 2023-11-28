@@ -1,7 +1,7 @@
 //6/23/19.
 import SwiftUI
 
-private struct SegmentedControl_NoSelection : View {
+fileprivate struct SegmentedControl_NoSelection : View {
     @State private var selection = 0
     
     var body: some View {

@@ -5,7 +5,7 @@
 // 11/5/19.
 import SwiftUI
 
-private struct Trigger_Stepper: View {
+fileprivate struct Trigger_Stepper: View {
     @State private var stepperValue: CGFloat = 1.0
     
     var body: some View {

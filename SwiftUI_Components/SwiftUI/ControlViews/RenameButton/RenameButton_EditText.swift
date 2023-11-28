@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct RenameButton_EditText: View {
+fileprivate struct RenameButton_EditText: View {
     @State private var editText = false
     @State private var name = "Mark"
     @FocusState private var nameFocused: Bool

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Image_ScaledMetricSymbol: View {
+fileprivate struct Image_ScaledMetricSymbol: View {
     @ScaledMetric var size: CGFloat = 32
     
     var body: some View {

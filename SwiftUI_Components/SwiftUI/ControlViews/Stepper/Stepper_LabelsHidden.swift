@@ -5,7 +5,7 @@
 //10/5/19.
 import SwiftUI
 
-private struct Stepper_LabelsHidden: View {
+fileprivate struct Stepper_LabelsHidden: View {
     @State private var stepperValue = 1
     
     var body: some View {

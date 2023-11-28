@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-private struct LoadingView3: View {
+fileprivate struct LoadingView3: View {
     
     @State private var heartSizeChanged = false
     

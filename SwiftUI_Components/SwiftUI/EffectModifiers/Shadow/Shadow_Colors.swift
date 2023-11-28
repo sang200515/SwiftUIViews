@@ -5,7 +5,7 @@
 //9/5/19.
 import SwiftUI
 
-private struct Shadow_Colors: View {
+fileprivate struct Shadow_Colors: View {
     var body: some View {
         ScrollView {
             VStack(spacing: 20) {

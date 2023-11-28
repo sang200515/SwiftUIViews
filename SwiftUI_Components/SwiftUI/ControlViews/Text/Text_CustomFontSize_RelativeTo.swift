@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Text_CustomFontSize_RelativeTo: View {
+fileprivate struct Text_CustomFontSize_RelativeTo: View {
     @ScaledMetric private var fontSize: CGFloat = 40
     
     var body: some View {

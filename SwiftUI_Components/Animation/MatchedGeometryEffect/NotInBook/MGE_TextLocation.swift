@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MGE_TextLocation: View {//flag
+fileprivate struct MGE_TextLocation: View {//flag
     @Namespace private var animation
     @State private var isZoomed = false
 

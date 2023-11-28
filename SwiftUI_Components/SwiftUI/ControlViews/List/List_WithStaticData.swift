@@ -5,7 +5,7 @@
 //9/13/19.
 import SwiftUI
 
-private struct List_WithStaticData: View {
+fileprivate struct List_WithStaticData: View {
     var body: some View {
         VStack(spacing: 20) {
             Text("List").font(.largeTitle)

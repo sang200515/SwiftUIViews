@@ -5,7 +5,7 @@
 //9/1/19.
 import SwiftUI
 
-private struct Position_Intro: View {
+fileprivate struct Position_Intro: View {
     var body: some View {
         VStack(spacing: 10) {
             Text("Position")

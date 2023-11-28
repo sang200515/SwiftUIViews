@@ -5,7 +5,7 @@
 //8/24/19.
 import SwiftUI
 
-private struct Background_Shapes: View {
+fileprivate struct Background_Shapes: View {
     var body: some View {
         VStack(spacing: 10) {
             Text("Background").font(.largeTitle)

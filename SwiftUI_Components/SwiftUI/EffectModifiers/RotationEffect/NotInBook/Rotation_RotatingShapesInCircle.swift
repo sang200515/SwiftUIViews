@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Rotation_RotatingShapesInCircle: View {
+fileprivate struct Rotation_RotatingShapesInCircle: View {
     let shapeCount = 6
         var rotationOffset: Int {
             return Int(360 / shapeCount)

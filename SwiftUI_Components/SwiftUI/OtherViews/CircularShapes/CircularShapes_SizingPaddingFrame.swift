@@ -5,7 +5,7 @@
 //7/2/19.
 import SwiftUI
 
-private struct CircularShapes_SizingPaddingFrame : View {
+fileprivate struct CircularShapes_SizingPaddingFrame : View {
     var body: some View {
         VStack(spacing: 10) {
             Text("Circular Shapes").font(.largeTitle)

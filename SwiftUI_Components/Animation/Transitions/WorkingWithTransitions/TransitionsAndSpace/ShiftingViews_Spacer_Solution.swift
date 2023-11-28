@@ -1,7 +1,7 @@
 // 12/19/19.
 import SwiftUI
 
-private struct ShiftingViews_Spacer_Solution: View {
+fileprivate struct ShiftingViews_Spacer_Solution: View {
     @State private var change = false
     
     var body: some View {

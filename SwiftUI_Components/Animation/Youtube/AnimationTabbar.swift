@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-private struct AnimationTabarView: View {
+fileprivate struct AnimationTabarView: View {
     
     enum Tab: String, CaseIterable {
         case House = "house"

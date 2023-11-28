@@ -5,7 +5,7 @@
 //8/25/19.
 import SwiftUI
 
-private struct DrawingGroup_Intro: View {
+fileprivate struct DrawingGroup_Intro: View {
     @State private var scaling = false
     
     var body: some View {

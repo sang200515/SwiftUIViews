@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct GridItem_Alignment: View {
+fileprivate struct GridItem_Alignment: View {
     var body: some View {
         VStack(spacing: 20) {
             Text("GridItem")

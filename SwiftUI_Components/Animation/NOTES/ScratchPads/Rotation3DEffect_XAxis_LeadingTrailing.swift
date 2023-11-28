@@ -5,7 +5,7 @@
 // 10/4/19.
 import SwiftUI
 
-private struct Rotation3DEffect_XAxis_Top: View {
+fileprivate struct Rotation3DEffect_XAxis_Top: View {
     @State private var change = false
     
     var body: some View {

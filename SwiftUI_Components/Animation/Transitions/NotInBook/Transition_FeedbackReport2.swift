@@ -1,7 +1,7 @@
 // Copyright © 2021 Big Mountain Studio. All rights reserved. Twitter: @BigMtnStudi
 import SwiftUI
 
-private struct Transition_FeedbackReport2: View {
+fileprivate struct Transition_FeedbackReport2: View {
     @State private var showDetail = false
     
     var body: some View {

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Image_SymbolRenderingMode: View {
+fileprivate struct Image_SymbolRenderingMode: View {
     var body: some View {
         VStack(spacing: 20.0) {
             HeaderView("Image - Symbols",

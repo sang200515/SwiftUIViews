@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Picker_ProgrammaticSelection: View {
+fileprivate struct Picker_ProgrammaticSelection: View {
     @State private var favoriteState = 1
     
     var body: some View {

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct List_SwipeActions: View {
+fileprivate struct List_SwipeActions: View {
     @State private var items = [ToDoItem(task: "Get milk", done: false),
                                 ToDoItem(task: "Wash car", done: true),
                                 ToDoItem(task: "Cut grass", done: false)]

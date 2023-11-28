@@ -5,7 +5,7 @@
 // 11/10/19.
 import SwiftUI
 
-private struct Triggers_CheckYourUnderstanding1: View {
+fileprivate struct Triggers_CheckYourUnderstanding1: View {
     @State private var showView = false
     
     var body: some View {

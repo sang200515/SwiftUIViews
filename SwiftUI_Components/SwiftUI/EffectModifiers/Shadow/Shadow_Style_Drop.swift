@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Shadow_Style_Drop: View {
+fileprivate struct Shadow_Style_Drop: View {
     let mainColor = Color("Theme1Background")
     private var raisedHighlight: ShadowStyle {
         ShadowStyle.drop(radius: 3, x: 3, y: 3)

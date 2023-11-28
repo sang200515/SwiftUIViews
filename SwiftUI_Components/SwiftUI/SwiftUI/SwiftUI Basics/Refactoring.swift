@@ -5,7 +5,7 @@
 //9/28/19.
 import SwiftUI
 
-private struct Refactoring: View {
+fileprivate struct Refactoring: View {
     var body: some View {
         VStack(spacing: 20) {
             Text("Refactoring")

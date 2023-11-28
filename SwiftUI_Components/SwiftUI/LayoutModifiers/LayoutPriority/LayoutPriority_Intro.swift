@@ -5,7 +5,7 @@
 //9/21/19.
 import SwiftUI
 
-private struct LayoutPriority_Intro: View {
+fileprivate struct LayoutPriority_Intro: View {
     var body: some View {
         VStack(spacing: 28) {
             HeaderView("Layout Priority", subtitle: "Introduction", desc: "Use layout priority to tell the parent which child views get priority when it comes to assigning layout space.")

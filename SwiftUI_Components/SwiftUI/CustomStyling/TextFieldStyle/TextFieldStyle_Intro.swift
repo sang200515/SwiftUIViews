@@ -5,7 +5,7 @@
 //9/12/19.
 import SwiftUI
 
-private struct TextFieldStyle_Intro: View {
+fileprivate struct TextFieldStyle_Intro: View {
     @State private var textFieldData = ""
     var body: some View {
         VStack(spacing: 15) {

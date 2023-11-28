@@ -5,7 +5,7 @@
 //11/20/19.
 import SwiftUI
 
-private struct Radial_AppliedToShapes: View {
+fileprivate struct Radial_AppliedToShapes: View {
     var body: some View {
         ZStack {
             RadialGradient(gradient: Gradient(colors: [.white, Color("Theme5BackgroundColor")]),

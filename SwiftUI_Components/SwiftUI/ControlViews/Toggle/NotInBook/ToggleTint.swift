@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct ToggleTint: View {
+fileprivate struct ToggleTint: View {
     @State private var isLockAssistOn = false
     
     var body: some View {

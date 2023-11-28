@@ -5,7 +5,7 @@
 // 10/26/19.
 import SwiftUI
 
-private struct Exercise1_MoveShapesWithOffset_Refactor: View {
+fileprivate struct Exercise1_MoveShapesWithOffset_Refactor: View {
     @State private var change = false
     var offsetValue: CGFloat = 200 // Centralize the offset value
     

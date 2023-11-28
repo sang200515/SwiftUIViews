@@ -1,7 +1,7 @@
 
 import SwiftUI
 
-private struct Example_NoAnimation: View {
+fileprivate struct Example_NoAnimation: View {
     @State private var change = false
     
     var body: some View {

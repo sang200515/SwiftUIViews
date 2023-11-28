@@ -5,7 +5,7 @@
 //8/24/19.
 import SwiftUI
 
-private struct Linear_CustomDirection: View {
+fileprivate struct Linear_CustomDirection: View {
     let gradientColors = Gradient(colors: [Color.purple, Color.red])
     
     var body: some View {

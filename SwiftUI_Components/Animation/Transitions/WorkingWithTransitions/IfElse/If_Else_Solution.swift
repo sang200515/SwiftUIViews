@@ -1,7 +1,7 @@
 // 12/25/19.
 import SwiftUI
 
-private struct If_Else_Solution: View {
+fileprivate struct If_Else_Solution: View {
     @State private var change = false
     
     var body: some View {

@@ -5,7 +5,7 @@
 // 11/9/19.
 import SwiftUI
 
-private struct Trigger_OnDisappear: View {
+fileprivate struct Trigger_OnDisappear: View {
     @State private var showTip = true
     @State private var showTipButton = false
     

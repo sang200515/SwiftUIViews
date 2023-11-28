@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct PreferenceKey_Intro: View {
+fileprivate struct PreferenceKey_Intro: View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("PreferenceKey",

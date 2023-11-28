@@ -3,7 +3,7 @@
 //8/18/19.
 import SwiftUI
 
-private struct Alert_PresentingWithBool: View {
+fileprivate struct Alert_PresentingWithBool: View {
     // 1. Create a State variable to control presenting the alert
     @State private var presentingAlert = false
     

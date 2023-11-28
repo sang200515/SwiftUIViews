@@ -8,7 +8,7 @@
 import Foundation
 import SwiftUI
 
-private struct AnimatedCarouselView: View {
+fileprivate struct AnimatedCarouselView: View {
     private let  movies: [Movie1] = [
         Movie1(movieTitle: "", artwork: "BG2"),
         Movie1(movieTitle: "", artwork: "BG1"),

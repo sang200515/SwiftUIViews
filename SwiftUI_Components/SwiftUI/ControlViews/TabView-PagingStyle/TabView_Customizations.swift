@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct TabView_Customizations: View {
+fileprivate struct TabView_Customizations: View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("TabView",

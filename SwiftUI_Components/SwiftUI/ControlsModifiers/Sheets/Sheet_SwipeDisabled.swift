@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Sheet_SwipeDisabled: View {
+fileprivate struct Sheet_SwipeDisabled: View {
     @State private var presentingSheet = false
     
     var body: some View {

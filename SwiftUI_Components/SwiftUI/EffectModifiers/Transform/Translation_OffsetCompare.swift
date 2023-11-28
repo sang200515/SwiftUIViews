@@ -5,7 +5,7 @@
 //9/6/19.
 import SwiftUI
 
-private struct Translation_OffsetCompare: View {
+fileprivate struct Translation_OffsetCompare: View {
     @State private var applyEffect = false
     
     var body: some View {

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Brightness_Intro: View {
+fileprivate struct Brightness_Intro: View {
     var body: some View {
         VStack(spacing: 15) {
             Text("Brightness").font(.largeTitle)

@@ -5,7 +5,7 @@
 //10/25/19.
 import SwiftUI
 
-private struct ContentShape_Solution: View {
+fileprivate struct ContentShape_Solution: View {
     @State private var likes = 0
     
     var body: some View {

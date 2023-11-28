@@ -1,7 +1,7 @@
 
 import SwiftUI
 
-private struct Gauge_Intro: View {
+fileprivate struct Gauge_Intro: View {
     @State private var progress = 0.25
     
     var body: some View {

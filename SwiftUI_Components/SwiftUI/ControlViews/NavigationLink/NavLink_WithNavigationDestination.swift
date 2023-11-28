@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct NavLink_WithNavigationDestination: View {
+fileprivate struct NavLink_WithNavigationDestination: View {
     var body: some View {
         NavigationStack {
             VStack {

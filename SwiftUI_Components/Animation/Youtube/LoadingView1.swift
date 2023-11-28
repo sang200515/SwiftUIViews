@@ -6,7 +6,7 @@
 //
 import SwiftUI
 
-private struct Spinner: View {
+fileprivate struct Spinner: View {
     private let darkViolet = Color(red: 214/255, green: 189/255, blue: 251/255)
     private let rotationTime: Double = 0.75
     private let animationTime: Double = 1.9

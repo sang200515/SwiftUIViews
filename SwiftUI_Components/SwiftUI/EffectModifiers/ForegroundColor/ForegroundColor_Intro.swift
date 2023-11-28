@@ -5,7 +5,7 @@
 //8/25/19.
 import SwiftUI
 
-private struct ForegroundColor_Intro: View {
+fileprivate struct ForegroundColor_Intro: View {
     var body: some View {
         VStack(spacing: 10) {
             Group {

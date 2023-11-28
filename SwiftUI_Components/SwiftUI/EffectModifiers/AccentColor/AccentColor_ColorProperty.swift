@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct AccentColor_ColorProperty: View {
+fileprivate struct AccentColor_ColorProperty: View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("AccentColor",

@@ -5,7 +5,7 @@
 //7/13/19.
 import SwiftUI
 
-private struct Angular_Intro : View {
+fileprivate struct Angular_Intro : View {
     var body: some View {
         // Tip: For better blending, start and end the Gradient array with the same color.
         let gradient = Gradient(colors: [.pink, .purple, .pink])

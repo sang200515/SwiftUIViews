@@ -5,7 +5,7 @@
 //7/22/19.
 import SwiftUI
 
-private struct Text_TextStyles: View {
+fileprivate struct Text_TextStyles: View {
     var body: some View {
         VStack(spacing: 10) {
             Image("Font")

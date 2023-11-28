@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Path_StrokeStyle: View {
+fileprivate struct Path_StrokeStyle: View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("Path",

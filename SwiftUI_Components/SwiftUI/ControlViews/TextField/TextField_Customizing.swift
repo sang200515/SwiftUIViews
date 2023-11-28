@@ -1,7 +1,7 @@
 
 import SwiftUI
 
-private struct TextField_Customizing : View {
+fileprivate struct TextField_Customizing : View {
     @State private var textFieldWithText = "With Text"
     @State private var textFieldNoText = ""
     @State private var withOutline = "With Outline"

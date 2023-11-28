@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Triggers_Challenge: View {
+fileprivate struct Triggers_Challenge: View {
     @State private var expanded = true
     
     var body: some View {

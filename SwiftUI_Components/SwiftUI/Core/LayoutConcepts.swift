@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct LayoutConcepts: View {
+fileprivate struct LayoutConcepts: View {
     var body: some View {
         VStack {
             HStack {

@@ -5,7 +5,7 @@
 // 11/23/19.
 import SwiftUI
 
-private struct Scope_MoreSequencing: View {
+fileprivate struct Scope_MoreSequencing: View {
     @State private var change = false
     @State private var changeOrder = false
     

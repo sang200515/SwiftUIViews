@@ -5,7 +5,7 @@
 //7/25/19.
 import SwiftUI
 
-private struct BasicSyntax: View {
+fileprivate struct BasicSyntax: View {
     var body: some View {
         get {
             return Text("Hello World!") // Adds a text view to the screen

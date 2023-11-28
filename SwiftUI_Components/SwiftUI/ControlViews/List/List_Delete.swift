@@ -1,7 +1,7 @@
 //6/23/19.
 import SwiftUI
 
-private struct List_Delete : View {
+fileprivate struct List_Delete : View {
     @State var data = ["Swipe to Delete", "Practice Coding", "Grocery shopping", "Get tickets", "Clean house", "Do laundry", "Cook dinner", "Paint room"]
     
     var body: some View {

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct List_AlternatesRowBackgrounds: View {
+fileprivate struct List_AlternatesRowBackgrounds: View {
     @State private var cars = ["Alpha Romeo", "Aston Martin", "Audi", "Bentley", "BMW", "Bugatti", "Ferrari", "Infiniti"]
     
     var body: some View {

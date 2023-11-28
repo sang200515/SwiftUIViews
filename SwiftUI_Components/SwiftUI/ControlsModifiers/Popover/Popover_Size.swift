@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Popover_Size: View {
+fileprivate struct Popover_Size: View {
     @State var showingPopover = false
     
     var body: some View {

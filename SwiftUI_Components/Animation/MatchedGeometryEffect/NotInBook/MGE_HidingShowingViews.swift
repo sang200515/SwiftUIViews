@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MGE_HidingShowingViews: View {
+fileprivate struct MGE_HidingShowingViews: View {
     @Namespace var namespace
     @State private var showCircle = true
     

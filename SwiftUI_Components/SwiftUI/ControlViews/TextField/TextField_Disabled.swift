@@ -5,7 +5,7 @@
 //11/17/19.
 import SwiftUI
 
-private struct TextField_Disabled: View {
+fileprivate struct TextField_Disabled: View {
     @State private var lastName = "Moeykens"
     @State private var city = "Salt Lake City"
     @State private var disabled = false

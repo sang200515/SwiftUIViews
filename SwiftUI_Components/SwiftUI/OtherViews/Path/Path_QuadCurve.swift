@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Path_QuadCurve: View {
+fileprivate struct Path_QuadCurve: View {
     var body: some View {
         VStack(spacing: 20) {
             RoundedBottomRectangle(curveOffset: 30)

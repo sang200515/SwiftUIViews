@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct GridItem_FlexibleSizeMinMax: View {
+fileprivate struct GridItem_FlexibleSizeMinMax: View {
     var body: some View {
         VStack(spacing: 15) {
             Text("GridItem")

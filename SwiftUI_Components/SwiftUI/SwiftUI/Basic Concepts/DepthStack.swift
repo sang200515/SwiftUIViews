@@ -5,7 +5,7 @@
 //9/27/19.
 import SwiftUI
 
-private struct DepthStack: View {
+fileprivate struct DepthStack: View {
     var body: some View {
         GeometryReader { gr in
             ZStack {

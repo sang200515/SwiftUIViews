@@ -5,7 +5,7 @@
 //8/24/19.
 import SwiftUI
 
-private struct Linear_ShapesAndControls: View {
+fileprivate struct Linear_ShapesAndControls: View {
     let gradientColors = Gradient(colors: [Color.pink, Color.purple])
     
     var body: some View {

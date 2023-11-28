@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Grid_Spacing: View {
+fileprivate struct Grid_Spacing: View {
     var body: some View {
         Grid(horizontalSpacing: 24, verticalSpacing: 24) {
             GridRow {

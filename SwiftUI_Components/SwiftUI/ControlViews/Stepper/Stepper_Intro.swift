@@ -5,7 +5,7 @@
 //6/25/19.
 import SwiftUI
 
-private struct Stepper_Intro : View {
+fileprivate struct Stepper_Intro : View {
     @State private var stepperValue = 1
     @State private var values = [0, 1]
     

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct AllowHitTesting_Intro: View {
+fileprivate struct AllowHitTesting_Intro: View {
     @State private var zoomIn = false
     
     var body: some View {

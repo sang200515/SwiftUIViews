@@ -5,7 +5,7 @@
 //9/12/19.
 import SwiftUI
 
-private struct DatePickerStyle_Intro: View {
+fileprivate struct DatePickerStyle_Intro: View {
     @State private var selectedDate = Date()
     
     var body: some View {

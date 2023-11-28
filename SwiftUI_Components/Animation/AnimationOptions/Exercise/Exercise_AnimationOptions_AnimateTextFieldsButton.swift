@@ -5,7 +5,7 @@
 // 11/27/19.
 import SwiftUI
 
-private struct Exercise_AnimationOptions_AnimateTextFieldsButton: View {
+fileprivate struct Exercise_AnimationOptions_AnimateTextFieldsButton: View {
     @State private var showLogin = false
     @State private var userName = ""
     @State private var password = ""

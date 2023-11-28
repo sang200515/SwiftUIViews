@@ -1,7 +1,7 @@
 //7/4/19.
 import SwiftUI
 
-private struct TabView_Navigating : View {
+fileprivate struct TabView_Navigating : View {
     @State private var selectedTab = 1 // Set which tab is active
     
     var body: some View {

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Toolbar_InlineNavBar: View {
+fileprivate struct Toolbar_InlineNavBar: View {
     var body: some View {
         NavigationStack {
             VStack(spacing: 20) {

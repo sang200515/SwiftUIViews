@@ -5,7 +5,7 @@
 //9/1/19.
 import SwiftUI
 
-private struct ClipShape_WithStyle: View {
+fileprivate struct ClipShape_WithStyle: View {
     var body: some View {
         VStack(spacing: 10) {
             Text("ClipShape").font(.largeTitle)

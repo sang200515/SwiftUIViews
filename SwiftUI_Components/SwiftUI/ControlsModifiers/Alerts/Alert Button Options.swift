@@ -1,7 +1,7 @@
 //8/18/19.
 import SwiftUI
 
-private struct Alert_Button_Options: View {
+fileprivate struct Alert_Button_Options: View {
     @State private var presentingAlert = false
     // If you forget your button options, just type in "Alert.Button." and autocomplete will show you your available options.
     

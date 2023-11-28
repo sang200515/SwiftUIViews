@@ -5,7 +5,7 @@
 //9/27/19.
 import SwiftUI
 
-private struct View_And_Modifier_Concept: View {
+fileprivate struct View_And_Modifier_Concept: View {
     var body: some View {
         VStack(spacing: 20) {
             Text("Views & Modifiers").font(.largeTitle)

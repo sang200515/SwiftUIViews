@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Animate_SwitchingImages: View {
+fileprivate struct Animate_SwitchingImages: View {
     @State private var isCancel = false
     
     var body: some View {

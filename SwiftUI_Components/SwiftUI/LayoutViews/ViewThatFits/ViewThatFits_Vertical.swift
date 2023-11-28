@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct ViewThatFits_Vertical: View {
+fileprivate struct ViewThatFits_Vertical: View {
     var body: some View {
         ViewThatFits(in: .vertical) {
             RoundedRectangle(cornerRadius: 16)

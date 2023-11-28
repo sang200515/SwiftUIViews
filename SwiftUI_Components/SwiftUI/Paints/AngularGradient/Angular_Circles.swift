@@ -5,7 +5,7 @@
 //7/13/19.
 import SwiftUI
 
-private struct Angular_Circles : View {
+fileprivate struct Angular_Circles : View {
     var body: some View {
         let gradient = Gradient(colors: [.pink, .purple, .pink])
         let angularGradient = AngularGradient(gradient: gradient, center: .center, angle: .degrees(0))

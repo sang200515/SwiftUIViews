@@ -5,7 +5,7 @@
 //8/25/19.
 import SwiftUI
 
-private struct Offset_Intro: View {
+fileprivate struct Offset_Intro: View {
     var body: some View {
         VStack(spacing: 10) {
             Text("Offset").font(.largeTitle)

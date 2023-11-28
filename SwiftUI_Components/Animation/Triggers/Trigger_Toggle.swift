@@ -5,7 +5,7 @@
 // 11/1/19.
 import SwiftUI
 
-private struct Trigger_Toggle: View {
+fileprivate struct Trigger_Toggle: View {
     @State private var isOn = false
     @State private var extraInfo = ""
     @State private var extraAmount = 0.65

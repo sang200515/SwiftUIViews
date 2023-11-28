@@ -5,7 +5,7 @@
 //9/27/19.
 import SwiftUI
 
-private struct MyBasicTemplate: View {
+fileprivate struct MyBasicTemplate: View {
     var body: some View {
         VStack(spacing: 20) { // 20 points of space between each item in the VStack
             Text("Title") // Shows text on the screen

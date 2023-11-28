@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Button_ControlSize: View {
+fileprivate struct Button_ControlSize: View {
     var body: some View {
         VStack(spacing: 20.0) {
             HeaderView("Button",

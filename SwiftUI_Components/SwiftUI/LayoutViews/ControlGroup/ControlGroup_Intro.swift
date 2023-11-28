@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct ControlGroup_Intro: View {
+fileprivate struct ControlGroup_Intro: View {
     var body: some View {
         VStack(spacing: 20.0) {
             HeaderView("ControlGroup",

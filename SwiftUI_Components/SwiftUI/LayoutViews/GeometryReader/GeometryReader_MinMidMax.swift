@@ -5,7 +5,7 @@
 //9/25/19.
 import SwiftUI
 
-private struct GeometryReader_MinMidMax: View {
+fileprivate struct GeometryReader_MinMidMax: View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("GeometryReader", subtitle: "Min Mid Max", desc: "You can also get the minimum (min), middle (mid), and maximum (max) X and Y coordinate from the geometry reader's frame.", back: .clear)

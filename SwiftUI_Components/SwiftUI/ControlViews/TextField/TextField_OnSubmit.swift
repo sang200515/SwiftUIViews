@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct TextField_OnSubmit: View {
+fileprivate struct TextField_OnSubmit: View {
     @State private var name = ""
     @State private var names = ["Donny", "Sean", "Paul"]
     

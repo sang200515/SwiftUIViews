@@ -5,7 +5,7 @@
 //6/6/19.
 import SwiftUI
 
-private struct Image_FromAssetCatalog : View {
+fileprivate struct Image_FromAssetCatalog : View {
     var body: some View {
         VStack(spacing: 20) {
                 HeaderView("Image",

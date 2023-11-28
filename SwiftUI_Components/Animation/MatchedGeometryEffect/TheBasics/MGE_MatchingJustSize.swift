@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MGE_MatchingJustSize: View {
+fileprivate struct MGE_MatchingJustSize: View {
     @Namespace var namespace
     
     var body: some View {

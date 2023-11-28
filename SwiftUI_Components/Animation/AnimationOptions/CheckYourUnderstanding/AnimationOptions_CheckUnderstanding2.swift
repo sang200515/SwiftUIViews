@@ -5,7 +5,7 @@
 // 11/27/19.
 import SwiftUI
 
-private struct AnimationOptions_CheckUnderstanding2: View {
+fileprivate struct AnimationOptions_CheckUnderstanding2: View {
     @State private var change = false
     
     var body: some View {

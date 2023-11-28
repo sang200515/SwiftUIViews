@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct AddVStack: View {
+fileprivate struct AddVStack: View {
     var body: some View {
         // Only one view can be returned from the body property.
         // Add 20 points between views within this container.

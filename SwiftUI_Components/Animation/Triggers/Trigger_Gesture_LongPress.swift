@@ -2,7 +2,7 @@
 // 11/1/19.
 import SwiftUI
 
-private struct Trigger_Gesture_LongPress: View {
+fileprivate struct Trigger_Gesture_LongPress: View {
     @State private var isLongPressed = false
     
     var body: some View {

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Alert_ChangeBack: View {
+fileprivate struct Alert_ChangeBack: View {
     @State private var presentingAlert = false
     
     var body: some View {

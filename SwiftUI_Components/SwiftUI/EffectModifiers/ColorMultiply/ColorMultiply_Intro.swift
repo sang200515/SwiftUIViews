@@ -5,7 +5,7 @@
 //9/17/19.
 import SwiftUI
 
-private struct ColorMultiply_Intro: View {
+fileprivate struct ColorMultiply_Intro: View {
     var body: some View {
         VStack(spacing: 20) {
             Text("Color Multiply").font(.largeTitle)

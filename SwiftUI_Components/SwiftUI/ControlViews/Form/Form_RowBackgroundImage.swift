@@ -1,7 +1,7 @@
 //6/30/19.
 import SwiftUI
 
-private struct Form_RowBackgroundImage : View {
+fileprivate struct Form_RowBackgroundImage : View {
     var body: some View {
         Form {
             Section {

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Group_WithConditional: View {
+fileprivate struct Group_WithConditional: View {
     @State private var progress: String? = "0 min"
     @State private var isCompleted: Bool? = true
     

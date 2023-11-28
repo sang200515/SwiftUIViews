@@ -1,7 +1,7 @@
 //6/18/19.
 import SwiftUI
 
-private struct Form_WithControls : View {
+fileprivate struct Form_WithControls : View {
     @State private var isOn = true
     @State private var textFieldData = "This is a text field"
     

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Sheet_DatePicker_Dismiss: View {
+fileprivate struct Sheet_DatePicker_Dismiss: View {
     @State private var presentingSheet = false
     
     var body: some View {

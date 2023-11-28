@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct ContentShape_ContentShapeKinds: View {
+fileprivate struct ContentShape_ContentShapeKinds: View {
     var body: some View {
         VStack(spacing: 40) {
             Text("ContentShape")

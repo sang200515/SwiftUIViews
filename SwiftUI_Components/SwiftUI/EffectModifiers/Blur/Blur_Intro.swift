@@ -5,7 +5,7 @@
 //8/25/19.
 import SwiftUI
 
-private struct Blur_Intro: View {
+fileprivate struct Blur_Intro: View {
     var body: some View {
         VStack(spacing: 40) {
             Text("Blur").font(.largeTitle)

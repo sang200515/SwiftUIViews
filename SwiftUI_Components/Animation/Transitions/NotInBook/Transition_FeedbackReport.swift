@@ -1,7 +1,7 @@
 
 import SwiftUI
 
-private struct Transition_FeedbackReport: View {
+fileprivate struct Transition_FeedbackReport: View {
     @State private var change = false
     
     var body: some View {

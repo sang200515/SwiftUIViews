@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct LazyVGrid_VerticalAlignment: View {
+fileprivate struct LazyVGrid_VerticalAlignment: View {
     @State private var people = MockData.getProfiles()
     
     var body: some View {

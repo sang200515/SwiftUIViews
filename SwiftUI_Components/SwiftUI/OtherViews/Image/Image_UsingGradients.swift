@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Image_UsingGradients: View {
+fileprivate struct Image_UsingGradients: View {
     var body: some View {
         VStack(spacing: 20.0) {
             HeaderView("Image - Symbols",

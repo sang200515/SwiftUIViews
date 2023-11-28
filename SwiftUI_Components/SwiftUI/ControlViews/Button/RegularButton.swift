@@ -5,7 +5,7 @@
 //6/5/19.
 import SwiftUI
 
-private struct RegularButton : View {
+fileprivate struct RegularButton : View {
     var body: some View {
         VStack(spacing: 15) {
             Text("Button")

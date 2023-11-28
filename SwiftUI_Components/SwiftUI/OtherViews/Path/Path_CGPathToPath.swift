@@ -5,7 +5,7 @@
 //11/23/19.
 import SwiftUI
 
-private struct Path_CGPathToPath: View {
+fileprivate struct Path_CGPathToPath: View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("Path", subtitle: "Using UIKit CGPath", desc: "You may want to use existing UIKit path objects and functions that SwiftUI doesn't have yet. SwiftUI's Path has an initializer that accepts a Core Graphics Path.",

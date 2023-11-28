@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Accessibility_Hiding: View {
+fileprivate struct Accessibility_Hiding: View {
 
     var body: some View {
         VStack(spacing: 20) {

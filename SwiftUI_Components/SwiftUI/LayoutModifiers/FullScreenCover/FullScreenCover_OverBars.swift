@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct FullScreenCover_OverBars: View {
+fileprivate struct FullScreenCover_OverBars: View {
     @State private var showDetailView = false
     
     var body: some View {

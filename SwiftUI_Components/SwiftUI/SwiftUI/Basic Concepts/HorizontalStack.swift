@@ -5,7 +5,7 @@
 //9/27/19.
 import SwiftUI
 
-private struct HorizontalStack: View {
+fileprivate struct HorizontalStack: View {
     var body: some View {
         HStack(spacing: 20) {
             RoundedRectangle(cornerRadius: 20)

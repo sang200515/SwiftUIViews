@@ -5,7 +5,7 @@
 // 11/5/19.
 import SwiftUI
 
-private struct Trigger_Slider: View {
+fileprivate struct Trigger_Slider: View {
     @State private var blueWidth: CGFloat = 50.0
     
     var body: some View {

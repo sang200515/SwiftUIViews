@@ -5,7 +5,7 @@
 // 11/24/19.
 import SwiftUI
 
-private struct Scope_WithAnimation_Sequencing: View {
+fileprivate struct Scope_WithAnimation_Sequencing: View {
     @State private var show1 = false
     @State private var show2 = false
     @State private var show3 = false

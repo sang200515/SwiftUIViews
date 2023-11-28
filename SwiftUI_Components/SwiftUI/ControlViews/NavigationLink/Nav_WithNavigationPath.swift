@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct ProductForNav: Hashable {
+fileprivate struct ProductForNav: Hashable {
     var name = ""
     var price = 0.0
 }

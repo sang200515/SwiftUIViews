@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Menu_OtherViewsWithin: View {
+fileprivate struct Menu_OtherViewsWithin: View {
     var body: some View {
         VStack(spacing: 20) {
             HStack {

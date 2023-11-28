@@ -5,7 +5,7 @@
 //8/25/19.
 import SwiftUI
 
-private struct HueRotation_Intro: View {
+fileprivate struct HueRotation_Intro: View {
     private var lightRed = Color(hue: 1, saturation: 0.5, brightness: 1)
     private var darkRed = Color(hue: 1, saturation: 1, brightness: 0.5)
     

@@ -5,7 +5,7 @@
 //6/26/19.
 import SwiftUI
 
-private struct Text_Modifiers : View {
+fileprivate struct Text_Modifiers : View {
     @State private var modifierActive = true
     
     var body: some View {

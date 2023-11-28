@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Preference_Intro: View {
+fileprivate struct Preference_Intro: View {
     @State private var intro = ""
     
     var body: some View {

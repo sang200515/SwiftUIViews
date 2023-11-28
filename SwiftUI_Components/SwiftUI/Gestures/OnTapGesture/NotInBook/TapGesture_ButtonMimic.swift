@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct TapGesture_ButtonMimic: View {
+fileprivate struct TapGesture_ButtonMimic: View {
     @GestureState var longPressGestureState = false
     @State private var showTerms = false
     

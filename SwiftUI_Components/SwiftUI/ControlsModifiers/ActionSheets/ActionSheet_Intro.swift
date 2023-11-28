@@ -1,7 +1,7 @@
 //8/13/19.
 import SwiftUI
 
-private struct ActionSheet_Intro: View {
+fileprivate struct ActionSheet_Intro: View {
     @State private var presentingActionSheet = false
     
     var actionSheet =

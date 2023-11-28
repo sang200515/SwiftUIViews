@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct CustomCarouselSlider: View {
+fileprivate struct CustomCarouselSlider: View {
     @State var currentIndex = 0
     let posts = [
         PostCarousel(postImage: "post1", starRating: 4),

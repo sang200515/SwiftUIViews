@@ -2,7 +2,7 @@
 //6/16/19.
 import SwiftUI
 
-private struct Spacer_1_00 : View {
+fileprivate struct Spacer_1_00 : View {
     var body: some View {
         VStack {
             Text("Spacer")

@@ -2,7 +2,7 @@
 //  For Book
 import SwiftUI
 
-private struct Button_EffectModifiers : View {
+fileprivate struct Button_EffectModifiers : View {
     var body: some View {
         VStack(spacing: 40) {
             HeaderView("Button", subtitle: "With Backgrounds",

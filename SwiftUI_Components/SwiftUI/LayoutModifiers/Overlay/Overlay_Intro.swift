@@ -5,7 +5,7 @@
 //8/23/19.
 import SwiftUI
 
-private struct Overlay_Intro: View {
+fileprivate struct Overlay_Intro: View {
     var body: some View {
         Color("Theme3BackgroundColor")
             .overlay(

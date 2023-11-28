@@ -1,7 +1,7 @@
 // Copyright © 2021 Big Mountain Studio. All rights reserved. Twitter: @BigMtnStudi
 import SwiftUI
 
-private struct Combining_Feedback: View {
+fileprivate struct Combining_Feedback: View {
     @State private var change1 = false
     @State private var change2 = false
     @State private var change3 = false

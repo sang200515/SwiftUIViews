@@ -5,7 +5,7 @@
 //11/3/19.
 import SwiftUI
 
-private struct SequenceGesture_Intro: View {
+fileprivate struct SequenceGesture_Intro: View {
     
     struct GestureSequenceState {
         var firstGestureComplete: Bool = false

@@ -5,7 +5,7 @@
 //11/22/19.
 import SwiftUI
 
-private struct Inset_Introduction: View {
+fileprivate struct Inset_Introduction: View {
     @State private var insetAmout: CGFloat = 45
 
     var body: some View {

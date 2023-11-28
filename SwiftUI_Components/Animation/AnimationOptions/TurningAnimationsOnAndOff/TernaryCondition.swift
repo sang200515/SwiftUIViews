@@ -5,7 +5,7 @@
 // 12/4/19.
 import SwiftUI
 
-private struct TernaryCondition: View {
+fileprivate struct TernaryCondition: View {
     @State private var showCard = false
     @State private var useAnimation = false
     var body: some View {

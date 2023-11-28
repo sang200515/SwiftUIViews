@@ -5,7 +5,7 @@
 //11/26/19.
 import SwiftUI
 
-private struct Shadow_CreatingRaisedEffect: View {
+fileprivate struct Shadow_CreatingRaisedEffect: View {
     var body: some View {
         ZStack {
             // Background Color

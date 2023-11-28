@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Edges_KeyboardRegion_After: View {
+fileprivate struct Edges_KeyboardRegion_After: View {
     @State private var text = ""
     
     var body: some View {

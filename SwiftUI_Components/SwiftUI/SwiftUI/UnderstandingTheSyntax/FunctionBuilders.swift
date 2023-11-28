@@ -5,7 +5,7 @@
 //8/7/19.
 import SwiftUI
 
-private struct FunctionBuilders: View {
+fileprivate struct FunctionBuilders: View {
     // Missing code here
     var body: some View {
         VStack(content: {

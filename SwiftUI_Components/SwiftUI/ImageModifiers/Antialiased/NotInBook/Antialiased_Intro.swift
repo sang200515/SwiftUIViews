@@ -5,7 +5,7 @@
 //9/16/19.
 import SwiftUI
 
-private struct Antialiased_Intro: View {
+fileprivate struct Antialiased_Intro: View {
     var body: some View {
         VStack(spacing: 0) {
             Text("Antialiased").font(.largeTitle)

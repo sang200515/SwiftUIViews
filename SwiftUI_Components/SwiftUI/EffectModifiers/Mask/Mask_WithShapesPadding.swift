@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Mask_WithShapesPadding: View {
+fileprivate struct Mask_WithShapesPadding: View {
     var body: some View {
         VStack(spacing: 20) {
             Text("Mask")

@@ -5,7 +5,7 @@
 //8/11/19.
 import SwiftUI
 
-private struct Spacer_MinLength: View {
+fileprivate struct Spacer_MinLength: View {
     var body: some View {
         VStack(spacing: 10) {
             Text("Spacer")

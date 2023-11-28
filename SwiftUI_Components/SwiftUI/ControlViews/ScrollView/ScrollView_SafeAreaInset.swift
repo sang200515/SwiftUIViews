@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct ScrollView_SafeAreaInset: View {
+fileprivate struct ScrollView_SafeAreaInset: View {
     @State private var names = ["Scott", "Mark", "Chris", "Sean", "Rod", "Meng", "Natasha", "Chase", "Evans", "Paul", "Durtschi", "Max"]
     var body: some View {
         ScrollView {

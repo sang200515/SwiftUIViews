@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Redacted_Unredacted: View {
+fileprivate struct Redacted_Unredacted: View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("Redacted",

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct TextEditor_KeyboardSafeArea: View {
+fileprivate struct TextEditor_KeyboardSafeArea: View {
     @State private var text = ""
     
     var body: some View {

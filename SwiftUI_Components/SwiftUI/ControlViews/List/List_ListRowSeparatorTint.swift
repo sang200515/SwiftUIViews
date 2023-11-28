@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct List_ListRowSeparatorTint: View {
+fileprivate struct List_ListRowSeparatorTint: View {
     var body: some View {
         VStack(spacing: 20.0) {
             HeaderView("List",

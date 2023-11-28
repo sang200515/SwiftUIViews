@@ -1,7 +1,7 @@
 //8/18/19.
 import SwiftUI
 
-private struct Sheet_PresentingWithBool: View {
+fileprivate struct Sheet_PresentingWithBool: View {
     // 1. Create a State variable to control presenting the sheet
     @State private var presentingSheet = false
     

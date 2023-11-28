@@ -5,7 +5,7 @@
 // 10/26/19.
 import SwiftUI
 
-private struct Duration_Parameter: View {
+fileprivate struct Duration_Parameter: View {
     @State private var change = false
     
     var body: some View {

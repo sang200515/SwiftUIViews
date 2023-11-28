@@ -5,7 +5,7 @@
 // 12/4/19.
 import SwiftUI
 
-private struct Value_Introduction: View {
+fileprivate struct Value_Introduction: View {
     @State private var change = false
     @State private var animateOnChange = false
     

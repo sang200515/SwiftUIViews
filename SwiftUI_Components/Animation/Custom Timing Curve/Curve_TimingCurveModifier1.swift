@@ -1,7 +1,7 @@
 // 1/10/20.
 import SwiftUI
 
-private struct Curve_TimingCurveModifier1: View {
+fileprivate struct Curve_TimingCurveModifier1: View {
     @State private var change = false
     
     var body: some View {

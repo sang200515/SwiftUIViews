@@ -5,7 +5,7 @@
 //9/4/19.
 import SwiftUI
 
-private struct ViewSizes_Pull_In: View {
+fileprivate struct ViewSizes_Pull_In: View {
     var body: some View {
         VStack(spacing: 20) {
             Text("Layout Behavior").font(.largeTitle)

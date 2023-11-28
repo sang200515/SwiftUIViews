@@ -5,7 +5,7 @@
 //11/2/19.
 import SwiftUI
 
-private struct DragGesture_Updating: View {
+fileprivate struct DragGesture_Updating: View {
     @State private var circlePosition = CGPoint(x: 55, y: 55)
     @State private var circleLabel = "55,55"
     @GestureState private var isDragging = false // Will reset to false when dragging has ended

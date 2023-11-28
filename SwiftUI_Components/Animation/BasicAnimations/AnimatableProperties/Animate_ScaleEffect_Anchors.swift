@@ -5,7 +5,7 @@
 // 10/27/19.
 import SwiftUI
 
-private struct Animate_ScaleEffect_Anchors: View {
+fileprivate struct Animate_ScaleEffect_Anchors: View {
     @State private var change = false
     
     var body: some View {

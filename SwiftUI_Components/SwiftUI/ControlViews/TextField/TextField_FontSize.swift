@@ -5,7 +5,7 @@
 //6/28/19.
 import SwiftUI
 
-private struct TextField_FontSize : View {
+fileprivate struct TextField_FontSize : View {
     @State private var textFieldData = ""
     
     var body: some View {

@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-private struct StopWatchView: View {
+fileprivate struct StopWatchView: View {
     
     @State private var progressTime = 236
     @State private var isRunning = false

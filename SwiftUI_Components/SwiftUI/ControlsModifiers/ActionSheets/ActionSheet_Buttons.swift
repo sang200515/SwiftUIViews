@@ -1,7 +1,7 @@
 //8/15/19.
 import SwiftUI
 
-private struct ActionSheet_Buttons: View {
+fileprivate struct ActionSheet_Buttons: View {
     @State private var presentingActionSheet = false
     
     var actionSheet =

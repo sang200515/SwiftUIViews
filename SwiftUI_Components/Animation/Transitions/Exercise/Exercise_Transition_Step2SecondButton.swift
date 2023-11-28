@@ -1,7 +1,7 @@
 // 12/24/19.
 import SwiftUI
 
-private struct Exercise_Transition_Step2SecondButton: View {
+fileprivate struct Exercise_Transition_Step2SecondButton: View {
     @State private var step1 = true
     
     var body: some View {

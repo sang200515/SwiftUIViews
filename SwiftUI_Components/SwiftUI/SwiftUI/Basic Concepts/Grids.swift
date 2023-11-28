@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Grids: View {
+fileprivate struct Grids: View {
     var body: some View {
         LazyVGrid(columns: [GridItem(.adaptive(minimum: 150))]) {
             ForEach(0 ..< 5) { item in

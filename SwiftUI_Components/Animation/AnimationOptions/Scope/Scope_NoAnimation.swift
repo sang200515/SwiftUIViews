@@ -5,7 +5,7 @@
 // 10/31/19.
 import SwiftUI
 
-private struct Scope_NoAnimation: View {
+fileprivate struct Scope_NoAnimation: View {
     @State private var change = false
     
     var body: some View {

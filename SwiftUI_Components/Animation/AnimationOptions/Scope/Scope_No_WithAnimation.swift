@@ -5,7 +5,7 @@
 // 11/26/19.
 import SwiftUI
 
-private struct Scope_No_WithAnimation: View {
+fileprivate struct Scope_No_WithAnimation: View {
     @State private var expandMoreInfo = true
     
     var body: some View {

@@ -1,7 +1,7 @@
 //6/23/19.
 import SwiftUI
 
-private struct Slider_Intro : View {
+fileprivate struct Slider_Intro : View {
     @State private var sliderValue = 0.5
     
     var body: some View {

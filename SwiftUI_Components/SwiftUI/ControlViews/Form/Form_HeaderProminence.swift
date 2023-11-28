@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Form_HeaderProminence: View {
+fileprivate struct Form_HeaderProminence: View {
     var body: some View {
         Form {
             Section {

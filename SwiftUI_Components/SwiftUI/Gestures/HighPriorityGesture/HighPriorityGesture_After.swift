@@ -5,7 +5,7 @@
 //11/5/19.
 import SwiftUI
 
-private struct HighPriorityGesture_After: View {
+fileprivate struct HighPriorityGesture_After: View {
     @State private var alternateBackground = false
     @State private var alternateCircleColor = false
     

@@ -5,7 +5,7 @@
 // 10/6/19.
 import SwiftUI
 
-private struct Testing: View {
+fileprivate struct Testing: View {
     @State private var showMessage = false
     
     var body: some View {

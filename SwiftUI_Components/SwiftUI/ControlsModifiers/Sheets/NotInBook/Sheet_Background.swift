@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Sheet_Background: View {
+fileprivate struct Sheet_Background: View {
     @State private var presentingSheet = false
 
     var body: some View {

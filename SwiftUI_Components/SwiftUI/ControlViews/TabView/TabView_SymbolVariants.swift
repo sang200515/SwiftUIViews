@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct TabView_SymbolVariants: View {
+fileprivate struct TabView_SymbolVariants: View {
     var body: some View {
         TabView {
             VStack(spacing: 20.0) {

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Group_MultipleVStacks: View {
+fileprivate struct Group_MultipleVStacks: View {
     var body: some View {
         GeometryReader { gp in
             Text("GeometryReader - Is acting like a ZStack")

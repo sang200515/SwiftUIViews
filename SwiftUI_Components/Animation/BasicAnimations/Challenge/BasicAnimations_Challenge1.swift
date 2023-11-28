@@ -5,7 +5,7 @@
 // 10/27/19.
 import SwiftUI
 
-private struct BasicAnimations_Challenge1: View {
+fileprivate struct BasicAnimations_Challenge1: View {
     @State private var show = false
     @State private var userName = ""
     @State private var password = ""

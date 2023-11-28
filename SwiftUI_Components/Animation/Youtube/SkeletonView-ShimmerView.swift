@@ -6,7 +6,7 @@
 //
 import SwiftUI
 
-private struct SkeletonViewShimmerView: View {
+fileprivate struct SkeletonViewShimmerView: View {
     @State private var shimmering = false
     
     let streamSnow = #colorLiteral(red: 0.9999960065, green: 1, blue: 1, alpha: 1)

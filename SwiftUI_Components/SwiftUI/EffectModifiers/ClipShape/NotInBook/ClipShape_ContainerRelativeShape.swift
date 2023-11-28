@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct ClipShape_ContainerRelativeShape: View {
+fileprivate struct ClipShape_ContainerRelativeShape: View {
     var body: some View {
         VStack(spacing: 10) {
             Text("ClipShape").font(.largeTitle)

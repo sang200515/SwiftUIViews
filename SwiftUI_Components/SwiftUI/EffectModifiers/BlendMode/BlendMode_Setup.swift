@@ -5,7 +5,7 @@
 //8/26/19.
 import SwiftUI
 
-private struct BlendMode_Setup: View {
+fileprivate struct BlendMode_Setup: View {
     var body: some View {
         VStack(spacing: 20) {
             Text("Blend Mode").font(.largeTitle)

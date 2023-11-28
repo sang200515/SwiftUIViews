@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct TabView_PageTabViewStyle_IndexDisplayMode: View {
+fileprivate struct TabView_PageTabViewStyle_IndexDisplayMode: View {
     var body: some View {
         TabView {
             VStack(spacing: 20) {

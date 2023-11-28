@@ -5,7 +5,7 @@
 //11/17/19.
 import SwiftUI
 
-private struct TextField_KeyboardType: View {
+fileprivate struct TextField_KeyboardType: View {
     @State private var textFieldData = ""
 
     var body: some View {

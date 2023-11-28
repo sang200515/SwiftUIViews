@@ -1,7 +1,7 @@
 // 12/7/19.
 import SwiftUI
 
-private struct Exercise_Spring_AnimateOffsets: View {
+fileprivate struct Exercise_Spring_AnimateOffsets: View {
     @State private var start = false
     
     var body: some View {

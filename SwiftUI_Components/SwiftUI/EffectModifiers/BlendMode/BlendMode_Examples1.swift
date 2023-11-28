@@ -5,7 +5,7 @@
 //8/26/19.
 import SwiftUI
 
-private struct BlendMode_Examples1: View {
+fileprivate struct BlendMode_Examples1: View {
     var body: some View {
         ScrollView {
             VStack(spacing: 10) {

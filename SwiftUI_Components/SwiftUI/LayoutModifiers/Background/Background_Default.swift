@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Background_Default: View {
+fileprivate struct Background_Default: View {
     var body: some View {
         ZStack {
             Color("GoldColor")

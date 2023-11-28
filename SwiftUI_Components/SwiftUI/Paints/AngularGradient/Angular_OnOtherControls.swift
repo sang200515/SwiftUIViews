@@ -5,7 +5,7 @@
 //9/5/19.
 import SwiftUI
 
-private struct Angular_OnOtherControls: View {
+fileprivate struct Angular_OnOtherControls: View {
     var body: some View {
         let gradient = Gradient(colors: [.pink, .purple, .pink])
         let angularGradient = AngularGradient(gradient: gradient, center: .center, angle: .degrees(0))

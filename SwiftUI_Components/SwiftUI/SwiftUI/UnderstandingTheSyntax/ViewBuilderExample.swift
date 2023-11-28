@@ -5,7 +5,7 @@
 //8/9/19.
 import SwiftUI
 
-private struct ViewBuilderExample: View {
+fileprivate struct ViewBuilderExample: View {
     var body: some View {
         VStack {
             Text("View 1")

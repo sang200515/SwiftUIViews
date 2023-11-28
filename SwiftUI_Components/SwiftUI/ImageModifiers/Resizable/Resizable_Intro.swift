@@ -5,7 +5,7 @@
 //9/16/19.
 import SwiftUI
 
-private struct Resizable_Intro: View {
+fileprivate struct Resizable_Intro: View {
     var body: some View {
         ScrollView {
             VStack(spacing: 20) {

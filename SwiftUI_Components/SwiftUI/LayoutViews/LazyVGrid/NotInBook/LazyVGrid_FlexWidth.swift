@@ -9,7 +9,7 @@
 
 import SwiftUI
 
-private struct LazyVGrid_FlexWidth: View {
+fileprivate struct LazyVGrid_FlexWidth: View {
     @State private var data = ["❣️ Love You! ❣️", "Test Length 1", "👉 Test Length 2 👈", "Hi"]
     
     

@@ -5,7 +5,7 @@
 //11/2/19.
 import SwiftUI
 
-private struct LongPress_MaximumDistance: View {
+fileprivate struct LongPress_MaximumDistance: View {
     @State private var isLongPress = false
     
     var body: some View {

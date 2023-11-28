@@ -5,7 +5,7 @@
 //11/2/19.
 import SwiftUI
 
-private struct DragGesture_LimitToXOrY: View {
+fileprivate struct DragGesture_LimitToXOrY: View {
     @State private var currentSliderPositionX: CGFloat = 0.0
     @GestureState private var slideOffset = CGSize.zero
     

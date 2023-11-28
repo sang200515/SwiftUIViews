@@ -5,7 +5,7 @@
 //7/12/19.
 import SwiftUI
 
-private struct Path_Triangle : View {
+fileprivate struct Path_Triangle : View {
     var body: some View {
         VStack(spacing: 10) {
             Text("Path").font(.largeTitle)

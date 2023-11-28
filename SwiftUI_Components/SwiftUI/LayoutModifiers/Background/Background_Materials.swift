@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Background_Materials: View {
+fileprivate struct Background_Materials: View {
     var body: some View {
         ZStack {
             Image("water")

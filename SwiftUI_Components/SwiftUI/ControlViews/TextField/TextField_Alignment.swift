@@ -5,7 +5,7 @@
 //10/16/19.
 import SwiftUI
 
-private struct TextField_Alignment: View {
+fileprivate struct TextField_Alignment: View {
     @State private var textFieldData1 = "Leading"
     @State private var textFieldData2 = "Center"
     @State private var textFieldData3 = "Trailing"

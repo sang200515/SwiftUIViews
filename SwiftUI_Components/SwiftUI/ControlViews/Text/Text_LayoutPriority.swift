@@ -5,7 +5,7 @@
 //6/15/19.
 import SwiftUI
 
-private struct HStack_3_00_LayoutPriority : View {
+fileprivate struct HStack_3_00_LayoutPriority : View {
     var body: some View {
         VStack(spacing: 10) {
             Text("Text")

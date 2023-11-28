@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct RoundedRectangle_CornerSize: View {
+fileprivate struct RoundedRectangle_CornerSize: View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("RoundedRectangle",

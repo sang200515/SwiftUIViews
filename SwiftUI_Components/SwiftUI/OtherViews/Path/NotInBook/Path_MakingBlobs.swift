@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Path_MakingBlobs: View {
+fileprivate struct Path_MakingBlobs: View {
     let lg = LinearGradient(gradient: Gradient(colors: [Color.pink, Color.purple]),
                             startPoint: .topTrailing,
                             endPoint: .bottomLeading)

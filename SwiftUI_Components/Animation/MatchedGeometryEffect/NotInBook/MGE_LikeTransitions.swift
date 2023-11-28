@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MGE_LikeTransitions: View {
+fileprivate struct MGE_LikeTransitions: View {
     @State private var showView2 = false
     @Namespace var namespace
     

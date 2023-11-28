@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct IndexViewStyle_Intro: View {
+fileprivate struct IndexViewStyle_Intro: View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("IndexViewStyle",

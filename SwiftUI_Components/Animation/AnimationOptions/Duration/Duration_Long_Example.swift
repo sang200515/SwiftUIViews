@@ -5,7 +5,7 @@
 // 11/1/19.
 import SwiftUI
 
-private struct Duration_Long_Example: View {
+fileprivate struct Duration_Long_Example: View {
     @State private var change = false
     
     var body: some View {

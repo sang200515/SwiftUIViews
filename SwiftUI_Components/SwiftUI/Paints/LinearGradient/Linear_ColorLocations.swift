@@ -5,7 +5,7 @@
 //8/24/19.
 import SwiftUI
 
-private struct Linear_ColorLocations: View {
+fileprivate struct Linear_ColorLocations: View {
     var body: some View {
         let gradientColors = Gradient(stops: [
             .init(color: .red, location: 0),

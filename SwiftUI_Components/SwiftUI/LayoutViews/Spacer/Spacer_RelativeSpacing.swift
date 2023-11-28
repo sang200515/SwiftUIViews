@@ -5,7 +5,7 @@
 //11/26/19.
 import SwiftUI
 
-private struct Spacer_RelativeSpacing: View {
+fileprivate struct Spacer_RelativeSpacing: View {
     var body: some View {
         VStack(spacing: 20) {
             Text("Spacer").font(.largeTitle)

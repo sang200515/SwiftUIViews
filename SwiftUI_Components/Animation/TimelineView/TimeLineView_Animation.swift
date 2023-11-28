@@ -1,7 +1,7 @@
 // Copyright © 2021 Big Mountain Studio. All rights reserved. Twitter: @BigMtnStudi
 import SwiftUI
 
-private struct TimeLineView_Animation: View {
+fileprivate struct TimeLineView_Animation: View {
     @State private var isPaused = false
     
     var body: some View {

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Popover_Color: View {
+fileprivate struct Popover_Color: View {
     @State private var showPopover = false
     @State private var articleName = ""
     

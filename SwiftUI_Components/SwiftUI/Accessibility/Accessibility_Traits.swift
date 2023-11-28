@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Accessibility_Traits: View {
+fileprivate struct Accessibility_Traits: View {
     @State private var selected = false
     
     var body: some View {

@@ -5,7 +5,7 @@
 //11/20/19.
 import SwiftUI
 
-private struct Radial_EndRadius: View {
+fileprivate struct Radial_EndRadius: View {
     @State private var endRadius: CGFloat = 200.0
     
     var body: some View {

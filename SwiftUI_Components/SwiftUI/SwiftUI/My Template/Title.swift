@@ -5,7 +5,7 @@
 //9/27/19.
 import SwiftUI
 
-private struct Title: View {
+fileprivate struct Title: View {
     var body: some View {
         Text("Title") // Create text on the screen
             .font(.largeTitle) // Use a font modifier to make text larger

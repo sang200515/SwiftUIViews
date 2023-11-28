@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MGE_ClipShape: View {//flag
+fileprivate struct MGE_ClipShape: View {//flag
     @State private var showDetail = false
     @Namespace var namespace
     

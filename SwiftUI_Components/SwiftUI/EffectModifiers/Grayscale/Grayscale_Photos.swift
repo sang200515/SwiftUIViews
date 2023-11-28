@@ -5,7 +5,7 @@
 //9/2/19.
 import SwiftUI
 
-private struct Grayscale_Photos: View {
+fileprivate struct Grayscale_Photos: View {
     var body: some View {
         ScrollView {
             VStack(spacing: 10) {

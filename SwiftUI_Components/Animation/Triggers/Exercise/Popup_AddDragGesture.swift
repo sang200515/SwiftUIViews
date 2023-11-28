@@ -5,7 +5,7 @@
 // 11/10/19.
 import SwiftUI
 
-private struct Popup_AddDragGesture: View {
+fileprivate struct Popup_AddDragGesture: View {
     @State private var showPopup = true
     @GestureState private var popupOffset = CGSize.zero // Track the distance dragged
     

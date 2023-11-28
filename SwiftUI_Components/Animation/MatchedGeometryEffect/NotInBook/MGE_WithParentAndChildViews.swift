@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MGE_WithParentAndChildViews: View {
+fileprivate struct MGE_WithParentAndChildViews: View {
     @State private var showDetailView = false
     @Namespace var namespace
     

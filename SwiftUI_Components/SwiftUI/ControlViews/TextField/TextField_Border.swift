@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct TextField_Border: View {
+fileprivate struct TextField_Border: View {
     @State private var textFieldData = ""
     
     var body: some View {

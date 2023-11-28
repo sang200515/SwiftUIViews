@@ -2,7 +2,7 @@
 //6/19/19.
 import SwiftUI
 
-private struct SegmentedControl_Intro : View {
+fileprivate struct SegmentedControl_Intro : View {
     @State private var dayNight = "day"
     @State private var tab = 1
     

@@ -1,7 +1,7 @@
 //7/6/19.
 import SwiftUI
 
-private struct Slider_WithImages : View {
+fileprivate struct Slider_WithImages : View {
     @State private var sliderValue = 0.5
     
     var body: some View {

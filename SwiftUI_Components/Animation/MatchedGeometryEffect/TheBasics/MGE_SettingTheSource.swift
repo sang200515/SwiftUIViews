@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MGE_SettingTheSource: View {
+fileprivate struct MGE_SettingTheSource: View {
     @Namespace var namespace
     
     var body: some View {

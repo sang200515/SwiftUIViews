@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct ColorInvert_Intro: View {
+fileprivate struct ColorInvert_Intro: View {
     var body: some View {
         VStack(spacing: 10) {
             Text("Color Invert").font(.largeTitle)

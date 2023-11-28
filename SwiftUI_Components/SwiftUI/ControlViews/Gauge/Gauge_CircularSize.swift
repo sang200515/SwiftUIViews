@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Gauge_CircularSize: View {
+fileprivate struct Gauge_CircularSize: View {
     @State private var progress = 0.25
     
     var body: some View {

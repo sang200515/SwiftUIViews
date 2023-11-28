@@ -1,7 +1,7 @@
 //6/18/19.
 import SwiftUI
 
-private struct Picker_Intro : View {
+fileprivate struct Picker_Intro : View {
     @State private var favoriteState = 1
     
     var body: some View {

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Disabled_Intro: View {
+fileprivate struct Disabled_Intro: View {
     @State private var name = ""
     
     var body: some View {

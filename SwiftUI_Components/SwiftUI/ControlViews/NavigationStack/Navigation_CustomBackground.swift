@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Navigation_CustomBackground: View {
+fileprivate struct Navigation_CustomBackground: View {
     var body: some View {
         NavigationStack {
             VStack {

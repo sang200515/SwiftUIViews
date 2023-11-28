@@ -5,7 +5,7 @@
 //8/23/19.
 import SwiftUI
 
-private struct AspectRatio_Intro: View {
+fileprivate struct AspectRatio_Intro: View {
     var body: some View {
         VStack(spacing: 10) {
             Text("Aspect Ratio")

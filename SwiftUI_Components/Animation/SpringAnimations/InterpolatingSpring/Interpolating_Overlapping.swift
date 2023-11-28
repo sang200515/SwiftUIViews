@@ -4,7 +4,7 @@
 // 12/2/19.
 import SwiftUI
 
-private struct Interpolating_Overlapping: View {
+fileprivate struct Interpolating_Overlapping: View {
     @State private var degrees = 0.0
     @State private var taps = 0
     

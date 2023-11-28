@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Link_ButtonStyles: View {
+fileprivate struct Link_ButtonStyles: View {
     var body: some View {
         VStack(spacing: 40) {
             HeaderView("Link",

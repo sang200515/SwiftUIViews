@@ -5,7 +5,7 @@
 // 11/5/19.
 import SwiftUI
 
-private struct Trigger_Gesture_Magnification: View {
+fileprivate struct Trigger_Gesture_Magnification: View {
     @GestureState private var scale: CGFloat = 0.0
     @State private var endScale: CGFloat = 1.0
     

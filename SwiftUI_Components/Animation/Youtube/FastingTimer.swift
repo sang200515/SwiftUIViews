@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-private struct FastingTimer: View {
+fileprivate struct FastingTimer: View {
     @StateObject var fastingManager = FastingManager()
     
     var title: String {
@@ -224,7 +224,7 @@ private final class FastingManager: ObservableObject {
 
 import SwiftUI
 
-private struct ProgressRing: View {
+fileprivate struct ProgressRing: View {
     @EnvironmentObject var fastingManager: FastingManager
 
     let timer = Timer

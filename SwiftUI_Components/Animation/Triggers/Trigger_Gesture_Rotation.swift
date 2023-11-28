@@ -5,7 +5,7 @@
 // 11/5/19.
 import SwiftUI
 
-private struct Trigger_Gesture_Rotation: View {
+fileprivate struct Trigger_Gesture_Rotation: View {
     @State private var degrees = 0.0
     
     var body: some View {

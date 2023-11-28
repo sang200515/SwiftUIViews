@@ -2,7 +2,7 @@
 //6/18/19.
 import SwiftUI
 
-private struct Picker_Customized : View {
+fileprivate struct Picker_Customized : View {
     @State private var favoriteState = 1
     @State private var youTuberName = "Mark"
     

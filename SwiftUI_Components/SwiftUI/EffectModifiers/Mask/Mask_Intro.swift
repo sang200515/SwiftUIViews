@@ -5,7 +5,7 @@
 //9/19/19.
 import SwiftUI
 
-private struct Mask_Intro: View {
+fileprivate struct Mask_Intro: View {
     var body: some View {
         VStack(spacing: 10) {
             Text("Mask").font(.largeTitle)

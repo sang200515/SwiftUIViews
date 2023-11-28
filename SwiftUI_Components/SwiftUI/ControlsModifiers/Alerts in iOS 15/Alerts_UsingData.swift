@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct ResultDetails {
+fileprivate struct ResultDetails {
     let message: String
     let action: String
 }

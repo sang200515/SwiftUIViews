@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct ColorPicker_Intro: View {
+fileprivate struct ColorPicker_Intro: View {
     @State private var color = Color.pink
     
     var body: some View {

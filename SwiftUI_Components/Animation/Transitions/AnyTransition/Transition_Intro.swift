@@ -5,7 +5,7 @@
 // 12/17/19.
 import SwiftUI
 
-private struct Transition_Intro: View {
+fileprivate struct Transition_Intro: View {
     @State private var change = false
     
     var body: some View {

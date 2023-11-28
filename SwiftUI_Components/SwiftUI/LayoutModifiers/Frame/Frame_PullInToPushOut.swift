@@ -5,7 +5,7 @@
 //11/23/19.
 import SwiftUI
 
-private struct Frame_PullInToPushOut: View {
+fileprivate struct Frame_PullInToPushOut: View {
     var body: some View {
         VStack(spacing: 20) {
             Text("Frame").font(.largeTitle)

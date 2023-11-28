@@ -5,7 +5,7 @@
 //6/27/19.
 import SwiftUI
 
-private struct Text_TruncationMode : View {
+fileprivate struct Text_TruncationMode : View {
     var body: some View {
         VStack(spacing: 5) {
             Text("Text").font(.largeTitle)

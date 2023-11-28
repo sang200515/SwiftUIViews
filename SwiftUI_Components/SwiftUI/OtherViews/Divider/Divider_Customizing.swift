@@ -1,7 +1,7 @@
 //7/11/19.
 import SwiftUI
 
-private struct Divider_Customizing : View {
+fileprivate struct Divider_Customizing : View {
     var body: some View {
         VStack(spacing: 20) {
             Text("Divider").font(.largeTitle)

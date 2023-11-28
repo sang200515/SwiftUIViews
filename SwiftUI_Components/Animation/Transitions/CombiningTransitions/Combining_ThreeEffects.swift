@@ -5,7 +5,7 @@
 // 12/19/19.
 import SwiftUI
 
-private struct Combining_ThreeEffects: View {
+fileprivate struct Combining_ThreeEffects: View {
     @State private var change = false
     
     var body: some View {

@@ -1,7 +1,7 @@
 
 import SwiftUI
 
-private struct WelcomeBackView_1: View {
+fileprivate struct WelcomeBackView_1: View {
     var body: some View {
         VStack(spacing: 20) {
             Text("Welcome Back,")

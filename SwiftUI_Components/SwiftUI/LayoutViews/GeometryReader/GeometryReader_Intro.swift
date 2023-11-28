@@ -5,7 +5,7 @@
 //7/12/19.
 import SwiftUI
 
-private struct GeometryReader_Intro : View {
+fileprivate struct GeometryReader_Intro : View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("GeometryReader", subtitle: "Introduction", desc: "GeometryReader is a container view that pushes out to fill up all available space. You use it to help with positioning items within it.",

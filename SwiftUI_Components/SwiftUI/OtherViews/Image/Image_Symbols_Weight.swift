@@ -1,7 +1,7 @@
 //9/5/19.
 import SwiftUI
 
-private struct Image_Symbols_Weight: View {
+fileprivate struct Image_Symbols_Weight: View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("Image - Symbols",subtitle: "Symbol Weight",

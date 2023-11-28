@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct ActionSheet_ChangeBack: View {
+fileprivate struct ActionSheet_ChangeBack: View {
     @State private var presentingActionSheet = false
     
     var body: some View {

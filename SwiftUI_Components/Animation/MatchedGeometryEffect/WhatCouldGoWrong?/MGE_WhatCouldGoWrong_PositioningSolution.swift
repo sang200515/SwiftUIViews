@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MGE_WhatCouldGoWrong_PositioningSolution: View {
+fileprivate struct MGE_WhatCouldGoWrong_PositioningSolution: View {
     @State private var showView2 = false
     @Namespace var namespace
     

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Toolbar_PrincipalPlacement: View {
+fileprivate struct Toolbar_PrincipalPlacement: View {
     var body: some View {
         NavigationStack {
             VStack(spacing: 20) {

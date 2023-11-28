@@ -2,7 +2,7 @@
 // This was fixed in a later version of SwiftUI.
 import SwiftUI
 
-private struct Animate_InsideIfInZStack: View {
+fileprivate struct Animate_InsideIfInZStack: View {
     @State private var showMessage = false
     
     var body: some View {

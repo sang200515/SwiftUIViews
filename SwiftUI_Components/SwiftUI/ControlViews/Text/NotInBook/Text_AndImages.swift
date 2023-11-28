@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Text_AndImages: View {
+fileprivate struct Text_AndImages: View {
     var body: some View {
         VStack(spacing: 40) {
             HeaderView("Text",

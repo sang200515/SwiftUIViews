@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct List_HeaderFooter_Inset: View {
+fileprivate struct List_HeaderFooter_Inset: View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("List",

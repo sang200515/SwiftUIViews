@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct AlignmentGuide_Intro: View {
+fileprivate struct AlignmentGuide_Intro: View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("AlignmentGuide",

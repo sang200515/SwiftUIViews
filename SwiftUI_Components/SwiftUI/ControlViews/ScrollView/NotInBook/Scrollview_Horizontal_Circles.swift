@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Scrollview_Horizontal_Circles: View {
+fileprivate struct Scrollview_Horizontal_Circles: View {
     var body: some View {
         VStack {
             ScrollView(.horizontal) {

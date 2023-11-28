@@ -5,7 +5,7 @@
 //6/6/19.
 import SwiftUI
 
-private struct Image_ClipShape : View {
+fileprivate struct Image_ClipShape : View {
     var body: some View {
         VStack(spacing: 5) {
                 HeaderView("Image",

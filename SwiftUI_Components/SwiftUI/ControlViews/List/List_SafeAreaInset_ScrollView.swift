@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct List_SafeAreaInset_ScrollView: View {
+fileprivate struct List_SafeAreaInset_ScrollView: View {
     var body: some View {
         VStack(spacing: 0) {
             HeaderView("ScrollView",

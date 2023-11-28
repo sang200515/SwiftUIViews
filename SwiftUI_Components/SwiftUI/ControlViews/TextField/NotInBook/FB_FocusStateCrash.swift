@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct FB_FocusStateCrash: View {
+fileprivate struct FB_FocusStateCrash: View {
     enum NameFields {
         case firstName
         case lastName

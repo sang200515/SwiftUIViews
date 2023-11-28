@@ -5,7 +5,7 @@
 //8/24/19.
 import SwiftUI
 
-private struct FixedSize_Intro: View {
+fileprivate struct FixedSize_Intro: View {
     var body: some View {
         VStack(spacing: 10) {
             Text("Fixed Size")

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Scrollview_Horizontal : View {
+fileprivate struct Scrollview_Horizontal : View {
     var items = [Color.green, Color.blue, Color.purple, Color.pink,
                  Color.yellow, Color.orange]
     

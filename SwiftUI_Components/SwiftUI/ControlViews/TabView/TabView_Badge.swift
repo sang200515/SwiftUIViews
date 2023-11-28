@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct TabView_Badge: View {
+fileprivate struct TabView_Badge: View {
     var body: some View {
         TabView {
             // Tab 1

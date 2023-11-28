@@ -5,7 +5,7 @@
 //9/27/19.
 import SwiftUI
 
-private struct VerticalStack: View {
+fileprivate struct VerticalStack: View {
     var body: some View {
         VStack(spacing: 40) {
             RoundedRectangle(cornerRadius: 20)

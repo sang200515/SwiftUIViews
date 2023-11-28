@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct LabeledContent_Intro: View {
+fileprivate struct LabeledContent_Intro: View {
     var body: some View {
         VStack {
             VStack(spacing: 24.0) {

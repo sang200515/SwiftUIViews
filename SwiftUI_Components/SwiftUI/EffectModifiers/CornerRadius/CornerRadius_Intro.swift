@@ -5,7 +5,7 @@
 //9/1/19.
 import SwiftUI
 
-private struct CornerRadius_Intro: View {
+fileprivate struct CornerRadius_Intro: View {
     var body: some View {
         VStack(spacing: 15) {
             Group {

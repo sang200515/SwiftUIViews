@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Accessibility_Punctuation: View {
+fileprivate struct Accessibility_Punctuation: View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("Accessibility",

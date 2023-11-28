@@ -5,7 +5,7 @@
 //8/25/19.
 import SwiftUI
 
-private struct ScaleToFit_Intro: View {
+fileprivate struct ScaleToFit_Intro: View {
     var body: some View {
         VStack(spacing: 10) {
             Text("Scale To Fit").font(.largeTitle)

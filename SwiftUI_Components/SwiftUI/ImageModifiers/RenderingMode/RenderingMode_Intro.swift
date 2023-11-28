@@ -5,7 +5,7 @@
 //9/16/19.
 import SwiftUI
 
-private struct RenderingMode_Intro: View {
+fileprivate struct RenderingMode_Intro: View {
     var body: some View {
         ScrollView {
             VStack(spacing: 10) {

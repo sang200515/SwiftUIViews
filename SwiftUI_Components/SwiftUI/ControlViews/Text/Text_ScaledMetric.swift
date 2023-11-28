@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Text_ScaledMetric: View {
+fileprivate struct Text_ScaledMetric: View {
     @ScaledMetric private var fontSize: CGFloat = 40
     
     var body: some View {

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct ForegroundStyle_Gradient: View {
+fileprivate struct ForegroundStyle_Gradient: View {
     let gradient = LinearGradient(colors: [.blue, .green],
                                         startPoint: .topLeading,
                                         endPoint: .bottomTrailing)

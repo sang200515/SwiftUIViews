@@ -1,7 +1,7 @@
 //9/21/19.
 import SwiftUI
 
-private struct Navigation_BarHidden: View {
+fileprivate struct Navigation_BarHidden: View {
     @State private var isHidden = false
     
     var body: some View {

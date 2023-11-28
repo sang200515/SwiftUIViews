@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Text_DynamicTypeSize: View {
+fileprivate struct Text_DynamicTypeSize: View {
     var body: some View {
         VStack(spacing: 20.0) {
             HeaderView("Text",

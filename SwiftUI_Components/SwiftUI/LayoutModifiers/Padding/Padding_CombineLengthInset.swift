@@ -5,7 +5,7 @@
 //9/21/19.
 import SwiftUI
 
-private struct Padding_CombineLengthInset: View {
+fileprivate struct Padding_CombineLengthInset: View {
     var body: some View {
         VStack(spacing: 10) {
             Text("Padding").font(.largeTitle)

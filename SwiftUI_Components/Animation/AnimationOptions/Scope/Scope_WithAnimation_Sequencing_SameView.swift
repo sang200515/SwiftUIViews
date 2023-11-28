@@ -5,7 +5,7 @@
 // 11/25/19.
 import SwiftUI
 
-private struct Scope_WithAnimation_Sequencing_SameView: View {
+fileprivate struct Scope_WithAnimation_Sequencing_SameView: View {
     @State private var expandMoreInfo = false
     @State private var showInfo = false
     

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct ZStack_Aligning: View {
+fileprivate struct ZStack_Aligning: View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("ZStack",

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Label_Solution: View {
+fileprivate struct Label_Solution: View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("Label",

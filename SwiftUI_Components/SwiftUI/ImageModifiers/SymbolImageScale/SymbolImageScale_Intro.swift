@@ -1,7 +1,7 @@
 //9/16/19.
 import SwiftUI
 
-private struct SymbolImageScale_Intro: View {
+fileprivate struct SymbolImageScale_Intro: View {
     var body: some View {
         ScrollView {
             VStack(spacing: 20) {

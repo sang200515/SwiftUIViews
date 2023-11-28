@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct DismissSearchAppleExample: View {
+fileprivate struct DismissSearchAppleExample: View {
     @State private var text = ""
     
     var body: some View {

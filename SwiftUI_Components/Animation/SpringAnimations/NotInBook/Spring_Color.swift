@@ -5,7 +5,7 @@
 // 9/30/19.
 import SwiftUI
 
-private struct Spring_Color: View {
+fileprivate struct Spring_Color: View {
         @State private var change = false
         @State private var dampingFraction = 0.5
         

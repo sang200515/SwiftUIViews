@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Navigation_SplitViewColumnVisibility: View {
+fileprivate struct Navigation_SplitViewColumnVisibility: View {
     @State private var visibility = NavigationSplitViewVisibility.all
     
     var body: some View {

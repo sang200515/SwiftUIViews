@@ -5,7 +5,7 @@
 //9/4/19.
 import SwiftUI
 
-private struct SymbolsIntro: View {
+fileprivate struct SymbolsIntro: View {
     var body: some View {
         VStack(spacing: 20) {
             Text("Images")

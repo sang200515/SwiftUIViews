@@ -5,7 +5,7 @@
 // 12/2/19.
 import SwiftUI
 
-private struct Interactive_Comparison: View {
+fileprivate struct Interactive_Comparison: View {
     @State private var change = false
     
     var body: some View {

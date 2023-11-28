@@ -5,7 +5,7 @@
 // 11/5/19.
 import SwiftUI
 
-private struct Trigger_Gesture_Drag: View {
+fileprivate struct Trigger_Gesture_Drag: View {
     @GestureState private var menuOffset = CGSize.zero
     @State private var currentMenuY: CGFloat = 0.0
     

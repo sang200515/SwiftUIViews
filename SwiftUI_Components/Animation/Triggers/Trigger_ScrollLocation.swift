@@ -5,7 +5,7 @@
 // 11/24/19.
 import SwiftUI
 
-private struct Trigger_ScrollLocation: View {
+fileprivate struct Trigger_ScrollLocation: View {
     var body: some View {
         VStack(spacing: 10) {
             TitleText("Trigger")

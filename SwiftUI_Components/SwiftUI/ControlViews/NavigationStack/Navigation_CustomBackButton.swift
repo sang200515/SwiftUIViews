@@ -1,7 +1,7 @@
 //9/21/19.
 import SwiftUI
 
-private struct Navigation_CustomBackButton: View {
+fileprivate struct Navigation_CustomBackButton: View {
     var body: some View {
         NavigationStack {
             NavigationLink("Go To Detail",

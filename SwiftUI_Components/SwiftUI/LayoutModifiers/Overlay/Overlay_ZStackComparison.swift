@@ -5,7 +5,7 @@
 //8/23/19.
 import SwiftUI
 
-private struct Overlay_ZStackComparison: View {
+fileprivate struct Overlay_ZStackComparison: View {
     var body: some View {
         ZStack(alignment: .center) {
             Color("Theme3BackgroundColor")

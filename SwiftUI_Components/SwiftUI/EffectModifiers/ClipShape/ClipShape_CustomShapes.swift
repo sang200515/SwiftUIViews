@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct ClipShape_CustomShapes: View {
+fileprivate struct ClipShape_CustomShapes: View {
     var body: some View {
         VStack(spacing: 20) {
             Image("banff")

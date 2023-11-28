@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Toggle_Color: View {
+fileprivate struct Toggle_Color: View {
     @State private var isToggleOn = true
     
     var body: some View {

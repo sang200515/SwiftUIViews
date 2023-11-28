@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Text_Markdown: View {
+fileprivate struct Text_Markdown: View {
     var body: some View {
         VStack(spacing: 20.0) {
             HeaderView("Text",

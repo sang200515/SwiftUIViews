@@ -5,7 +5,7 @@
 //8/25/19.
 import SwiftUI
 
-private struct Projection_Intro: View {
+fileprivate struct Projection_Intro: View {
     
     // I didn't want to include this in the book because there are easier ways to do these things. So I'm not sure what the point is of having these modifiers.
     

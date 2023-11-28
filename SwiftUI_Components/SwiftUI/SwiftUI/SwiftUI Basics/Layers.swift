@@ -5,7 +5,7 @@
 //9/4/19.
 import SwiftUI
 
-private struct Layers: View {
+fileprivate struct Layers: View {
     var body: some View {
         VStack(spacing: 40) {
             Text("Layers")

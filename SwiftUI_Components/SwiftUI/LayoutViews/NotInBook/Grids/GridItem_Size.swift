@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct GridItem_Size: View {
+fileprivate struct GridItem_Size: View {
     var body: some View {
         VStack(spacing: 10) {
             Text("GridItem")

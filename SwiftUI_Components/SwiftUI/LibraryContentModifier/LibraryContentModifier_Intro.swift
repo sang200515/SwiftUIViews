@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct LibraryContentModifier_Intro: View {
+fileprivate struct LibraryContentModifier_Intro: View {
     var body: some View {
         VStack {
             Text("Try your new library item")

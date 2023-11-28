@@ -1,7 +1,7 @@
 // 1/22/20.
 import SwiftUI
 
-private struct Curve_Final: View {//flag
+fileprivate struct Curve_Final: View {//flag
     @State private var showMenus = false
     private var blurRadius: CGFloat = 4
     private var backgroundGradient = LinearGradient(gradient: Gradient(colors: [Color("Background4"), Color("Secondary4")]), startPoint: .top, endPoint: .bottom)

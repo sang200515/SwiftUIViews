@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MGE_Shapes: View {
+fileprivate struct MGE_Shapes: View {
     @State private var changeView = false
     @Namespace var namespace
     

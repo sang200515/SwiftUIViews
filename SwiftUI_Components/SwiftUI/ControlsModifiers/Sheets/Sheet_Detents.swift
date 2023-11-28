@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Sheet_Detents: View {
+fileprivate struct Sheet_Detents: View {
     @State private var showSheet = false
     
     var body: some View {

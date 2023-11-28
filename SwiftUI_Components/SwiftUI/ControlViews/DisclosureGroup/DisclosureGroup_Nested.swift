@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct DisclosureGroup_Nested: View {
+fileprivate struct DisclosureGroup_Nested: View {
     @State private var disclosureExpanded = false
     @State private var sunExpanded = false
     @State private var cloudsExpanded = false

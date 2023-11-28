@@ -5,7 +5,7 @@
 //12/16/19.
 import SwiftUI
 
-private struct Frame_BackgroundColor: View {
+fileprivate struct Frame_BackgroundColor: View {
     var body: some View {
         VStack(spacing: 20) {
             Text("Frame")

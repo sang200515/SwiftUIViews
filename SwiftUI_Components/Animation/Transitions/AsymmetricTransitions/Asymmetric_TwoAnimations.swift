@@ -1,7 +1,7 @@
 // 12/19/19.
 import SwiftUI
 
-private struct Asymmetric_TwoAnimations: View {
+fileprivate struct Asymmetric_TwoAnimations: View {
     @State private var showHelp = false
     
     var body: some View {

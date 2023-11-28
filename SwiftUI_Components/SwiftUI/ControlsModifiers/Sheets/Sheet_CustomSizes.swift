@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Sheet_CustomSizes: View {
+fileprivate struct Sheet_CustomSizes: View {
     @State private var showSheet = false
     
     var body: some View {

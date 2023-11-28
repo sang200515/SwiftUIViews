@@ -5,7 +5,7 @@
 //9/12/19.
 import SwiftUI
 
-private struct ToggleStyle_Intro: View {
+fileprivate struct ToggleStyle_Intro: View {
     @State private var toggleState = true
     
     var body: some View {

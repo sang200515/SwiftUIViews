@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Accessibility_Testing: View {
+fileprivate struct Accessibility_Testing: View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("Accessibility",

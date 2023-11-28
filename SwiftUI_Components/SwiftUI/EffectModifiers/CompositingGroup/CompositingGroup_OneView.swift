@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct CompositingGroup_OneView: View {
+fileprivate struct CompositingGroup_OneView: View {
     var body: some View {
         VStack(spacing: 40) {
             HeaderView("CompositingGroup", subtitle: "One View", desc: "Composting means to combine two or more things to make one thing. Use this modifier to combine views to make one view.")

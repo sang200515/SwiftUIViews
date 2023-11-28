@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Gauge_Labels: View {
+fileprivate struct Gauge_Labels: View {
     @State private var value = 0.75
     
     var body: some View {

@@ -1,7 +1,7 @@
 //9/12/19.
 import SwiftUI
 
-private struct Text_Weights_TextStyles: View {
+fileprivate struct Text_Weights_TextStyles: View {
     var body: some View {
         return VStack(spacing: 20) {
             HStack {

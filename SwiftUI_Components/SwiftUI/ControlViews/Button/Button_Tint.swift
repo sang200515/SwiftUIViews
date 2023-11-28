@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Button_Tint: View {
+fileprivate struct Button_Tint: View {
     var body: some View {
         VStack(spacing: 40) {
             HeaderView("Button",

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct ConfirmationDialog_Intro: View {
+fileprivate struct ConfirmationDialog_Intro: View {
     @State private var delete = false
     
     var body: some View {

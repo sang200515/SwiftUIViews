@@ -5,7 +5,7 @@
 //9/2/19.
 import SwiftUI
 
-private struct HueRotation_Colors: View {
+fileprivate struct HueRotation_Colors: View {
     var body: some View {
         ScrollView {
             VStack(spacing: 20) {

@@ -5,7 +5,7 @@
 // 11/10/19.
 import SwiftUI
 
-private struct Popup_AddShowHideLogic: View {
+fileprivate struct Popup_AddShowHideLogic: View {
     @State private var showPopup = true // Controls if the popup shows or not
     
     var body: some View {

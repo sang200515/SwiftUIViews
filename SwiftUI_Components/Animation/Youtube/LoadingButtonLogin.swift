@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-private struct LoadingButtonLogin: View {
+fileprivate struct LoadingButtonLogin: View {
     @State private var show = false
     
     var body: some View {

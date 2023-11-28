@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct DismissSearchExample: View {
+fileprivate struct DismissSearchExample: View {
     @State private var locationSearch = ""
 //    @Environment(\.isSearching) var isSearching
 //    @Environment(\.dismissSearch) var dismissSearch

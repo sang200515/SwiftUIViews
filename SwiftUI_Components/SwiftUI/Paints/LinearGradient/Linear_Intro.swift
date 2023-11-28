@@ -5,7 +5,7 @@
 //7/13/19.
 import SwiftUI
 
-private struct Linear_Intro : View {
+fileprivate struct Linear_Intro : View {
     let gradientColors = Gradient(colors: [Color.pink, Color.purple])
     
     var body: some View {

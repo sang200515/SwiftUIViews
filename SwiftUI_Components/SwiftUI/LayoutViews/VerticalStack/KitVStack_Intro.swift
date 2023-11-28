@@ -6,7 +6,7 @@
 //  Copyright © 2023 Mark Moeykens. All rights reserved
 import SwiftUI
 
-private struct KitVStack_Intro: View {
+fileprivate struct KitVStack_Intro: View {
     var body: some View {
         VStack {
             HeaderView("VStack",

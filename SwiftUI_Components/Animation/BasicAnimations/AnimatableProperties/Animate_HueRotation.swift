@@ -5,7 +5,7 @@
 // 10/31/19.
 import SwiftUI
 
-private struct Animate_HueRotation: View {
+fileprivate struct Animate_HueRotation: View {
     @State private var change = false
     
     var body: some View {

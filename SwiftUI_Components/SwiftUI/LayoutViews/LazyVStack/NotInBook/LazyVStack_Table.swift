@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct LazyVStack_Table: View {
+fileprivate struct LazyVStack_Table: View {
     @State private var data = MockData.getProfiles()
     
     var body: some View {

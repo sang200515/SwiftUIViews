@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Preference_ReduceFunction: View {
+fileprivate struct Preference_ReduceFunction: View {
     @State private var highestValue = 0
     
     var body: some View {

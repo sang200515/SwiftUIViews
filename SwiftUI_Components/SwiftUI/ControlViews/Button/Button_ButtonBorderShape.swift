@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Button_ButtonBorderShape: View {
+fileprivate struct Button_ButtonBorderShape: View {
     var body: some View {
         VStack(spacing: 20.0) {
             HeaderView("Button",

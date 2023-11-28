@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct TextField_PersonNameComponents: View {
+fileprivate struct TextField_PersonNameComponents: View {
     @State private var name = PersonNameComponents(givenName: "Matthew",
                                                    middleName: "Robert",
                                                    familyName: "Moeykens")

@@ -8,7 +8,7 @@
 import Foundation
 import SwiftUI
 
-private struct ProgressBar: View {
+fileprivate struct ProgressBar: View {
     
   @Binding var progress: CGFloat
 

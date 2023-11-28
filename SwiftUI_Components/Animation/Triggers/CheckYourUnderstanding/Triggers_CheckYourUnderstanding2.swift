@@ -5,7 +5,7 @@
 // 11/10/19.
 import SwiftUI
 
-private struct Triggers_CheckYourUnderstanding2: View {
+fileprivate struct Triggers_CheckYourUnderstanding2: View {
     @State private var change = false
     
     var body: some View {

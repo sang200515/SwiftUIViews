@@ -1,7 +1,7 @@
 // 12/8/19.
 import SwiftUI
 
-private struct Spring_Options_Repeating: View {
+fileprivate struct Spring_Options_Repeating: View {
     @State private var change = false
     
     var body: some View {

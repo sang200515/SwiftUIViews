@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Animate_TextSize: View {
+fileprivate struct Animate_TextSize: View {
     @State private var change = false
     
     var body: some View {

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Image_ScaledMetricImage: View {
+fileprivate struct Image_ScaledMetricImage: View {
     @ScaledMetric var size: CGFloat = 32
     
     var body: some View {

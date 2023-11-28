@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-private struct PageControlView: View {
+fileprivate struct PageControlView: View {
     
     @Binding var selectedPage: Int
 

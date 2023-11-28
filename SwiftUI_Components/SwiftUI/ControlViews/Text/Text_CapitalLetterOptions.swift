@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Text_CapitalLetterOptions: View {
+fileprivate struct Text_CapitalLetterOptions: View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("Text",

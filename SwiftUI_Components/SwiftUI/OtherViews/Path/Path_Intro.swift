@@ -5,7 +5,7 @@
 //7/1/19.
 import SwiftUI
 
-private struct Path_Intro : View {
+fileprivate struct Path_Intro : View {
     var body: some View {
         VStack(spacing: 10) {
             Text("Path").font(.largeTitle)

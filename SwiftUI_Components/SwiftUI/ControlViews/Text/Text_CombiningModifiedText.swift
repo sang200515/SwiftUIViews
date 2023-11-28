@@ -5,7 +5,7 @@
 //6/27/19.
 import SwiftUI
 
-private struct Text_CombiningModifiedText : View {
+fileprivate struct Text_CombiningModifiedText : View {
     var body: some View {
         VStack(spacing: 18) {
             Text("Text")

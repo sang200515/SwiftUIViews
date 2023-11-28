@@ -1,7 +1,7 @@
 // 1/17/20.
 import SwiftUI
 
-private struct Curve_CurveBelow: View {//flag
+fileprivate struct Curve_CurveBelow: View {//flag
     @State private var show = false
     
     var body: some View {

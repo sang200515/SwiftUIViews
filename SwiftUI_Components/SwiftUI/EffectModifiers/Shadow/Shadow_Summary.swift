@@ -6,7 +6,7 @@
 //  Copyright © 2020 Mark Moeykens. All rights reserved
 import SwiftUI
 
-private struct Shadow_Summary: View {
+fileprivate struct Shadow_Summary: View {
     var body: some View {
         ZStack {
             Color("Theme1Background")

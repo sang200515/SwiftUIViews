@@ -5,7 +5,7 @@
 //9/27/19.
 import SwiftUI
 
-private struct Preview_DarkMode: View {
+fileprivate struct Preview_DarkMode: View {
     var body: some View {
         VStack(spacing: 20) {
             Text("Previews").font(.largeTitle)

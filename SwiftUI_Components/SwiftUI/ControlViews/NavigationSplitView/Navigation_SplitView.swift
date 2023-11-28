@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Navigation_SplitView: View {
+fileprivate struct Navigation_SplitView: View {
     var body: some View {
         NavigationSplitView {
             Text("Sidebar")

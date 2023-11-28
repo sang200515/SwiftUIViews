@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-private struct AnimatedStickyHeader: View {
+fileprivate struct AnimatedStickyHeader: View {
     
     let safeArea: EdgeInsets
     let size: CGSize

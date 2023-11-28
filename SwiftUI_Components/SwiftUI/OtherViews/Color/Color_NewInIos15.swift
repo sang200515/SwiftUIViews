@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Color_NewInIos15: View {
+fileprivate struct Color_NewInIos15: View {
     var body: some View {
         VStack(spacing: 20.0) {
             HeaderView("Color",

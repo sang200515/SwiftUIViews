@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct VerticalScrolling_ScaleInOut: View {
+fileprivate struct VerticalScrolling_ScaleInOut: View {
     var body: some View {
         VStack(spacing: 20) {
             TitleText("Vertical Scrolling")

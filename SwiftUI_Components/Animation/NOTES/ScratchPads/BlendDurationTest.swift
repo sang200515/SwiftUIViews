@@ -5,7 +5,7 @@
 // 12/4/19.
 import SwiftUI
 
-private struct BlendDurationTest: View {
+fileprivate struct BlendDurationTest: View {
     @State private var change = false
     @State private var secondChange = false
     @State private var blendDuration = 1.0

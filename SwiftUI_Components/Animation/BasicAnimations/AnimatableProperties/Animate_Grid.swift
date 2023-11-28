@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Animate_Grid: View {
+fileprivate struct Animate_Grid: View {
     @State private var change = false
     
     var body: some View {

@@ -5,7 +5,7 @@
 //11/11/19.
 import SwiftUI
 
-private struct ZIndex_Reorder: View {
+fileprivate struct ZIndex_Reorder: View {
     var body: some View {
         VStack(spacing: 20) {
             Text("Z Index").font(.largeTitle)

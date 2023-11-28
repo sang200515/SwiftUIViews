@@ -5,7 +5,7 @@
 // 12/18/19.
 import SwiftUI
 
-private struct Transition_Slide: View {
+fileprivate struct Transition_Slide: View {
     @State private var showLogin = false
     @State private var userName = ""
     @State private var password = ""

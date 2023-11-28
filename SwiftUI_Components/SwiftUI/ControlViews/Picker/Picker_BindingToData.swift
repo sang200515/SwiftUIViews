@@ -1,7 +1,7 @@
 //6/18/19.
 import SwiftUI
 
-private struct Picker_BindingToData : View {
+fileprivate struct Picker_BindingToData : View {
     @State private var youTuberName = "Mark"
     var youTubers = ["Sean", "Chris", "Mark", "Scott", "Paul"]
     

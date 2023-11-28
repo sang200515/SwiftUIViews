@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MultiDatePicker_DateRange: View {
+fileprivate struct MultiDatePicker_DateRange: View {
     @State private var dates: Set<DateComponents> = []
     
     var range = Date() ..< Calendar.current.date(byAdding: .day, value: 6, to: Date())!

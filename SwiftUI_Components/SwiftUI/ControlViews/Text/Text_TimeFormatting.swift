@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Text_TimeFormatting: View {
+fileprivate struct Text_TimeFormatting: View {
     var body: some View {
         VStack(spacing: 10) {
             HeaderView("Text",

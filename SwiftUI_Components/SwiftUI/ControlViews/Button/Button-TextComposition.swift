@@ -3,7 +3,7 @@
 //  For Book
 import SwiftUI
 
-private struct Button_TextModifiers : View {
+fileprivate struct Button_TextModifiers : View {
     var body: some View {
         VStack(spacing: 20) {
             Text("Button").font(.largeTitle)

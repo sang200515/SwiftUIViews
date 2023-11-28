@@ -1,7 +1,7 @@
 
 import SwiftUI
 
-private struct Curves_Examples: View {
+fileprivate struct Curves_Examples: View {
     @State private var move = false
     
     var body: some View {

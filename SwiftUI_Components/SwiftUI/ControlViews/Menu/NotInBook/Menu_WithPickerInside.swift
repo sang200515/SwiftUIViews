@@ -1,7 +1,7 @@
 
 import SwiftUI
 
-private struct Menu_WithPickerInside: View {
+fileprivate struct Menu_WithPickerInside: View {
     @State private var youTuberName = "Mark"
     
     var body: some View {

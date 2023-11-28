@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-private struct PasswordField: View {
+fileprivate struct PasswordField: View {
     let darkGray = Color(red: 41/255, green: 42/255, blue: 48/255)
     @State private var password = "password"
     @State private var showPassword = true

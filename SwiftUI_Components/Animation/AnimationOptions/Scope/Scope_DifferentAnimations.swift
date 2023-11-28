@@ -5,7 +5,7 @@
 // 10/31/19.
 import SwiftUI
 
-private struct Scope_DifferentAnimations: View {
+fileprivate struct Scope_DifferentAnimations: View {
     @State private var change = false
     
     var body: some View {

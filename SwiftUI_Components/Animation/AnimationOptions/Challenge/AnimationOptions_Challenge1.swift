@@ -1,7 +1,7 @@
 
 import SwiftUI
 
-private struct AnimationOptions_Challenge1: View {
+fileprivate struct AnimationOptions_Challenge1: View {
     @State private var showMenu = false
     @State private var showButtons = false
     

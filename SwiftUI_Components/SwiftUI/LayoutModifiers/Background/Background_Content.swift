@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Background_Content: View {
+fileprivate struct Background_Content: View {
     var body: some View {
         VStack(spacing: 20.0) {
             Spacer()

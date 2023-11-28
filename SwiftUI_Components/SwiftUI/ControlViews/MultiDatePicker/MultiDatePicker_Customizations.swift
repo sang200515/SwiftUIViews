@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MultiDatePicker_Customizations: View {
+fileprivate struct MultiDatePicker_Customizations: View {
     @State private var dates: Set<DateComponents> = [
         DateComponents(year: 2022, month: 9, day: 6),
         DateComponents(year: 2022, month: 9, day: 7),

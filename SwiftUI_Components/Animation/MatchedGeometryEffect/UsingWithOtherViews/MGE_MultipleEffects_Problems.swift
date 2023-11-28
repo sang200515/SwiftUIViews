@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MGE_MultipleEffects_Problems: View {
+fileprivate struct MGE_MultipleEffects_Problems: View {
     @State private var showHelp = false
     @Namespace var namespace
     var body: some View {

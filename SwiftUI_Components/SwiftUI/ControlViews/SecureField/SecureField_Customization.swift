@@ -5,7 +5,7 @@
 //6/23/19.
 import SwiftUI
 
-private struct SecureField_Customization : View {
+fileprivate struct SecureField_Customization : View {
     @State private var userName = ""
     @State private var password = ""
     

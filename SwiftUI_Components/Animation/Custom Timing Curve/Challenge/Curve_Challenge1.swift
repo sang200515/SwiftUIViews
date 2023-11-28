@@ -1,7 +1,7 @@
 
 import SwiftUI
 
-private struct Curve_Challenge1: View {
+fileprivate struct Curve_Challenge1: View {
     @State private var menuSelection = "car"
     private var backgroundGradient = LinearGradient(gradient: Gradient(colors: [Color("Background4"), Color("Secondary4")]), startPoint: .top, endPoint: .bottom)
     private var smallScale: CGFloat = 0.5

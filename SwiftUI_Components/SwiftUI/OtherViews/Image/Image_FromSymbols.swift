@@ -5,7 +5,7 @@
 //7/12/19.
 import SwiftUI
 
-private struct Image_FromSymbols : View {
+fileprivate struct Image_FromSymbols : View {
     var body: some View {
         VStack(spacing: 15) {
             Text("Image").font(.largeTitle)

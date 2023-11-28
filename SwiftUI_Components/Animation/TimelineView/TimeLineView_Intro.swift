@@ -1,7 +1,7 @@
 // Copyright © 2021 Big Mountain Studio. All rights reserved. Twitter: @BigMtnStudi
 import SwiftUI
 
-private struct TimeLineView_Intro: View {
+fileprivate struct TimeLineView_Intro: View {
     var body: some View {
         VStack {
             TitleText("TimelineView")

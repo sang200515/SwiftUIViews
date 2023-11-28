@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MGE_Example1: View {
+fileprivate struct MGE_Example1: View {
     @State private var expand = false
     @Namespace var articles
     

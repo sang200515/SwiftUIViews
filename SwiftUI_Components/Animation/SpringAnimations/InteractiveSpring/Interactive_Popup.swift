@@ -5,7 +5,7 @@
 // 12/11/19.
 import SwiftUI
 
-private struct Interactive_Popup: View {
+fileprivate struct Interactive_Popup: View {
     @State private var showPopup = false
     @State private var animate = true // Used to animate only when popup is shown
     

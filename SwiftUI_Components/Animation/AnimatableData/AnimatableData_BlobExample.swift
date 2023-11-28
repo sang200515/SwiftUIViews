@@ -1,7 +1,7 @@
 // Copyright © 2021 Big Mountain Studio. All rights reserved. Twitter: @BigMtnStudi
 import SwiftUI
 
-private struct AnimatableData_BlobExample: View {
+fileprivate struct AnimatableData_BlobExample: View {
     @State private var offset: CGFloat = 0.0
 
     var body: some View {

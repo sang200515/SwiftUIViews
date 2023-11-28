@@ -5,7 +5,7 @@
 //7/13/19.
 import SwiftUI
 
-private struct Rectangular_Stokes : View {
+fileprivate struct Rectangular_Stokes : View {
     var body: some View {
         VStack(spacing: 25) {
             Text("Rectangular Shapes")

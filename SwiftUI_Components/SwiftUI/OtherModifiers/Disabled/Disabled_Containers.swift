@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Disabled_Containers: View {
+fileprivate struct Disabled_Containers: View {
     @State private var agree = false
     
     var body: some View {

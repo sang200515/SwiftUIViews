@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct TextEditor_CustomizingText: View {
+fileprivate struct TextEditor_CustomizingText: View {
     @State private var text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     
     var body: some View {

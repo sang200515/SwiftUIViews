@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Text_Currency: View {
+fileprivate struct Text_Currency: View {
     @State private var amount = 36.72
 
     var body: some View {

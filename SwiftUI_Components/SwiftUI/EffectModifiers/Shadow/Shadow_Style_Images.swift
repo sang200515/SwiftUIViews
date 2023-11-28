@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Shadow_Style_Images: View {
+fileprivate struct Shadow_Style_Images: View {
     var body: some View {
         VStack(spacing: 50.0) {
             Image(systemName: "wifi")

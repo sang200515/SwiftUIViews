@@ -5,7 +5,7 @@
 // 9/30/19.
 import SwiftUI
 
-private struct Animate_Opacity: View {
+fileprivate struct Animate_Opacity: View {
     @State private var show = false
     
     var body: some View {

@@ -5,7 +5,7 @@
 //7/2/19.
 import SwiftUI
 
-private struct CircularShapes_Colors : View {
+fileprivate struct CircularShapes_Colors : View {
     var body: some View {
         VStack(spacing: 5) {
             Text("Circular Shapes").font(.largeTitle)

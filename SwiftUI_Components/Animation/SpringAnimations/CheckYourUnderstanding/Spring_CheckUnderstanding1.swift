@@ -5,7 +5,7 @@
 // 12/8/19.
 import SwiftUI
 
-private struct Spring_CheckUnderstanding1: View {
+fileprivate struct Spring_CheckUnderstanding1: View {
     @State private var isOn = false
     
     var body: some View {

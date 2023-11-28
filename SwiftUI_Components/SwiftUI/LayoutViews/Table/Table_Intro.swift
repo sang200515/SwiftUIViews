@@ -4,7 +4,7 @@
  */
 import SwiftUI
 
-private struct ColorInfo: Identifiable {
+fileprivate struct ColorInfo: Identifiable {
     let id = UUID()
     var name = ""
     var desc = Color.clear

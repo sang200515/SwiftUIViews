@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Button_Disabled: View {
+fileprivate struct Button_Disabled: View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("Button",

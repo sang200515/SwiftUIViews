@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct ProgressView_Total: View {
+fileprivate struct ProgressView_Total: View {
     @State private var total = 0.5
     @State private var progress = 0.4
     

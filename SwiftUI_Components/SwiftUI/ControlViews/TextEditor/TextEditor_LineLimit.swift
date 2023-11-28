@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct TextEditor_LineLimit: View {
+fileprivate struct TextEditor_LineLimit: View {
     @State private var text = ""
     
     var body: some View {

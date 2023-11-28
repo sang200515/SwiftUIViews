@@ -5,7 +5,7 @@
 //9/22/19.
 import SwiftUI
 
-private struct Border_Gradients: View {
+fileprivate struct Border_Gradients: View {
     var body: some View {
         let gradient = Gradient(colors: [.pink, .purple])
         let angularGradient = AngularGradient(gradient: gradient,

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MGE_ParksDetailView: View {
+fileprivate struct MGE_ParksDetailView: View {
     var namespace: Namespace.ID
     @Binding var selectedPark: Item!
     var park: Item!

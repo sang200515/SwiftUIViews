@@ -5,7 +5,7 @@
 // 9/30/19.
 import SwiftUI
 
-private struct Animate_Size_Frame: View {
+fileprivate struct Animate_Size_Frame: View {
     @State private var change = false
     
     var body: some View {

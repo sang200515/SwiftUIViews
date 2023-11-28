@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Path_RelativeArc_Mask: View {
+fileprivate struct Path_RelativeArc_Mask: View {
     let angularGradient = AngularGradient(colors: [.red, .orange, .yellow, .blue, .green],
                                           center: .bottom,
                                           startAngle: .degrees(-180),

@@ -6,7 +6,7 @@
 
 import SwiftUI
 
-private struct ModalPopups_Intro: View {
+fileprivate struct ModalPopups_Intro: View {
     @State private var showingModal = false
     
     var body: some View {

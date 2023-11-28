@@ -5,7 +5,7 @@
 //8/25/19.
 import SwiftUI
 
-private struct Hidden_Intro: View {
+fileprivate struct Hidden_Intro: View {
     @State private var showShapes = false
     var body: some View {
         VStack(spacing: 10) {

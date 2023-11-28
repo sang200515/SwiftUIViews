@@ -5,7 +5,7 @@
 //6/28/19.
 import SwiftUI
 
-private struct Text_FontDesign : View {
+fileprivate struct Text_FontDesign : View {
     var body: some View {
         VStack(spacing: 10) {
             HeaderView("Text", subtitle: "Font Design", desc: "There are 4 font designs now in iOS. Use Font.system to set the font design you want.", back: .green, textColor: .white)

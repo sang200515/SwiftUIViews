@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MGE_Intro: View {
+fileprivate struct MGE_Intro: View {
     @State private var showView2 = false
     @Namespace var namespace
     

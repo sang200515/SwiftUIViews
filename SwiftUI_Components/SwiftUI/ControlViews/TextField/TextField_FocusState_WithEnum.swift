@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct TextField_FocusState_WithEnum: View {
+fileprivate struct TextField_FocusState_WithEnum: View {
     enum NameFields {
         case firstName
         case lastName

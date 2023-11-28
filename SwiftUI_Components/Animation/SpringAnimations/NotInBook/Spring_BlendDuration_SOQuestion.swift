@@ -1,7 +1,7 @@
 // 9/30/19.
 import SwiftUI
 
-private struct Spring_BlendDuration_SOQuestion: View {
+fileprivate struct Spring_BlendDuration_SOQuestion: View {
     @State private var animateChange = false
     @State private var sideToSide = false
     @State private var upAndDown = false

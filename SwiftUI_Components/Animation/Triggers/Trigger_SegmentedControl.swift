@@ -5,7 +5,7 @@
 // 11/5/19.
 import SwiftUI
 
-private struct Trigger_SegmentedControl: View {
+fileprivate struct Trigger_SegmentedControl: View {
     @State private var segment = 0
     
     var body: some View {

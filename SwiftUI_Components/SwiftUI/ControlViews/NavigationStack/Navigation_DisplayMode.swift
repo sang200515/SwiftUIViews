@@ -1,7 +1,7 @@
 //7/20/19.
 import SwiftUI
 
-private struct Navigation_DisplayMode: View {
+fileprivate struct Navigation_DisplayMode: View {
     var body: some View {
         NavigationStack {
             VStack {

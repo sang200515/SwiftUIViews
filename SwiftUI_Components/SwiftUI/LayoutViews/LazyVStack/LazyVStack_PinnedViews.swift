@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct LazyVStack_PinnedViews: View {
+fileprivate struct LazyVStack_PinnedViews: View {
     @State private var teams = MockData.getTeams()
     
     var body: some View {

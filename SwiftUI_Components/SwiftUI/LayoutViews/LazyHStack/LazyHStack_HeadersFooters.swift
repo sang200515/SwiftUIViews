@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct LazyHStack_HeadersFooters: View {
+fileprivate struct LazyHStack_HeadersFooters: View {
     @State private var teams = MockData.getTeams()
 
     var body: some View {

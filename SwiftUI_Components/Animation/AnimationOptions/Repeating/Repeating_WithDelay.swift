@@ -5,7 +5,7 @@
 // 12/2/19.
 import SwiftUI
 
-private struct Repeating_WithDelay: View {
+fileprivate struct Repeating_WithDelay: View {
     @State private var start = false
     
     var body: some View {

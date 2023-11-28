@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct ForegroundStyle_Materials: View {
+fileprivate struct ForegroundStyle_Materials: View {
     var body: some View {
         ZStack {
             Image("water")

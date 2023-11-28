@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct NavLink_PopToRoot: View {
+fileprivate struct NavLink_PopToRoot: View {
     @State private var navPath: [String] = []
 
     var body: some View {

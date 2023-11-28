@@ -1,7 +1,7 @@
 //6/18/19.
 import SwiftUI
 
-private struct Form_Intro : View {
+fileprivate struct Form_Intro : View {
     var body: some View {
         Form {
             Section {

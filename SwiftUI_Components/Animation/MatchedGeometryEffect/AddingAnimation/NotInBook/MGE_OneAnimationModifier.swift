@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MGE_OneAnimationModifier: View {
+fileprivate struct MGE_OneAnimationModifier: View {
     @Namespace var namespace
     @Namespace var namespace2
     @State private var isSource = true

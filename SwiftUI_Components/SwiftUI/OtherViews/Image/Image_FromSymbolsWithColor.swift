@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Image_FromSymbolsWithColor: View {
+fileprivate struct Image_FromSymbolsWithColor: View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("Image - Symbols",

@@ -5,7 +5,7 @@
 // 11/5/19.
 import SwiftUI
 
-private struct Trigger_Gesture_Tap: View {
+fileprivate struct Trigger_Gesture_Tap: View {
     @State private var isOn = false
     
     var body: some View {

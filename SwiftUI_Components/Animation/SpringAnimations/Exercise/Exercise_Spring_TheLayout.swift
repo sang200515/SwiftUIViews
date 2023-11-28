@@ -1,7 +1,7 @@
 // 12/7/19.
 import SwiftUI
 
-private struct Exercise_Spring_TheLayout: View {
+fileprivate struct Exercise_Spring_TheLayout: View {
     
     var body: some View {
         ZStack {

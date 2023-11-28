@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct GeometryReader_Layers: View {
+fileprivate struct GeometryReader_Layers: View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("GeometryReader", subtitle: "Layers", desc: "The child views within a GeometryReader will stack on top of each other, much like a ZStack.",

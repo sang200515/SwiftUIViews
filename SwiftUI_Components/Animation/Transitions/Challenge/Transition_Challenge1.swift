@@ -1,7 +1,7 @@
 // 12/25/19.
 import SwiftUI
 
-private struct Transition_Challenge1: View {
+fileprivate struct Transition_Challenge1: View {
     @State private var show = false
     
     var body: some View {

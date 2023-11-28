@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Canvas_Introduction: View {
+fileprivate struct Canvas_Introduction: View {
     var body: some View {
         VStack(spacing: 20.0) {
             HeaderView("Canvas",

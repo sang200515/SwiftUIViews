@@ -1,7 +1,7 @@
 
 import SwiftUI
 
-private struct GettingStarted_CheckUnderstanding_WhichCurve: View {
+fileprivate struct GettingStarted_CheckUnderstanding_WhichCurve: View {
     @State private var move = false
     
     var body: some View {

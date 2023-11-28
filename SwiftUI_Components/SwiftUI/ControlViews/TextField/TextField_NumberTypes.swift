@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct TextField_NumberTypes: View {
+fileprivate struct TextField_NumberTypes: View {
     @State private var number = 34
     
     var body: some View {

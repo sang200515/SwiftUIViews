@@ -1,7 +1,7 @@
 //8/24/19.
 import SwiftUI
 
-private struct Edges_Intro: View {
+fileprivate struct Edges_Intro: View {
     var body: some View {
         VStack(spacing: 20) {
             Text("Ignores Safe Area")

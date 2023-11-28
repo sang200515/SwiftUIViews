@@ -1,7 +1,7 @@
 //7/4/19.
 import SwiftUI
 
-private struct TabView_TooManyTabs : View {
+fileprivate struct TabView_TooManyTabs : View {
     var body: some View {
         TabView {
             Text("Call Screen").tabItem {

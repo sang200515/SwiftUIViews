@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MGE_ShowingTheDetailView: View {
+fileprivate struct MGE_ShowingTheDetailView: View {
     @Namespace var namespace
     @State var selectedPark: Item?
     @State var parks = Data.getUtahNationalParks()

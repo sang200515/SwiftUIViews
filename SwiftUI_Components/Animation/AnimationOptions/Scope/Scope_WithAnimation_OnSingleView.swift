@@ -5,7 +5,7 @@
 // 11/24/19.
 import SwiftUI
 
-private struct Scope_WithAnimation_OnSingleView: View {
+fileprivate struct Scope_WithAnimation_OnSingleView: View {
     @State private var flipVertically = false
     @State private var flipHorizontally = false
     

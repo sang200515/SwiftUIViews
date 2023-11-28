@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Overlay_ImagesAndButtons: View {
+fileprivate struct Overlay_ImagesAndButtons: View {
     var body: some View {
         VStack(spacing: 40.0) {
             HeaderView("Overlay", subtitle: "Overlay Buttons on Images",

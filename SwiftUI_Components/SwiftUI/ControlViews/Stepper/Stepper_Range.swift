@@ -5,7 +5,7 @@
 //6/25/19.
 import SwiftUI
 
-private struct Stepper_Range : View {
+fileprivate struct Stepper_Range : View {
     @State private var stars = 5
     
     fileprivate func showStars(index: Int) -> Image {

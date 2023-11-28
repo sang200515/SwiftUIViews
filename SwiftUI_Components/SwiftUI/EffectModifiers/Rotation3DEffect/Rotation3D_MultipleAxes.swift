@@ -5,7 +5,7 @@
 //9/3/19.
 import SwiftUI
 
-private struct Rotation3D_MultipleAxes: View {
+fileprivate struct Rotation3D_MultipleAxes: View {
     @State private var degrees = -65.0
     
     var body: some View {

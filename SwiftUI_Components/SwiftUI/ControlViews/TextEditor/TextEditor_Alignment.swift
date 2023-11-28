@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct TextEditor_Alignment: View {
+fileprivate struct TextEditor_Alignment: View {
     @State private var text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     
     var body: some View {

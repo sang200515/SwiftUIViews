@@ -5,7 +5,7 @@
 //7/2/19.
 import SwiftUI
 
-private struct CircularShapes_Size2 : View {
+fileprivate struct CircularShapes_Size2 : View {
     var body: some View {
         VStack(spacing: 20) {
             Text("Circular Shapes")

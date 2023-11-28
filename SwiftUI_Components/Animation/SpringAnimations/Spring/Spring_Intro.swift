@@ -1,7 +1,7 @@
 // 9/30/19.
 import SwiftUI
 
-private struct Spring_Intro: View {
+fileprivate struct Spring_Intro: View {
     @State private var show = false
     
     var body: some View {

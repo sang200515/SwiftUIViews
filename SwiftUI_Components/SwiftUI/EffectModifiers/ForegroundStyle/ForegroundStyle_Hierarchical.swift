@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct ForegroundStyle_Hierarchical: View {
+fileprivate struct ForegroundStyle_Hierarchical: View {
     var body: some View {
         VStack(spacing: 20.0) {
             HeaderView("ForegroundStyle",

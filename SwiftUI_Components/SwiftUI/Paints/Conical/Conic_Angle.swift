@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Conic_Angle: View {
+fileprivate struct Conic_Angle: View {
     let gradient = Gradient(colors: [.green, .blue])
     
     var body: some View {

@@ -5,7 +5,7 @@
 //9/6/19.
 import SwiftUI
 
-private struct Scale: View {
+fileprivate struct Scale: View {
     @State private var applyEffect = false
     
     var body: some View {

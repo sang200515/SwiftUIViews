@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Menu_Intro: View {
+fileprivate struct Menu_Intro: View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("Menu",

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Path_RelativeArc: View {
+fileprivate struct Path_RelativeArc: View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("Path", subtitle: "Relative Arc", desc: "Use .addRelativeArc to create a portion of a circle.",

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct VStack_Nesting: View {
+fileprivate struct VStack_Nesting: View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("VStack",

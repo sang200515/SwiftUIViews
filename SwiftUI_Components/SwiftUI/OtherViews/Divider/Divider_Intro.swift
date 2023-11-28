@@ -5,7 +5,7 @@
 //6/15/19.
 import SwiftUI
 
-private struct Divider_Intro : View {
+fileprivate struct Divider_Intro : View {
     var body: some View {
         VStack(spacing: 15) {
             Text("Divider")

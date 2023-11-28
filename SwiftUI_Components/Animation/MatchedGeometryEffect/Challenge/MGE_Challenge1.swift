@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MGE_Challenge1: View {
+fileprivate struct MGE_Challenge1: View {
     @Namespace var namespace
     @State private var showParks = false
     @State private var searchText = ""

@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Searchable_Filter: View {
+fileprivate struct Searchable_Filter: View {
     private let names = ["Chris", "Paul", "Scott", "Donny", "Antoine", "Denise", "Sean", "Mark", "Rod", "Chase"]
     @State private var filteredNames: [String] = []
     @State private var nameSearch = ""

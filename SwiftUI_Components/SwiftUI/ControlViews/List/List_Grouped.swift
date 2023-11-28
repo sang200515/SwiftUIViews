@@ -1,7 +1,7 @@
 //6/17/19.
 import SwiftUI
 
-private struct List_Grouped : View {
+fileprivate struct List_Grouped : View {
     var data = ["Grouped List Style", "This list is using the group list style", "Evans", "Lemuel James Guerrero", "Mark", "Durtschi", "Chase", "Adam", "Rodrigo"]
     
     var body: some View {

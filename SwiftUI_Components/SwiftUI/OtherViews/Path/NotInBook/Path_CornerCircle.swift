@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Path_CornerCircle: View {
+fileprivate struct Path_CornerCircle: View {
     var body: some View {
         ZStack {
             LinearGradient(gradient: Gradient(colors: [Color.pink, Color.purple]), startPoint: .topTrailing, endPoint: .bottomLeading)

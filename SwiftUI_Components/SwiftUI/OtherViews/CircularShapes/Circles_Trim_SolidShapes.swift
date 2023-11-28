@@ -5,7 +5,7 @@
 //9/3/19.
 import SwiftUI
 
-private struct Circles_Trim_SolidShapes: View {
+fileprivate struct Circles_Trim_SolidShapes: View {
     @State private var circleProgress: CGFloat = 1.0
     private var circlePercentage: Int { Int(circleProgress * 100.0) }
     

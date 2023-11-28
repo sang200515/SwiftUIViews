@@ -5,7 +5,7 @@
 //6/27/19.
 import SwiftUI
 
-private struct Text_BaselineOffset : View {
+fileprivate struct Text_BaselineOffset : View {
     var body: some View {
         VStack(spacing: 20) {
             Image("BaselineOffset")

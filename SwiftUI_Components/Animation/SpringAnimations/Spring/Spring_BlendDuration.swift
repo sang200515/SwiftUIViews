@@ -1,7 +1,7 @@
 // 9/30/19.
 import SwiftUI
 
-private struct Spring_BlendDuration: View {
+fileprivate struct Spring_BlendDuration: View {
     @State private var change = false
     @State private var response = 2.0
     @State private var blendDuration = 1.0

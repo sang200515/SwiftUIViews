@@ -1,7 +1,7 @@
 // 2/3/20.
 import SwiftUI
 
-private struct Curve_CheckYourUnderstanding2: View {
+fileprivate struct Curve_CheckYourUnderstanding2: View {
     @State private var change = false
     
     var body: some View {

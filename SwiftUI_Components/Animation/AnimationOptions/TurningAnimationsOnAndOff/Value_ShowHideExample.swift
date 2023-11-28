@@ -5,7 +5,7 @@
 // 12/4/19.
 import SwiftUI
 
-private struct Value_ShowHideExample: View {
+fileprivate struct Value_ShowHideExample: View {
     @State private var showCard = false
     @State private var animateOnChange = false
     var body: some View {

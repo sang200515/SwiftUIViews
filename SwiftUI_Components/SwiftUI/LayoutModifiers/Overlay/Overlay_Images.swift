@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Overlay_Images: View {
+fileprivate struct Overlay_Images: View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("Overlay", subtitle: "Over Images with Alignment",

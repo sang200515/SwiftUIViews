@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct List_SwipeActions_Options: View {
+fileprivate struct List_SwipeActions_Options: View {
     var body: some View {
         VStack(spacing: 20.0) {
             HeaderView("List",

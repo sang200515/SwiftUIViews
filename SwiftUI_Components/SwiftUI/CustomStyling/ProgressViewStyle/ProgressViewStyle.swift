@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct ProgressViewStyle_Intro: View {
+fileprivate struct ProgressViewStyle_Intro: View {
     @State private var progressAmount: CGFloat = 0.25
     
     var body: some View {

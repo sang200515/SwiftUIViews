@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct LazyVGrid_ColumnAndRowSpacing: View {
+fileprivate struct LazyVGrid_ColumnAndRowSpacing: View {
     @State private var columnSpacing: CGFloat = 10
     @State private var rowSpacing: CGFloat = 20
     

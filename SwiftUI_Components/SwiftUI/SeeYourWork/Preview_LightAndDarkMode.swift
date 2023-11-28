@@ -1,7 +1,7 @@
 //9/27/19.
 import SwiftUI
 
-private struct Preview_LightAndDarkMode: View {
+fileprivate struct Preview_LightAndDarkMode: View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("Previews",

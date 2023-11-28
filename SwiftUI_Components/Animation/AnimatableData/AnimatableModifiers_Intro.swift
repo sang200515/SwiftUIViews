@@ -1,7 +1,7 @@
 // Copyright © 2021 Big Mountain Studio. All rights reserved. Twitter: @BigMtnStudi
 import SwiftUI
 
-private struct AnimatableModifiers_Intro: View {
+fileprivate struct AnimatableModifiers_Intro: View {
     @State private var largerFont = false
     
     var body: some View {

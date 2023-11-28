@@ -5,7 +5,7 @@
 //11/2/19.
 import SwiftUI
 
-private struct LongPress_Intro: View {
+fileprivate struct LongPress_Intro: View {
     @State private var isLongPress = false
     @State private var isPressing = false
     

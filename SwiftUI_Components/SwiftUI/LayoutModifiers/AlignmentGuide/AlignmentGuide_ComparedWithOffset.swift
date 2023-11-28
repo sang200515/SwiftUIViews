@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct AlignmentGuide_ComparedWithOffset: View {
+fileprivate struct AlignmentGuide_ComparedWithOffset: View {
     var body: some View {
         VStack(spacing: 25) {
             HeaderView("AlignmentGuide",

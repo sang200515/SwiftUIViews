@@ -5,7 +5,7 @@
 //9/30/19.
 import SwiftUI
 
-private struct ZStack_BackgroundColor_Solution: View {
+fileprivate struct ZStack_BackgroundColor_Solution: View {
     var body: some View {
         ZStack {
             Color.gray

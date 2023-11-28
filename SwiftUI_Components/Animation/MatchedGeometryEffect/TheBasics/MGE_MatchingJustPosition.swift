@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MGE_MatchingJustPosition: View {
+fileprivate struct MGE_MatchingJustPosition: View {
     @Namespace var namespace
     
     var body: some View {

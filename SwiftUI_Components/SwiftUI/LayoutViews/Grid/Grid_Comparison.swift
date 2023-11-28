@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Grid_Comparison: View {
+fileprivate struct Grid_Comparison: View {
     var body: some View {
         VStack {
             HStack {

@@ -5,7 +5,7 @@
 //6/27/19.
 import SwiftUI
 
-private struct Text_LineSpacing : View {
+fileprivate struct Text_LineSpacing : View {
     var body: some View {
         VStack(spacing: 5) {
             Text("Text").font(.largeTitle)

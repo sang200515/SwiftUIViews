@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct DatePicker_DisplayedComponents: View {
+fileprivate struct DatePicker_DisplayedComponents: View {
     @State private var date = Date()
     
     var body: some View {

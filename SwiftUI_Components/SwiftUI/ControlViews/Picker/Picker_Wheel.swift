@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Picker_Wheel: View {
+fileprivate struct Picker_Wheel: View {
     @State private var yourName = "Mark"
     
     var body: some View {

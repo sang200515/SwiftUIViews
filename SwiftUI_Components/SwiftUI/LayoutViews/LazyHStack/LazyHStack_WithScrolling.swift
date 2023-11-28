@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct LazyHStack_WithScrolling: View {
+fileprivate struct LazyHStack_WithScrolling: View {
     @State private var whatAppeared = ""
     
     var body: some View {

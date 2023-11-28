@@ -5,7 +5,7 @@
 //9/3/19.
 import SwiftUI
 
-private struct Rotation_Anchor: View {
+fileprivate struct Rotation_Anchor: View {
     @State private var degrees = -35.0
     var body: some View {
         ScrollView {

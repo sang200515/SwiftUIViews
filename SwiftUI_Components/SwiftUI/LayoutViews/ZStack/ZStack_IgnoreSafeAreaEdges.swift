@@ -5,7 +5,7 @@
 //6/15/19.
 import SwiftUI
 
-private struct ZStack_IgnoreSafeAreaEdges : View {
+fileprivate struct ZStack_IgnoreSafeAreaEdges : View {
     var body: some View {
         ZStack {
             Color.gray

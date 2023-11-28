@@ -5,7 +5,7 @@
 //9/6/19.
 import SwiftUI
 
-private struct Rotation_RotationEffectCompare: View {
+fileprivate struct Rotation_RotationEffectCompare: View {
     @State private var applyEffect = false
     
     var body: some View {

@@ -5,7 +5,7 @@
 // 12/3/19.
 import SwiftUI
 
-private struct Interpolating_InitialVelocity: View {
+fileprivate struct Interpolating_InitialVelocity: View {
     @State private var change = false
     
     var body: some View {

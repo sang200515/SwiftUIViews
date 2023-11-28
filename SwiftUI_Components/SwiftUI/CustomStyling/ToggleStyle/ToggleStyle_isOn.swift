@@ -5,7 +5,7 @@
 //9/13/19.
 import SwiftUI
 
-private struct ToggleStyle_isOn: View {
+fileprivate struct ToggleStyle_isOn: View {
     @State private var toggleState = true
     @State private var toggleState2 = false
     var body: some View {

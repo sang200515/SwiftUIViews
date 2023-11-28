@@ -5,7 +5,7 @@
 //6/29/19.
 import SwiftUI
 
-private struct TextField_ContentType : View {
+fileprivate struct TextField_ContentType : View {
     @State private var textFieldData = ""
 
     // TODO: Include this in the book when we can get suggestions to show up in Simulator.

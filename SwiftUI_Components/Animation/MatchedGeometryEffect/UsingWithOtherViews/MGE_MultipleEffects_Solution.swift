@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct MGE_MultipleEffects_Solution: View {
+fileprivate struct MGE_MultipleEffects_Solution: View {
     @State private var showHelp = false
     @State private var showText = false
     @Namespace var namespace

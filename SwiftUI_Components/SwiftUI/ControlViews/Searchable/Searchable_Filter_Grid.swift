@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct Searchable_Filter_Grid: View {
+fileprivate struct Searchable_Filter_Grid: View {
     @State private var devs: [Developer] = []
     @State private var searchText = ""
     

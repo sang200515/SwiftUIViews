@@ -1,6 +1,6 @@
 import SwiftUI
 
-private struct UtilityModel: Identifiable {
+fileprivate struct UtilityModel: Identifiable {
     let id = UUID()
     var utility = ""
     var q1 = ""

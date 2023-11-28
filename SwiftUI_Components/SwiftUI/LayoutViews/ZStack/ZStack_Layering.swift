@@ -5,7 +5,7 @@
 //8/11/19.
 import SwiftUI
 
-private struct ZStack_Layering: View {
+fileprivate struct ZStack_Layering: View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("ZStack",

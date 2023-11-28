@@ -1,7 +1,7 @@
 //6/13/19.
 import SwiftUI
 
-private struct TextField_Intro : View {
+fileprivate struct TextField_Intro : View {
     @State private var textFieldData = ""
     
     var body: some View {

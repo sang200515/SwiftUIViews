@@ -5,7 +5,7 @@
 //8/18/19.
 import SwiftUI
 
-private struct ContextMenu_Intro: View {
+fileprivate struct ContextMenu_Intro: View {
     var body: some View {
         VStack(spacing: 20) {
             HeaderView("ContextMenu",

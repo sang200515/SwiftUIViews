@@ -5,7 +5,7 @@
 //9/2/19.
 import SwiftUI
 
-private struct CornerRadius_FullyRoundedSides: View {
+fileprivate struct CornerRadius_FullyRoundedSides: View {
     var body: some View {
         VStack(spacing: 15) {
             Text("Corner Radius").font(.largeTitle)
