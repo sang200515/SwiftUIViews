@@ -843,7 +843,8 @@
 		947D41162B16281D0064669F /* ColletCollection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 947D410B2B16281D0064669F /* ColletCollection.swift */; };
 		947D41172B16281D0064669F /* ViewModifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 947D410D2B16281D0064669F /* ViewModifiers.swift */; };
 		947D41182B16281D0064669F /* ScrollDetector.swift in Sources */ = {isa = PBXBuildFile; fileRef = 947D410E2B16281D0064669F /* ScrollDetector.swift */; };
-		947D411A2B1628410064669F /* ContentView02.swift in Sources */ = {isa = PBXBuildFile; fileRef = 947D41192B1628410064669F /* ContentView02.swift */; };
+		947D411A2B1628410064669F /* AnimatedStickyHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 947D41192B1628410064669F /* AnimatedStickyHeaderView.swift */; };
+		947D411C2B1643CA0064669F /* PopoverView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 947D411B2B1643CA0064669F /* PopoverView1.swift */; };
 		9486C2B82B0E4C27003E651D /* Interactive_Comparison.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C2112B0E4C25003E651D /* Interactive_Comparison.swift */; };
 		9486C2B92B0E4C27003E651D /* Interactive_Popup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C2122B0E4C25003E651D /* Interactive_Popup.swift */; };
 		9486C2BA2B0E4C27003E651D /* Interpolating_CompareStiffnessDamping.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C2142B0E4C25003E651D /* Interpolating_CompareStiffnessDamping.swift */; };
@@ -1959,7 +1960,8 @@
 		947D410B2B16281D0064669F /* ColletCollection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColletCollection.swift; sourceTree = "<group>"; };
 		947D410D2B16281D0064669F /* ViewModifiers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewModifiers.swift; sourceTree = "<group>"; };
 		947D410E2B16281D0064669F /* ScrollDetector.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScrollDetector.swift; sourceTree = "<group>"; };
-		947D41192B1628410064669F /* ContentView02.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView02.swift; sourceTree = "<group>"; };
+		947D41192B1628410064669F /* AnimatedStickyHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatedStickyHeaderView.swift; sourceTree = "<group>"; };
+		947D411B2B1643CA0064669F /* PopoverView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverView1.swift; sourceTree = "<group>"; };
 		9486C2112B0E4C25003E651D /* Interactive_Comparison.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Interactive_Comparison.swift; sourceTree = "<group>"; };
 		9486C2122B0E4C25003E651D /* Interactive_Popup.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Interactive_Popup.swift; sourceTree = "<group>"; };
 		9486C2142B0E4C25003E651D /* Interpolating_CompareStiffnessDamping.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Interpolating_CompareStiffnessDamping.swift; sourceTree = "<group>"; };
@@ -4806,6 +4808,7 @@
 			isa = PBXGroup;
 			children = (
 				947D40F42B1624630064669F /* BookHome.swift */,
+				947D411B2B1643CA0064669F /* PopoverView1.swift */,
 				947D41002B1628060064669F /* AnimatedStickyHeaderView */,
 			);
 			path = IosExample;
@@ -4814,7 +4817,7 @@
 		947D41002B1628060064669F /* AnimatedStickyHeaderView */ = {
 			isa = PBXGroup;
 			children = (
-				947D41192B1628410064669F /* ContentView02.swift */,
+				947D41192B1628410064669F /* AnimatedStickyHeaderView.swift */,
 				947D41012B16281C0064669F /* Model */,
 				947D410C2B16281D0064669F /* Utilities */,
 				947D41032B16281D0064669F /* View */,
@@ -6326,6 +6329,7 @@
 				940D60332B0D05660075AA28 /* LazyVGrid_FlexibleWidth.swift in Sources */,
 				9486C2D82B0E4C27003E651D /* Popup_AddThePopup.swift in Sources */,
 				940D60C12B0D05670075AA28 /* BlendMode_Examples5.swift in Sources */,
+				947D411C2B1643CA0064669F /* PopoverView1.swift in Sources */,
 				9486C3E72B0E4D51003E651D /* MGE_Grid_DuplicateIds.swift in Sources */,
 				940D60AA2B0D05660075AA28 /* CornerRadius_FullyRoundedSides.swift in Sources */,
 				940D628A2B0D05690075AA28 /* Text_Tracking.swift in Sources */,
@@ -6743,7 +6747,7 @@
 				940D61522B0D05670075AA28 /* RoundedRectangle_CornerSize.swift in Sources */,
 				940D61E02B0D05680075AA28 /* TextField_Placeholder.swift in Sources */,
 				9486C2DA2B0E4C27003E651D /* Popup_AddAnimation.swift in Sources */,
-				947D411A2B1628410064669F /* ContentView02.swift in Sources */,
+				947D411A2B1628410064669F /* AnimatedStickyHeaderView.swift in Sources */,
 				940D618B2B0D05680075AA28 /* Searchable_Filter.swift in Sources */,
 				940D60812B0D05660075AA28 /* AccentColor_AppliedToParent.swift in Sources */,
 				940D62A52B0D05800075AA28 /* HeaderView.swift in Sources */,

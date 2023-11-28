@@ -7,7 +7,7 @@
 
 import Foundation
 import SwiftUI
-struct ContentView2: View {
+private struct AnimatedStickyHeaderView: View {
     var body: some View {
         GeometryReader {
             let size = $0.size
@@ -21,7 +21,7 @@ struct ContentView2: View {
 }
 
 #Preview {
-    ContentView2()
+    AnimatedStickyHeaderView()
 }
 fileprivate struct BookHome: View {
     

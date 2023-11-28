@@ -90,8 +90,34 @@ struct HeaderView4: View {
     }
 }
 
-extension HeaderView4 {
+private extension HeaderView4 {
     var minimumHeaderHeight: CGFloat {65 + safeArea.top}
     var headerHeight: CGFloat {(size.height * 0.3) + safeArea.top}
     var progress: CGFloat {max(min(-offsetY / (headerHeight - minimumHeaderHeight), 1), 0)}
+}
+private extension View {
+    func moveText(_ progress: CGFloat, _ headerHeight: CGFloat, _ minimumHeaderHeight: CGFloat) -> some View {
+        self
+            .hidden()
+            .overlay {
+                GeometryReader { proxy in
+                    let rect = proxy.frame(in: .global)
+                    let midY = rect.midY
+                    let halfScaledTextHeight = (rect.height * 0.85) / 2
+                    let profileImageHeight = (headerHeight * 0.5)
+                    let scaledImageHeight = profileImageHeight * 0.3
+                    let halfScaledImageHeight = scaledImageHeight / 2
+                    let vStackSpacing: CGFloat = 4.5
+                    let resizedOffsetY = (midY - (minimumHeaderHeight - halfScaledTextHeight - vStackSpacing - halfScaledImageHeight))
+                    
+                    self
+                        .scaleEffect(1 - (progress * 0.15))
+                        .offset(y: -resizedOffsetY * progress)
+                }
+            }
+    }
+    
+    func profileNameStyling() -> some View {
+        self.modifier(ProfileNameModifier())
+    }
 }
