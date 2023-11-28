@@ -830,6 +830,8 @@
 		947D40E72B14EFD10064669F /* SwiftUICarousel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 947D40E62B14EFD00064669F /* SwiftUICarousel.swift */; };
 		947D40E92B14F30C0064669F /* LoadingView3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 947D40E82B14F30C0064669F /* LoadingView3.swift */; };
 		947D40EB2B14F4390064669F /* VideoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 947D40EA2B14F4390064669F /* VideoView.swift */; };
+		947D40ED2B14F63F0064669F /* QuestionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 947D40EC2B14F63F0064669F /* QuestionView.swift */; };
+		947D40EF2B14F8140064669F /* FastingTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 947D40EE2B14F8140064669F /* FastingTimer.swift */; };
 		9486C2B82B0E4C27003E651D /* Interactive_Comparison.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C2112B0E4C25003E651D /* Interactive_Comparison.swift */; };
 		9486C2B92B0E4C27003E651D /* Interactive_Popup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C2122B0E4C25003E651D /* Interactive_Popup.swift */; };
 		9486C2BA2B0E4C27003E651D /* Interpolating_CompareStiffnessDamping.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9486C2142B0E4C25003E651D /* Interpolating_CompareStiffnessDamping.swift */; };
@@ -1932,6 +1934,8 @@
 		947D40E62B14EFD00064669F /* SwiftUICarousel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUICarousel.swift; sourceTree = "<group>"; };
 		947D40E82B14F30C0064669F /* LoadingView3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingView3.swift; sourceTree = "<group>"; };
 		947D40EA2B14F4390064669F /* VideoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoView.swift; sourceTree = "<group>"; };
+		947D40EC2B14F63F0064669F /* QuestionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionView.swift; sourceTree = "<group>"; };
+		947D40EE2B14F8140064669F /* FastingTimer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FastingTimer.swift; sourceTree = "<group>"; };
 		9486C2112B0E4C25003E651D /* Interactive_Comparison.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Interactive_Comparison.swift; sourceTree = "<group>"; };
 		9486C2122B0E4C25003E651D /* Interactive_Popup.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Interactive_Popup.swift; sourceTree = "<group>"; };
 		9486C2142B0E4C25003E651D /* Interpolating_CompareStiffnessDamping.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Interpolating_CompareStiffnessDamping.swift; sourceTree = "<group>"; };
@@ -4765,6 +4769,8 @@
 				947D40E62B14EFD00064669F /* SwiftUICarousel.swift */,
 				947D40E82B14F30C0064669F /* LoadingView3.swift */,
 				947D40EA2B14F4390064669F /* VideoView.swift */,
+				947D40EC2B14F63F0064669F /* QuestionView.swift */,
+				947D40EE2B14F8140064669F /* FastingTimer.swift */,
 				9495797D2B1230A2002DC2D3 /* CustomCarouselSlider.swift */,
 				9495797F2B139AD7002DC2D3 /* LoginIntroView.swift */,
 			);
@@ -5896,6 +5902,7 @@
 				940D61F42B0D05680075AA28 /* TextField_OnChange.swift in Sources */,
 				940D62412B0D05690075AA28 /* List_HeaderFooter_Automatic.swift in Sources */,
 				940D5FCB2B0D05650075AA28 /* ViewBuilderExample.swift in Sources */,
+				947D40ED2B14F63F0064669F /* QuestionView.swift in Sources */,
 				940D5FAE2B0D05650075AA28 /* Popover_FromBool.swift in Sources */,
 				940D62852B0D05690075AA28 /* Text_CombiningModifiedText.swift in Sources */,
 				9486C3C02B0E4D51003E651D /* Curve_CurveBelow.swift in Sources */,
@@ -6462,6 +6469,7 @@
 				940D62702B0D05690075AA28 /* Text_LineLimit.swift in Sources */,
 				9486C2CF2B0E4C27003E651D /* Spring_Dampen.swift in Sources */,
 				9486C30D2B0E4C27003E651D /* Value_Introduction.swift in Sources */,
+				947D40EF2B14F8140064669F /* FastingTimer.swift in Sources */,
 				940D628B2B0D05690075AA28 /* Text_AllowsTightening.swift in Sources */,
 				940D5FC92B0D05650075AA28 /* DepthStack.swift in Sources */,
 				9486C3E22B0E4D51003E651D /* MGE_View1_To_View2_Problem.swift in Sources */,
